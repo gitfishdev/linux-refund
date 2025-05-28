@@ -95,7 +95,7 @@ Example G:
 - User sold 200 LINUX tokens for 0.15 SOL
 - User bought 400 LINUX tokens for 0.2 SOL
 - User sold 1200 LINUX tokens for 0.15 SOL
-- User is eligible for a maximum refund of 1 - 0.15 - 0.2 - 0.15 = 0.5 SOL (less if claims exceed recovered assets)
+- User is eligible for a maximum refund of 1 - 0.15 + 0.2 - 0.15 = 0.9 SOL (less if claims exceed recovered assets)
 
 Example H:
 - User bought 1000 LINUX tokens with 1 SOL
