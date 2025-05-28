@@ -6,16 +6,16 @@ Please note that this is a living document. Our approach and results may change 
 
 ## Context
 
-On 28 May 2025, we announced that we would be retiring the $LINUX token and refunding users who participated in the $LINUX token launch. See our post <TOADD> for details.
+On 28 May 2025, we announced that we would be retiring the $LINUX token and refunding users who participated in the $LINUX token launch. See our post **TOADD** for details.
 
 ## Recovered assets
 
 As of the writing of this document, we (the GitFish team) are in possession of:
 
-- <TOADD> SOL withdrawn from the liquidity pool
+- **TOADD** SOL withdrawn from the liquidity pool
 - 438.24 SOL in auction fees, transferred to the admin wallet after token launch
 
-25% of the auction fees, or 109.56 SOL, has been pledged as a referral bonus to users who referred their friends. In other words, a total of <TOADD> + 109.56 = <TOADD> SOL is recovered and can be returned to users. 
+25% of the auction fees, or 109.56 SOL, has been pledged as a referral bonus to users who referred their friends. In other words, a total of **TOADD** + 109.56 = **TOADD** SOL is recovered and can be returned to users. 
 
 All present and future LINUX tokens in our wallet will not be redistributed and should be considered retired. 
 
