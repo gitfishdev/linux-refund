@@ -1,6 +1,8 @@
 # Data
 
-All data and calculations are WIP. Source code for supporting calculations will be made available shortly.
+All data and calculations are WIP. 
+
+More results, along with source code for supporting calculations, will be made available once ready.
 
 ## Directory
 
