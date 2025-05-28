@@ -1,0 +1,3837 @@
+[
+  {
+    "address": "vmBZa4PXsqpA67ioijeB1vFPNZua3pgwzBu4LsUTGFe",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "9HDnQ9poQxBxiCtptaGS76M4UrPgktUeQWzmzwk42yXE",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "AQo6wyzgy5sWEXS2ko3iwJvhqnF9zxMCgsHNAnR3fMqR",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "GEsaJZ7BokZ82ygB1DyyTijcua5wfDVodxeVsQkohVtK",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "ZoUiisAHM6VQGttLcQfULTwwcLXnny9oN5XD9G3UehX",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "2KttU6hcxs11AXSpDtLfnGxSJFxpNsgbwN1fcKDSAKhp",
+    "amount": 8.356491083210525,
+    "refund": 0.10999999999999999
+  },
+  {
+    "address": "FwCEQpK8ucWm27DUpZPqx4hFMjGV56iY1of5c7dXLFCL",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "BnovRVL842HESuVC1J3sR5mBaKW2ChsEhDH5CpSDvEQg",
+    "amount": 0.07596810075645932,
+    "refund": 0.001
+  },
+  {
+    "address": "9d5t9wcYbgc4ACDB16y3g8YmLEz2NgMcd6n5B8nXNbQN",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "DwNrePA7FrtFxM8Jx2zuLkyrtnEfgyuRCV8R6UoEGLnf",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "5C3VFhyqqNuxJYr55Kq5eApThdYShdeDyv1aGoGFareM",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "3dLs86SBnxXkDGXvphYhgsXp4b5iRjZdo5zCiUd2FfcF",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "5w4R83csr8mac8cRuX3MFGSoJFJUoQmWdrHrh5tdy9kh",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "3sSaxsDthaDVrUJQ6h1kVPCfvasoJFsG4Dbvi1LL8fPk",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "7bwWdWA8GjRWTuhHzVsuVWnpUD8WwHAAWrghYnFdFdQk",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "AYQZEg9evn8nvhpLSnxJ3vDMZRMX6ZJ7FWjtDQxmgru3",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "AwVYZHeDDk5fFPhw2gZFGL7HbdSbcWDkbxnhGvaMF6W8",
+    "amount": 843.2459183966985,
+    "refund": 11.1
+  },
+  {
+    "address": "DwiGuryo543EYKSYPrLrsU4nqDFZjbbMgNMje7eUPfjS",
+    "amount": 83.56491083210526,
+    "refund": 1.1
+  },
+  {
+    "address": "9jPjeZYH3HsryToEuksErs2PzNjmVS9UEeKUvkSHWo8L",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "28825K3yfxFwQXTPxkxwe3K4bVtbA4z8Myx3N2zm4R6J",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "8ze839ftbGrMKvWiSCscMA2PDNNR6gTjmJBoKe3WuuqY",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "8WsHk9gNYQVNYpZsTCXsxKdgxKb91HK1zXvbzjMaEwuP",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "bfTBiMJTRdu8JPNXK9CuBSjsXKakzbFb9HJJ6v5PD1y",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "6pwtVUSEZhLB3tfpVfHdyBqZSgAxVunqUgZYQiEEmsog",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "EF6Tebabk4mjv11uxxFCpevcJEmQRhXvgSnQhjRxp7yD",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "4v8NifEdokmUvBtZgb6F9eHpdKcTi9rots3zzhjyr8hp",
+    "amount": 1899.2025189114831,
+    "refund": 25
+  },
+  {
+    "address": "FZYhmYCj2wfAYcWkZBSFffi7T6uGn3H62veZhyhFkgHJ",
+    "amount": 0.07596810075645932,
+    "refund": 0.001
+  },
+  {
+    "address": "7xUZUSoDtf8HP9wc8JtT8EHJuuaCxEHqwHCa5SkLYfnr",
+    "amount": 75.20841974889473,
+    "refund": 0.99
+  },
+  {
+    "address": "J2dEKMCV9vDtsAcnUgAED99n3QvQ48KUqNL6YYyiDYdC",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "DdCb4y46dVGyrHDDYnL6Q24pdbyk657H9bzojuucR8Yv",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "8TR7qVMBUXEmsYZbGU5m7hCTXWJyRD5o2dapUixYc2Fv",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "5atRxUTEXQEkLNXLA4wYrhR2wgiHNSJGMiRJq9iB2nDS",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "8RymtKU9jNXuE6oANKrDWoNjrMpYNmKHafMBAS9YdcoC",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "21WtZJeopGq9Cr9CTY3PpmALMbevZBM35RPzHwsN8JB9",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "3mj7wQFztJX8mvVFQne6Z7MyUXe7mzvXqXMtz1TPsAJk",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "H6swKrJhLdesPpB7EB3mPJ89frm38d2bwoJK31CLNxer",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "AiQ4XR51smqC9v1fBMS53vWZERb1f9hnVoqGbYjQ6Afr",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "HKc2kdVXokcRzu7YjGVwqspm2Fm7WHBcmMEv1PokZRZW",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "331fGoGmNosWoHsvTfXSGQCwDbKJBPkVQCcQy9S5YGFc",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "AiAx1u8jdaVzCWKxEao9zjSbvedYC4eA9T7pY6UZuKV6",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "78A6RAkk8ovvDB6vjKTnzNCVtByCY97kEH2TLENcxTrD",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "A52DM8iGrnwZGzottMiQ3kwSTEhfTHvp7WxE2VsvUVqA",
+    "amount": 11.395215113468899,
+    "refund": 0.15
+  },
+  {
+    "address": "3tuzkZtBSUVEuDZdL95ftXPgf9BuDgDB852w1UPoc111",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "6kCHMns5GRugt31hkEyGBG9LyJxDvGZB1bE4EUr4tQSE",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "95gAMpN5hy7iQ5aiGgUH8iHcNJaSwwJgVFA2uHAjp4Ky",
+    "amount": 2.2790430226937795,
+    "refund": 0.029999999999999995
+  },
+  {
+    "address": "GmMJHHStzH9XqYozt5TYqzZbJavZk1My4BWnHoXznicV",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "ATqWzVxJeUiFVVGqD9RpR3NaKSe2pdKvWpQDTkqa3u1Y",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "AaDzowX9eQiRbWtkH5mMqTsPhepgwrhjMNS9dUHRAZGR",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "7LbNfsChz5HRKMmQuSkTNLbx9Z9Jyx254gbT1Pt59HDC",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "5VV8cR6gJUUB2d4YRqH7g7EFCvUTyYYJgttmM3xZDs1R",
+    "amount": 18.99202518911483,
+    "refund": 0.25
+  },
+  {
+    "address": "G6Yf5bphcrFyiWH2uSxsVLNtat62rSh3ZWmXaPL3CyrU",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "E6puu5m4VjiHd8veQyP9wEtdakVH8tj3EQhskerHcfFE",
+    "amount": 759.6810075645932,
+    "refund": 10
+  },
+  {
+    "address": "9m1myibCXxJU2CHXNfRjoxbgDCAKS1PRnjPqvfTJb3mu",
+    "amount": 6.837129068081339,
+    "refund": 0.09
+  },
+  {
+    "address": "CBmQLxRbodtYSsob91MchYN6tKRBdru54srwLtNzn2G7",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "4Bkknyn6F2nFsMgJRACAhh8ZDULW2aMNipPZrtgFG9KF",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "yrz8bJrYUBxQXCVzc9cKnvyfGXBF6j5oWcT9x4aMpWg",
+    "amount": 1519.3620151291864,
+    "refund": 20
+  },
+  {
+    "address": "FfqG7sq36WF9rLM5sAL3WwVu5UyvaGBCyr2KE62McFha",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "3i9Uj9CYAaFZd9FrG2cvEr3Vi1zYui5zuJvPbQqTG65R",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "DAQXuxQ9JZuWv6qF4ztKz5fbi3KzNR4YDK6GFSAC8Msr",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "HJaeaotyCzpHk62N4sQjoo3uX1kt5svLywwKR6c3t51B",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "DiYadDrFGXTBaWqs5wabgn59uyVfnhUfXWT5XuKpXnHK",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "Cr4Cc4QLzeNF6grxvnBybP2v6J38GLfJTh1GW5b4Di4p",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "7gFX2thNesih64AUEPqNnijCVuBe11vDXJ74BmpD2s7j",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "C3PzNTKDBAy5dRjfr8AGX77RZ9JLKRNpRaa7fC7n2YzX",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "CFnd5RQsX68mJyALaEbmzgyB9rEhfwTELf8vsfMdy7UA",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "7cLXS1j9z42jKM9bEpX2NAhoXj5FwUpnmVwkJ23gXk7K",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "4poqPGwCNEWWMhpvSKPpyKzcwAJYfkLy9G5c2HVpz2T5",
+    "amount": 755.479971592761,
+    "refund": 9.9447
+  },
+  {
+    "address": "9BvTtTUbnMgGyS2Z6VFnc5JuaVnoVrXCsVA8YNDLbCyc",
+    "amount": 455.8086045387559,
+    "refund": 5.999999999999999
+  },
+  {
+    "address": "F8UPsVAmr6ygADSZvrvBerSHmv5G642jirXRC3VGzM5N",
+    "amount": 0.6077448060516746,
+    "refund": 0.008
+  },
+  {
+    "address": "52TbcDd4GEkTHA61KGuDka2zF1JRk3XCxr4aW55q9EbJ",
+    "amount": 30.387240302583727,
+    "refund": 0.39999999999999997
+  },
+  {
+    "address": "G1TzktqMdAybzW7EJGZgg5v4emDM4CcmZ5ovr3z3WoPL",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "2zNpiyHHgwTVCS2KeEMKMpjNUYQgZShXDKnaAk3rHu5a",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "2hTPmYkbRoG3uLpBDC2PjCuaM5jzoRuWtdXyePW8HQSE",
+    "amount": 227.90430226937795,
+    "refund": 2.9999999999999996
+  },
+  {
+    "address": "DBeR2RsjqpZSGrwmYaxJbuQpF6ygf7coNkNH3AUBNSjq",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "3Sd5jAUjCH39pPUUfghdiVBdcBTYmrgw9LjFe2gMJiZo",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "ZUfDA8NNJ5JfacAr9XJTEzXJU3LhXwQpMDa4Bopxw7o",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "BL5PkzdpRkyVPxeSNa4Wb13i9vG4y8kaP9SUXq1QVZk5",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "AedXBNbQfE79VbLFLhxpLmMKjx1RimnbLqi8zUQUT9Ke",
+    "amount": 11.395215113468899,
+    "refund": 0.15
+  },
+  {
+    "address": "2UA4fnzhbxXNoNpHEW7WMByAEKDoMUinGzyst9iwVAeV",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "5GiVbRbPEoi9sGuGB7Hmzg618TCYiHWpCSHqoVjxeJn7",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "HP22LLjCNnompUjiTrpQ1ZjkjDKgTibFrpBcAcKo9wDE",
+    "amount": 341.85645340406694,
+    "refund": 4.5
+  },
+  {
+    "address": "DhakoEtCVvuzA2o2Q388oyxLHX57MxC2SDMaTzHZ64ae",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "3wHRsoqPANyoJuowdX2rb7TiYzb6xJcbMsdh9bUiNuTT",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "4MaBxNUtuLk2qe9wTVL7xWbYTdxmyVr7Q8ndzD41AzRY",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "J9yiWkuMyuicyjoqud92cP2gV9nJjDJAkDsnaKq9Gmri",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "DEv3agc2Dycg4kKXcuEcmWzmFp5i55toEmWg3UvbLzw4",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "DdfWkD3L4USQ9DDT3Y3vEpfEb26ereW1s9asbuzErDjA",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "3SFyzEep8MYjnZxm3BAB4iJ3aTKYsZnrWumk4zXLJisS",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "8HZxzLA4dbR8ddbp51rALHQ9B26wCvXaErPgKU8ac7iB",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "CAdKZjp54SAk3tAK8kSzFAaH75W5KySq1hv13SGNRxfe",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "91qj5YAX2aLCAtsZ1sQFa8yWmumDHo2TiucPEBk7nFTb",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "8PDpHt3bx4rhcseczTNjCZoqfseUD4KKVx1CDhvqNnk1",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "4tizK82AgksYyRwoAZNJYxstSLFdA4D2EEiKu1NaE2xP",
+    "amount": 30.387240302583727,
+    "refund": 0.39999999999999997
+  },
+  {
+    "address": "7BPhvDtj26GdZFbe5qSytmkaWMnaqerpNz9iSQn3jMBy",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "B52cR6tijDdrWYXch4a7P7NeuWkCgKepqksGGcixggYA",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "C7nNam3EjqDZbg8EoZvgWqZh8rKTqnn8qsBnWF2pF8nM",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "BaPyyJpe77x9i1BJcfNefoRka1dotwMDvj4w2KwHud76",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "Dpe9acwhC152MEF98j499UdAJeqQggYobdtpTanFsNgf",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "H2kLjCPiVuefvFXCVuoT7CMdXXS74uwMigZNZjgmgTqE",
+    "amount": 0.07596810075645932,
+    "refund": 0.001
+  },
+  {
+    "address": "EMDQDRTQZyanv4QSF6FZAtXRS6N17xT9JBumYKu2ysge",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "A1DYktmEJQBSCo4fpq3PBVNaPcU2j6RVBvZr6BY36Rkz",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "7s3WKtoBtTZLbkEdNPpSsmQq9RrzzhvtdmsaUyR2rZij",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "8pigMGZG4esnv7RNEZxW1bEzoN83DS2EjGRmXKtEE4ef",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "68PnSsPX3BXAK3igVqLGLgeWdN94BFQ7ZnMoYU5nFGFW",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "5dATopCEr9C2KZaknmAgNk2mEg8oU1uLJ4bwPRDeJGSn",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "KfWVy59FMYwizEhV6uKVkK4Pnw2vBBjndNdQ6DRw2YE",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "Eis1uovBUtG5ZHPQsVBL95s4apt5ysZbX35Zad8YDuem",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "8512YN9zsphEf9XiiMQZ1dv7fhAFz3XC8DJ6dFfe1Jsq",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "CxwtgLSw5cuE56EKiapkRNipp1SGigeA9jc8KiKMP37U",
+    "amount": 182.32344181550238,
+    "refund": 2.4
+  },
+  {
+    "address": "35QVmg6R1prjHCG7Jr34rXoWMsCDCT5FbNVpGFs7knmE",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "DBrX1D1fLUumKWQLjH52Zg2pWEWnaHpFqpeDU2vQcpwi",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "Auc1Mm4qpnb6fmxirxB3fUWbBkZJ2kNkXT5LH7Eea1VA",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "DHA8KGCJ2j4xaH8BrKY3YxKyrCxFcYwxmREPEVzwjjLh",
+    "amount": 26.588835264760764,
+    "refund": 0.35000000000000003
+  },
+  {
+    "address": "7VbeUMXh2jfHwWftUUrdddCydFPtjAT7fr7h86kuEgie",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "9iCJkRAmcvxAiYDbNTtcbBGSEhXqh4c9RC58C2nf94qv",
+    "amount": 6.077448060516746,
+    "refund": 0.08
+  },
+  {
+    "address": "Eu8W2P5gWBnc1GQzCpuP7SV6Vjee6SxzoEqc7AS1aDC6",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "6sR9GSu5xkwTq1A7q5b44mpZcQbFjw6ob966WYxng12V",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "AmkiFZQtxAK5ScPpj81vHWmeq52oRFatBBpA5U7TWKC9",
+    "amount": 227.90430226937795,
+    "refund": 2.9999999999999996
+  },
+  {
+    "address": "86K4vRLwHMKgeBDV8xksCThgXNA25bvbCoza4y9fDeaW",
+    "amount": 18.99202518911483,
+    "refund": 0.25
+  },
+  {
+    "address": "6kD1oPVKSucQRhMkC2ViEitkD6rcZY4Z5TdUn8i48WQf",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "AegmzByXD7yCmruadLLf63BWZzV84RLqd3mnFw2v7vxz",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "FUz5o6YuYM3PLEXMhYQ8TDMhEMF3x9ikFfXb7uFykE6R",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "5cKjvH2yqH1wbLtES56SbdrEKMQ7rtJ69NQoxJzfK2mE",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "A7jhxpaM7N7gms3inZewguDHYttYRzGUmvJtrLsDi2za",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "G4KviNasL932GWuv85Gis1AgJcyvcTPvMJaNoKMFfUgc",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "An7U3J7sRE845BshnEoXQ17jUb6jYYzbvXG2YMd2vycf",
+    "amount": 10.635534105904306,
+    "refund": 0.14
+  },
+  {
+    "address": "FdyBUUqCzgC5brcu6KVjq4txx2xqqb976jbstfVNApUG",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "98vpPdC5xfTHyXLsH36jMMdHdYQjtqgBsmqw7ujjWhYZ",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "D8NfGEtB7qvHhNyHuaPnxkvknEP9X5x74ez9u3AewdGe",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "78BgN3Y5YiSLui62K654hxWkvkDyLcwpPebEwQiL6Bou",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "QpQFac5xiN82jJSLbsFb3NFRQH9acMJe6khuEy37Dgo",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "HmaDDiGjZqtZ4oEHKBE6Jx7qPRWmGvcjHaqrBYDCij2r",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "98sh2SjVvXjJ1MXRqjNyt4xDzBzWHLPGGjTuhVcor3it",
+    "amount": 9.875853098339713,
+    "refund": 0.13
+  },
+  {
+    "address": "8TUX9nLjDoKMixFCahZQHxhXzPN6rDkowGr2axKsUFG5",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "aePZgSu3zW4ULRMzJ8qq6BE976ZpR62EeYpZHAzjrkr",
+    "amount": 0.9875853098339712,
+    "refund": 0.013
+  },
+  {
+    "address": "99KR71R55cFrRKjqt3qojHgVg2D1dH36fDcDaJnMzj1P",
+    "amount": 0.3798405037822966,
+    "refund": 0.005
+  },
+  {
+    "address": "J4KuvLkLpxPRtXYZC8wLfK6QckYQEokQbncNE1HJZX4Z",
+    "amount": 1.025569360212201,
+    "refund": 0.0135
+  },
+  {
+    "address": "ARKiH7hiYYinWVvHmScdszGL3PKtVdHihJXAM2LZboNA",
+    "amount": 211.9510011105215,
+    "refund": 2.79
+  },
+  {
+    "address": "2GmFVXxSZYyjtDaDs7AhcG34y6ypyN21CcVJBtbGW3Xc",
+    "amount": 2.7348516272325356,
+    "refund": 0.036
+  },
+  {
+    "address": "DAqMDoddCiAoForeEjvFa2ZgvyvrtBkarEbxSiXnabB3",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "4uwLpGngbUJi7DCtTYoA5cQ5cjzXkamSwkR3XDK9daVM",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "FRWmBm96QQCSgVadw6BMQq5u2PgbF6UpjUUejhzNU3mw",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "8F2VgraX9xKiJtx7HjY9rjfyUr3VBuHJbPuZVayCcV67",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "AToHKpNyS1v8BLdQaLkaTdXDVFMWFCu6HZLSULjZ95US",
+    "amount": 759.6810075645932,
+    "refund": 10
+  },
+  {
+    "address": "C7p7ZwFMfJGMERMXqYs8TWJ7TRKmC8mWf9tehfHcree1",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "A6ciu4ZAyvB1tfUQd81Gtwm9NEVcY5jxEQig3dWSnPVR",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "4Lg93fyTb55cqwvn9PKxVW1yqxdBGR8qW9FbfvMcLbqd",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "tHF2CBLKkwrsFtxRB9r73NSLyzvgeoJ5p5g1ERDdipb",
+    "amount": 6.077448060516746,
+    "refund": 0.08
+  },
+  {
+    "address": "HrML2JqLrBZYcysM14AvMbeo7UVcaAqHm2ksRREKViRW",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "GNh3VqxEE92HkxojMcSFoi8FXdBZGokM1oCQ9KjyLDiF",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "96gZFrHqQ68B9CBj4WKpH5yvSyT1ZdAs7TBpQ3phejN",
+    "amount": 3.4185645340406694,
+    "refund": 0.045
+  },
+  {
+    "address": "3DyE2wF56w8N3jQrbKFy8pBbhX54X7jmW6RLsVX5fHvf",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "BAVLd9W4wg4sxGWCXpf47qFjGqXrTPAm5cYRQChfwtZb",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "HeFVe88yg7S9NHBoJiFqTxu12KnD7hd3Hg3cUkd2d3oR",
+    "amount": 167.1298216642105,
+    "refund": 2.2
+  },
+  {
+    "address": "GYfcoN8AhKheaTLuDJgYsP4UgdEww6rKtViCvzoVXvou",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "CX5du5D5M3o8Lhid7mLsWADDg7T5eiE5fEiox7gezeeW",
+    "amount": 2.2790430226937795,
+    "refund": 0.029999999999999995
+  },
+  {
+    "address": "Gwm4trnMAcJrzSfdKCHqcCiS7PZxJoLFsptNLhXYT6Bx",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "Gk5sXfCtM2oLLhs3VKviwfQ4Gw22DDdgYCriTE8N8koP",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "4UHfqpcoXLoxwY1gmxpDCcHSYdGjnV2u1kjUunriBuX2",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "qdXJ2qSgoEjBoTNJtXQodsSPHrcqDUwEJBrcni5s3iL",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "EcpB9azdWzw7Y2jVS6qwnAdKLxCbaVkZBETXR9Cdv11A",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "4Na3HJvS4q6YC8T6tKK46WsT3yMKg5y3kZuNb4GFWmGB",
+    "amount": 5.317767052952153,
+    "refund": 0.07
+  },
+  {
+    "address": "5F9vnYuVsG8ehcbfxgGo8yEztdAa85k7XMcbezqCALQD",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "FMNbvgmADbzZ4BZge8CSotLwvvgDLRvyTod3P1yRj8eu",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "F1B799yQgzb7XXZYo7Xoxt7tQn7nqwTMPfL6xgo5mian",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "8gWAASt3pKY7TqngMLf2Ph19wiqpkXCSPTqMMLBAMKBu",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "fMEafmz2UYFrGyxTSv4QwZnou4UyTh7d16kLLSJn2az",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "4eL4VAisqjjBVK4fy4rDxcrqVynExN19sJNsoYDHmVCv",
+    "amount": 28.86787828745454,
+    "refund": 0.38
+  },
+  {
+    "address": "J6wH8jgWGSKThY3NDU8VHXCoWLcqJWByPSCA3DC91Syk",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "4RRNsn7XBD1QwQFGeQBFfFZ8awfv6e6YzQm5KHmahAjv",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "J8i8pYEXraPwbq4WCP1hUcobJqajc8v5XR4pQtNgsLWS",
+    "amount": 45.580860453875594,
+    "refund": 0.6
+  },
+  {
+    "address": "D6Umf7CjFW29Cv3TyRDUYTETj4SCYwy2qsfN4HWjSR6",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "GvTSfdVE289HTCwZytfxAJKtcx9LhTDKApX7e4vF7ZdD",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "GLWxmP8b6LwqPqHfnyexur1uXMz8oWSPhMbihDQ33SDM",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "8q8Gzj1NAQ3iFFqpo3ZsuiA5SnvmrnXXUvV1Vbyv7L6H",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "3m5e1yBpEG5qFQRQzEN1HVwV8YWzm3EvKBpzbXxKhA73",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "5s3aHmJF2r7iUop6adLA7duvy5VvDRpZP3CJqoDQX2jo",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "7esZ27JoRjLzGofw8p1mMeeNKiNb3Fi1NUS8K9Sufn4W",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "HrB8a8jxussGxfjWdadAdAE6xRPmWFZRhfPKLtkq62jV",
+    "amount": 303.8724030258373,
+    "refund": 4
+  },
+  {
+    "address": "9z1a9uP36A6UCYrK8nqyFArnRBky5c7i1R1xRADGX3Tb",
+    "amount": 6.077448060516746,
+    "refund": 0.08
+  },
+  {
+    "address": "KXXWYTAuEw4PTamkT13nY4kakn2CneMQupjYnELjn6o",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "6y2noFKHa3ZhFgkQzZ5rXdmePHc7wwM4wPR2uo41ycK",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "22s6JZgy2e648iWSUiCL8m48wohYo4TKLp7Sipqev77A",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "9Hj6U8xrBLYBgWVzJ1vpbUAvS54dQCxentYkVNBirFFr",
+    "amount": 4.558086045387559,
+    "refund": 0.05999999999999999
+  },
+  {
+    "address": "CJzR5i6arubQkiV98LKLM5E1qFZof1nYTZfzuuegetoY",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "CMmyoJ6y1oUApaU9rjsETroUANRLPwCyoWhk2E7CAqg6",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "DS41rmG35GYSymZC7SNUEHjBWZX4Vf1tZkjxBWWXQHjr",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "U3kZJZStXAeMVpWXLL6DkX1ix7e6Ss4vuCNF9NcMr4D",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "HBkN4Si5yocJDymb6k6qeGoENVCdhcDaRL5q1UwZ4fb9",
+    "amount": 0.07596810075645932,
+    "refund": 0.001
+  },
+  {
+    "address": "8m2LE43c3sRHGWE5YKMX5HzPuMopMG6bnkcRkgyLAiq6",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "Gkmrofw5uwZz3ccHw2Ejk5YnbG4TbLnrsbMbKEwgiWWS",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "4DfpwF8ZsLPd3BZh8ks8t2VMw5E7jEQZqRt4t6csv6eu",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "KKW5YEwCYDjcpAK7diugAh9fpCheVpcTaEsmmK77HQ5",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "HYtvkCrxLunx92Z4i3xvCrGo2N8SjELQ2a3isbKY9xJ5",
+    "amount": 45.580860453875594,
+    "refund": 0.6
+  },
+  {
+    "address": "rrZfFjEKQU8DvQFyyKfsRRiV3tWxainzL2rZSq4HRvz",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "424J7nhv2BqsLv417NiGPE5Gz8EnvbZx5T2F2z3xyT2F",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "BgVoy6YL2U4etjPhc3RagnopBrwXv641mBeJa4YcZXhS",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "68qaPkQJK8QFczJ3YrBhvzCazc8gzMja2WBzftPi25a6",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "A69HLud2zS576K4NYTdwe8GAp7Q5XETnMuMuCmhyB8V5",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "GsHc5afYiju3HkJDcJSoqQ2Mbr9Vnfk32KerYhpnkJMF",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "6YunH4kvtaboDdeecePMucg4Xs6HnvMwdWbFpjFC8dNS",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "CvFKygp77nb33oUCpACt5BmF6hjL6smPniKrgTy3rW6f",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "AKNTsf8pqC4CQkPAWKHG9WGuXCHxiPuTUtKoTFeEZqrH",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "8q8VNHkXgVUe29rrEzZStpfXjrt6uRKfYwWN2tCnK1j3",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "31X6Wft1FPmQq9j6EhZtVyRf4ZhyKX1YwiQsXFa66kWj",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "J4w5FPPvuLExBv4GeRWcha42x5RSbLYtt1xPDS5bSTVj",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "7b9Wq4iggLo4A4r7GuAhu7nkdsxGNxNFqy2E5cgjz91n",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "2C3UN4k66xe8wWBHR4aT2Ue6a2tMHaQi2hY8qa37U2p9",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "BbURqwRTjZ4979pYDFUzvNA2rS76i9oN8anrtu9jAqre",
+    "amount": 6.68519286656842,
+    "refund": 0.088
+  },
+  {
+    "address": "8SbQEyM9E6acZXruSuDo1btRLu2JLfK6RbK7u3yJyrhv",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "H1rnRUC6EdxnPVAw6qde7JiWMRutw6o55Mf5XbLBS45U",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "5MrqDP57vJuoM8MithkVm3qgRKPsUPkTDpdF57ZktZSn",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "7jPj9Y8cf86YupEd2Ac3PYUrCXuYjwoAf7t3kvPveTQd",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "CH1cjXFt87wwNa4eGEYC65QbAWcd6Kbn58PW13fGf9ms",
+    "amount": 10.255693602122008,
+    "refund": 0.135
+  },
+  {
+    "address": "5KT12tzTpixrrWh92jwPwrEQALJ9yK1EnuVYF36ing48",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "A7dCr2Snv1u71M8c7tCno9niXHVeh5VDCaFC2P2PdLfG",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "B1HxE63QsCgQ7VBrtaU2Fg2NrkRdXjxmiSmx7XuaRWcC",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "uweqj2w7snE3LCv9ydJkwedtxJwgwJ7iqsLFtPXz5xm",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "FLLbmmPv1A41wfXhmbGmXLe8wJUC4oABxZ73ZUq2wyXx",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "4GLovGPXYJ4CcuRq1PEi3eZvcxuP47Mmp5g1U31SRvjp",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "DPeZdwc4Gfu16kg8hbwG1yFSnN7dKh8hKjUpGzmTjtZy",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "8vJGB4SmtopmhgkaQ42Zsuc5ikaae4meGq91DbUqENRZ",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "8ET2BCcnrdMxFAvdsxRNQ7H3egAt9LVhmDyfXyhLmBRa",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "AVEmkd9xAFDrgWBUonz3G6ZRRTHLjao6GQXqPUd1vV7W",
+    "amount": 22.030749219373202,
+    "refund": 0.29
+  },
+  {
+    "address": "7gg5f27p24Q8zCrUHyCSqKuE6pHLtAdey14PcgtT7Jh6",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "FZbXkXtuMAyK2i4EXszawA9UGi1K2xLm6MTuxsTeTiSv",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "AjVgA99iJ5vq2pTqgqEJR2gJHqJqMt7yXKgyf2yDakei",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "8ARb7V4o2jwkZ6JsZ4VGnhCFJC8JcRf3vDkQt3XiJoMA",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "BWJYHE84fm7tHrVkw84e8opgYauNr4emzovT6tReBcdW",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "mE3KGX3DQGcgf27BustSDDKusmPLvwA376bEUUbBCmJ",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "9Sny6Kx3KLrKEsbZwJ2u6jYmmLwaojjh6X3P8mb6LbRW",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "8TJforo7Y6f5U4uN1Q4yimPznM1QjmR5WLyQn1ByP88W",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "AUdxjE7amD7kLZKC9av5LpW6v6sCGsrTE4AxUdpHeADJ",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "8iwsfVfAyKGdaYrcAL4ZcSjiZ8gjviF3zb6VyC7rFmG9",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "6A9c8hMYwi2tnb5HDpSc6XzGtJTtnYiwFFGKV3mrkwQU",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "6GaUtvWXNJ7utf7YLeEfXbLYPG1jmY6itESoL1tf5duu",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "6WU1W1BYwNV3NF9gcUeMPxgvkv5tCbFE1k7NBBpSgiSd",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "ACbeeSiieNW31XSHbLJLNnJNekCRvLWfAXgyJxoeW7zV",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "HRJy2pqo8PgA6hGqxmnriQiNGKaEMDD9ruR6VtNwDaSs",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "AJkiPVkhUdAwRXxEChri1EYReSFeXmKGj2bFG2xcDWiB",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "ChyyncvebT999jiv54gnt7cXdpvxAsQ3mVvM8UeAsz6P",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "AuJjDcbnvxbpDKCDLqi8KTz41t1HvaTE2cHecBEsFS9p",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "7q4bSZ1fVNdSBAAUg85Mrz3PKoNxWAJGNamNuM2eZ37Z",
+    "amount": 6.837129068081339,
+    "refund": 0.09
+  },
+  {
+    "address": "ATEkyLw77BorST3XbGG8Wf34PsReF3pEQEVzFcADfNET",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "wqbqhNBLNoM7UMdqpnHk6PAfoyLsB7PxXcxEshXF4G7",
+    "amount": 341.85645340406694,
+    "refund": 4.5
+  },
+  {
+    "address": "4onyV8QMUQUSUnqUsU5ZcXuY34R7nUV9a4hkeeFi1C79",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "2G1LcGfHHfVvztuvph5SidRP38gwfxuiGmfpUgQbGdPb",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "BXo74MYmzCFtrbtxvk2G3dksFoT2rgZsV31r8ByW7tMm",
+    "amount": 0.3798405037822966,
+    "refund": 0.005
+  },
+  {
+    "address": "EnjYih74vCLjb55rNDnxfaKS3FjEnbz68Ns92eFE5yw4",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "9R1hCorNuiRF2F6mTGimEe9zJoZmEw9kwTVCwLigbLwg",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "6WNG7Gq9W7nvkgXvcwW3TRnFYeVdmWNGWHUpbqNRU6vm",
+    "amount": 227.90430226937795,
+    "refund": 2.9999999999999996
+  },
+  {
+    "address": "2VwayCMZVZrAXLvpxfF8dZpuQ1kpLGhxrD53GLkcvvmx",
+    "amount": 759.6810075645932,
+    "refund": 10
+  },
+  {
+    "address": "8XY6hC7U34SXqPF2FEEafAaqFFMSP7GPusfoZDMVj35i",
+    "amount": 136.74258136162678,
+    "refund": 1.8
+  },
+  {
+    "address": "A7gGkrSUHH1fuYHsxPXhh54ZJ2i3GMSaRqhZXFVetFkz",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "Guki4gzwVPYitW5fbhWGfiJJ7BEv5aZPspA49fofVWKm",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "A71w4xMv9tEgTYAGmreQgSLoTwnjAbHH4H4nCGdGtzfv",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "86XQV1qWPRinzHEZ3ERuDsgb9HyeyMqP4buE6xM9doda",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "3XdAiSCVdWdgBufZngRaRtLTK3LUvZLzJ1o67X9FYQaS",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "8FVSgus4MjC6sQSRzzp8RVkkGjJTr7WPCPCPsXcNhdSP",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "9dpSzxNCobDSnu8rtwohtHQ8HprpU1LDBsm1Chfe1rSy",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "FhVkcRn9H7UWQGNSq9CmZgXYDSqTwwRnDcR4wkTNv6x5",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "8EWyJ2mYc82cdwB4gkUkj2hEUZXKUjenos8BNdQWSqZ9",
+    "amount": 0.22790430226937797,
+    "refund": 0.003
+  },
+  {
+    "address": "H8pJxBSfGU2SshgEtqLdZkD6JEaiyApYKWRuVZkRYvyp",
+    "amount": 106.35534105904306,
+    "refund": 1.4000000000000001
+  },
+  {
+    "address": "AruuvMgqtEUvgQH8AhLPzxYYHUDBmvLnbo6mN1GqrF1Y",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "32KH58QGkpwkuJUkjPaxwR9JX7s4WKVGpT2qJr5PHVKJ",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "F2UWoyxJR1QLgxze17ZC5twATrbevX1ouWtJDERZQgtK",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "HSfQ7CdURihpXXTYX1nhBRgTBajoGYCsgA5go7DU6vKq",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "eRTLGMFnjKkFryzP36nePwygBdbH7mh6NFyhTX5r3Mz",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "CwHxYndZpdwCKGbPkkNxCXkbZLubFMavFcWSVw6c7R2Q",
+    "amount": 0.15193620151291864,
+    "refund": 0.002
+  },
+  {
+    "address": "6hqU32ddzh2iY8Gj5vRqXx75ezhYhiXDea6CTrrjrnXt",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "9Ew94yyW8gkAhMmfDurA271ELhC5uBq5ykkvJFjbXCtG",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "GyvKQ8usV5V1jQ3RxrFVcP8v5bMq3r1PKxETxjHFz1Jo",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "8XvXiSwRfnyUMNfevsqiJ6Jnf6MY84fZetzULrtqcyfB",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "AQUiVwegCngpsu3xfZMt89BqqKnUfSGp25xZGHqzYcUo",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "2B5Epiniu7jimGGFrWaVUutZ4Gg3QDTwEbDw2YYug7oJ",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "72UXAWHxxcbGRGZcy7rNUXRK1MXBtrAV1zeYQX59CeBN",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "8aFLnkRTZafbUG35T8Y1bwAmTF3AesfrjqC9KnrKVvmB",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "3B1nw6eNXm2jTNiFLxYWGnF2rZ34RMAnNTRGdeifYz3z",
+    "amount": 11.395215113468899,
+    "refund": 0.15
+  },
+  {
+    "address": "8gPjHgnJa1ktb1zGTRecv8DPbjSn7UE1RPmLfrUbnxa3",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "5noedU7qiZiJ5Uy12E62ZdEWL1huiewbVBK1b8VPEVMv",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "2QAZ95FQEhBNDyk4pcvwxvnWrB4NH4Rv3ocinJPHdJ5v",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "CsoaHwaZi6VuAFjM1j5aPoc3LB3gsG3q9ewRXyXrEEZC",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "E4arW4Y3n6hdRzBBD1SaDsuzAzVM817ozF7LNvDG48rb",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "H4BGwHZXj3HpPLAeEjfMyBEtkWWvpja1PCVLuTx45Wth",
+    "amount": 3.038724030258373,
+    "refund": 0.04
+  },
+  {
+    "address": "4VsEA2RxMWyCLZbEZPZm7e8mX5uXyXY4TbAU5koEnCUD",
+    "amount": 18.99202518911483,
+    "refund": 0.25
+  },
+  {
+    "address": "4VCbVjFYNgo1YdjE49RJY6FSbGrkePTSzfn2PxZZ79Cz",
+    "amount": 189.9202518911483,
+    "refund": 2.5
+  },
+  {
+    "address": "DkuyrzSWXEhK3SfJbwffSRmjgRQGm7Hr2ezNgfjHy4NB",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "3W9JrXsAFHUGm7G1Eqhbw41P1mk35Uic2qkgNyKMvKpt",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "4gH3orSV5YW2SmYgr61yLgTw2UtDRzxTbteWyPSMeVqb",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "6Z6mmaHDKWoioZeqnivD4kMVMYnT13Xsgq1HPwb8Vmr1",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "9D6G2gkPydtF3JtJ8rtW9G9YXV24DCUdBsgia5Gctgm7",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "3auWMFnc1ZbvDZe5d72QoUmZZe9DmbQUBXUTJKoJN4jZ",
+    "amount": 227.90430226937795,
+    "refund": 2.9999999999999996
+  },
+  {
+    "address": "BdrYh8dMW5y4FZKBVokVJ2Vi6mVYJ1aWBAGuNkETKjdL",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "D765GgvjkQiekTtvwPY2DL8Bk3ZqWYUc2SW7iANqY1no",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "B8RuWyZjZ79YKpLWR5b3Yfn9C9fVbLBKCg4Au8YmQUVn",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "7R9p4TQMRxtCofDFZx1cNbdJRhAmUbujP427rbegbgxS",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "7SgwzycivZfVSJGUUq9yjjUb7bCQ9PkNCi3fqRbUUDod",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "4wG7Cfeo2yWATebJgQ1ahfJwGFXKNHEQWTTxbCyeNzFw",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "BNiqurz6Xz2Yh7SejGgjMumi9TTsz9ZhBTtjW1e6DaZv",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "cdjYAkYSc17UeTtJRA1CvmHpTTFw6ubid4Zx2aHghRs",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "8Dc7mDnR31DveSdys4hQJ5BV8aepnnSkX8WpCBJkuRWq",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "CVckKXAEJmr78gjiDqQBTjXavbWXfgycyN8kXG22M2rD",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "84kYS4Eu3Jv4UPktte23qbKH5hXEa65h5Xqnrk7qBZfz",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "7R7prAxndCLvzxWtnU7pcEvTGkQUkahbRMCVDfZo6atz",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "827pidbgX8pmjycKtZncRbrey2kv5QiMeR5t15Bwft5W",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "G69ywAXc4ThhU75accXJa7qDWHMJPAH5RVkzY1Sj8RiY",
+    "amount": 121.54896121033491,
+    "refund": 1.5999999999999999
+  },
+  {
+    "address": "GKvC62Rpy8UKeanPR1x5x7CrqqU7z1KwbSv9TMTrz1wx",
+    "amount": 30.387240302583727,
+    "refund": 0.39999999999999997
+  },
+  {
+    "address": "4c6RvzthGDat8ok9D3cf8aBZ1Bes8oTocs7XjcUY1NC6",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "14jxbSsiudvWxK5PjBVe5A6C62DqMr2G9ohbuJRp2rzh",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "GdK8J6i49jVKsVfaoL2xZSBybA1kUA3u9hjWcTS1DRXf",
+    "amount": 227.90430226937795,
+    "refund": 2.9999999999999996
+  },
+  {
+    "address": "DTaLYe49WXAx1tvopF26a8ku4kXDa3hVGEMyz9CTuc7d",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "EbmbXm8JPaLLaqZye9PozbkzMDjTs7VaqaWvBs1iXe81",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "3QH3xrt9kFMXAfTUFG6XJjHWQDPtktxKZhZVcixEtTAK",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "9PWkEJTDf6W4dZkVRTWhu4QYNX5yim8AgYLCJhwQn5pT",
+    "amount": 0.3798405037822966,
+    "refund": 0.005
+  },
+  {
+    "address": "D49phK8iJ7S7s7hiU9rujMvvH5ySHKNhpmguaHrtJqz1",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "2MbgWbgvXfDfAqCzHj4ur4eWJSZjcsfXC2Zg2BhKnMjR",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "DBdGimCASsVr3tyLBVpVtdB7HtY92J5Z679oGGnc76u7",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "5McaCevapLKnoQhmJgkKimwckVXSc26gRGCZ4pyFKJXz",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "47VDLWvVvSe9f86RaXvoc3RCkxf1YNroy3TTVhvrNpBB",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "BhdhJXqanb2bp8evfrJAwGLNbxSaEjnGZprRYGNp3dSo",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "Ccgpwrmiyr6oESKtHokwmhAjk1HqPU9fkYcLc3dtqcL9",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "7s3VJJRnAa8BNd2jHCVCJmDEvQtuQUgWgbhBzCDWzDLG",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "Bauw1pGdwkmyYQgw6iPfgU4KVfVmCvAWnr9e5Z9T4jkG",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "FbM6u8nTLksYi8Sym21BvB8beouKdVCSLWWXr5xqWYez",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "acobLsNLiiMAWUqBBLsmLqPNMYHR7CJxMJ7sfc6dtC6",
+    "amount": 163.7872252309263,
+    "refund": 2.156
+  },
+  {
+    "address": "Ck9EazmWNh4WYBckp7a3oB5S4KxEKuVphFqv2R6wABZT",
+    "amount": 12.367606803151578,
+    "refund": 0.1628
+  },
+  {
+    "address": "AUag5vWss4mu9rUYkj1icfNw1DYasENkwqyvFFwVbv4F",
+    "amount": 20.511387204244016,
+    "refund": 0.27
+  },
+  {
+    "address": "7bUYejbD7GNaAbZeSqMnWxsZNowqH3cRZuCCDdn91Fjc",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "8D9JrRU7kkyCa3kGMrvedCVUMC5zfu4ZaXN3RPvvVcFM",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "SKGNTP1deGEWVdvzRxkxVBFM4F9ViDrTVJCccoqmNqb",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "GN4ZYhf4rWB6WqZN2JYWtrb2v1dRYQyidsXrFMmKeowA",
+    "amount": 1.7472663173985643,
+    "refund": 0.023
+  },
+  {
+    "address": "34qRPz46GFELGMKUaWhHxQKbi4rWSsFLJHDTBaeSCszP",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "FhSZTRJjK2D16RZwPzkLqkQ2udGstJV4z3Y8efvAbf5Z",
+    "amount": 11.395215113468899,
+    "refund": 0.15
+  },
+  {
+    "address": "FQe56qkKB6zgWHgG2Jf6ZnsPHFrqRSpw2rjHV4gyyvyt",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "CGr71RLiKRJ9xNeZ49Zv6RUTYSvbqWEq1c1DxgdAVLoy",
+    "amount": 130.66513330111005,
+    "refund": 1.7200000000000002
+  },
+  {
+    "address": "HCjvU8sAG2qajcYo2Yo1LZH4iUeQ4HHbBxvCpAgA7m5C",
+    "amount": 9.116172090775118,
+    "refund": 0.11999999999999998
+  },
+  {
+    "address": "4gLKNDyDwm8Jq8MC8NBuFBWkh635hdk7abFvF4PTSPmu",
+    "amount": 8.356491083210525,
+    "refund": 0.10999999999999999
+  },
+  {
+    "address": "6ejFM85yor6x7buUzDMbnT3FyVo7doJuLHsnEbaHCyyS",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "4iS7ZEi18oSfSHondzmpvamkhNKqC8YzmtQyLFi6sQxw",
+    "amount": 9.875853098339713,
+    "refund": 0.13
+  },
+  {
+    "address": "G2QtWUk1XLyC7iEF9KUeDXMKFiwy1MpGfz2nvMDv4ZND",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "J4MBXDyfsz1Pwh1kHxRYJSBAWhfK4iG35isVcn1Q4NXL",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "HSoYBYrtYuVQNtLgb6NNMtaZTnfxhrxeFTq9ZXN5nCXe",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "HGVKz9AJVbqwaj17nyfz2iEL93Z4M5Vc8a96JJ9utqiT",
+    "amount": 2.2790430226937795,
+    "refund": 0.029999999999999995
+  },
+  {
+    "address": "6UWrVgEJZJpbgDXkWGnymJUMwYQv7EjaS9qtCgfZKRo7",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "DMUX44sSbZiHXGFYWTNBRZ67UZBBsun2XSHugjZVEx2o",
+    "amount": 129.14577128598086,
+    "refund": 1.7000000000000002
+  },
+  {
+    "address": "7LMaSkuLajeHBammPPqic4Y3XdnMc5bGbRGggm5k4HKw",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "Fuc62qrTJkGYA22PcBkM6kgFZ2YmrkSxLANgeWFLP5iy",
+    "amount": 9.116172090775118,
+    "refund": 0.11999999999999998
+  },
+  {
+    "address": "2wuFCdwrtoGFyjVdB7vZQY5ao5zwQxQDMQVTLTn2azYz",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "6SGvXcpwN21nCvL42trFrUsiWqZG5ofqPV7whB4sCDAQ",
+    "amount": 60.774480605167454,
+    "refund": 0.7999999999999999
+  },
+  {
+    "address": "Cash1Jh5iEV2nJcfoUs43JBcMZ9wSogvruVE2ouHWxcq",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "CqtDjnBxp5pJWJGUjEDddDT3WF6SPLfJbesZdXL8CMiA",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "6tnNJC4UjPokdZUftr55vWowNegUgs4Vh69W88CJVGaB",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "5AAhUWmNq9tXekpScxjXjtxwi9TuV9aWgWjFzXKaSYDz",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "EKCoMBmnGdHFcSVfEBBJxdp5Me3pN9mVBtqaTqSEGHMr",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "7WDE2moKWk1jRQn4x1aRRN3ZHd7cbpf6vAdtNqrcZm4N",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "EhNEWVXEVkc262kcNBUUUhVoRQMaEuDRatUPnDBh8oyd",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "6xpaiLjhPrX7S7EraBAACCCYbVASiEhBKnMbZagWnwah",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "7WZbnWBLhq8MzdJCujDVu3KbftAcG14ACWWayM62saoJ",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "Eu16KnnNP8iQQ41bLadk14qa4Sm4p6padme6DRznqtEB",
+    "amount": 7.6727781764023915,
+    "refund": 0.10099999999999999
+  },
+  {
+    "address": "88XK6AVjikthVKrpUv3Vhzj3Vt7YNfApwYgfBVmpd9qT",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "4isYfogw6JT1zGpVM8yzLaemhQnGYEGGCdkE4Ym3yxKD",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "bF61jfcimd1op1gjz7RSmtPRZhCmmMqDNXvHth46Vu5",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "53LTshxD2j7RPkavs1Up1Vcqas9YqRcwt2Yztpxrbrey",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "DKUAYFZijp49i47T2ETAnxham3Nk2u4SXBGWt2fuNj3i",
+    "amount": 341.85645340406694,
+    "refund": 4.5
+  },
+  {
+    "address": "8Y9xdVobC3BP35Am7toSBJ4Q7fFMkUmBynUeJ3hNHg8g",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "H36k3DfiFA8Ttooj6UQChiQFTbG7wVKagjbcduv7aECv",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "7JK6wMfTDkKdr8nULbk6JUAQkEVFVp27RtG2Tcx82FDY",
+    "amount": 0.15193620151291864,
+    "refund": 0.002
+  },
+  {
+    "address": "HewQnPUx49XEgj6KbsXUsFfWceod5ouiCbBLNGpUfRTF",
+    "amount": 19.751706196679425,
+    "refund": 0.26
+  },
+  {
+    "address": "Dbu85RcgtwfSmGATyo3pzM5gHst5NwgtzAzoqRoiNvkd",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "ZbViZCs6xq9cznTgAm5j4mMYpukUBWZaExjQjU8kPok",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "3oUjS1bFNRLXEVXmLGU4LMu6Ebhn3u25Z7DDunvtmTZp",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "9MrMQ1ua1osUzJ5tx9SdNPeLaB6zqNFV95gP5tMdLvLD",
+    "amount": 410.2277440848803,
+    "refund": 5.3999999999999995
+  },
+  {
+    "address": "9CnKN6AMKJUBbdyzYcQD1vFeajXYqZ47RPe8vwp1HX4a",
+    "amount": 2.2790430226937795,
+    "refund": 0.029999999999999995
+  },
+  {
+    "address": "J4GVpHd5kSQDsxFhwnyUjFbmgwfLyEz48NBRj6DHkCBD",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "HvddUTgAKz1H1vSsUbG73g1YE7kXAs4VRqEqSgmhFdpc",
+    "amount": 16.71298216642105,
+    "refund": 0.21999999999999997
+  },
+  {
+    "address": "6BNjTz8N8teoWiWiDe67PSxkeGLUR7TYvRQJ4C3a31Vu",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "6HANr5wRWxYx1WNuJ6zYCVAzQUpToVqjYCd9keoxKyoe",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "F72p2ZCsvwGgzWwqodyXkWqq2BnLpS8k2BK4HGNZ9Bta",
+    "amount": 1.1395215113468897,
+    "refund": 0.014999999999999998
+  },
+  {
+    "address": "26fLfYjzjZYiQwHEdpmrqUP64aKCZVQ3ja9HJk6qZrvA",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "5jy7wSYxH5oxHDgUdxvoBkyYCjZD4DtF62Fwx385oddh",
+    "amount": 38.743731385794256,
+    "refund": 0.51
+  },
+  {
+    "address": "2fMTvYTogumUpuJTZXE183AkXe9qc86vsjFWxKmwutzw",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "8xAxgtGq2VBQ9YRwUpJ6Fejyyo72KDE2tMGoGBapBToV",
+    "amount": 0.7672778176402392,
+    "refund": 0.0101
+  },
+  {
+    "address": "E5ZwhaLeWNvssN5VVjfXoATTaDuQAUmnRyzUFaxh9zY2",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "FNYdu1iqHAYsCaBec3iy2GMZdhfQjGsA5HBUMzJ5e8ZE",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "8fdBejfDHnt7gyfjUaWwHDaWnZsFs1xpTxKpocSvXmP",
+    "amount": 265.88835264760763,
+    "refund": 3.5
+  },
+  {
+    "address": "ECL8X6n9bsTnk5ba3VWgrXXyGvNs5cPWK6zsP8NFyrBz",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "BL86ASaJc6MNRMbj6pBCrGKR9eWy6N6agz1h9YkTxGV4",
+    "amount": 1.1395215113468897,
+    "refund": 0.014999999999999998
+  },
+  {
+    "address": "648Yzekto5TBWiKhWT3EUGrGVnGbmvNRz8tSxRoBkrm3",
+    "amount": 0.9496012594557415,
+    "refund": 0.012499999999999999
+  },
+  {
+    "address": "42Mw8qzJ2NscJB4v6UVX753iQztv69Ccc1E7sZByA8aM",
+    "amount": 1.1471183214225358,
+    "refund": 0.0151
+  },
+  {
+    "address": "9HqMunYr9CGiPrVDUpyC4kbEYJrppzEFEHdroRzh8B9F",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "59Tf1T6vCQKA2fJoMykyQwy8M266DxzRVY2LoMaTf5dT",
+    "amount": 1.1775055617251196,
+    "refund": 0.0155
+  },
+  {
+    "address": "9xFxMBZdrFTwt85LB7EtfVZmvQCVYmSozYWiKh8kYECj",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "9oBno6P3HYAgAMnqeNf3YHxfe2aTbQCrgdy4LvugCHb4",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "Brn4Q7iXmTRbfnqDBvid9xZnNXjYCJ3qgDUYrgsYJngq",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "Ea72e4QJFGMLg5KroCA81sCuW9yWRJhJ99Cn6cTj3xsb",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "EgN6HWYRjdtez95dij8hYzJn464yfTXDiLhHB1yXGCf2",
+    "amount": 4.4061498438746405,
+    "refund": 0.057999999999999996
+  },
+  {
+    "address": "GQH9rjEWL1kXAySwKsSjP4Ekk2V1NRF2QDJhdm7TxtwY",
+    "amount": 759.6810075645932,
+    "refund": 10
+  },
+  {
+    "address": "DMWcSFfQrjfGWvJ6gud3XkkMYQrsuvkQKazV9dWZ6Qyf",
+    "amount": 15.953301158856458,
+    "refund": 0.21000000000000002
+  },
+  {
+    "address": "EBa2W8idjbgkmxDut9aPFrRMjJ1UMcRcij8MgQPZGKDL",
+    "amount": 4.558086045387559,
+    "refund": 0.05999999999999999
+  },
+  {
+    "address": "Gr3yj5njUFvbNBEasFe3vJL1mcS6VY6MsJEnrZ7WWxEw",
+    "amount": 4.550489235311914,
+    "refund": 0.0599
+  },
+  {
+    "address": "7PK3DvB7U8GZAVMPMW4uESCFDJz5HFCXfdomVoGyN9SS",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "CQAbxizvESQPfW4rer7kGgmQHYHdcZaQsCG4U7QLCMvr",
+    "amount": 4.558086045387559,
+    "refund": 0.05999999999999999
+  },
+  {
+    "address": "HT1GcMsgnnh5Vyzq3hgvTQRtJ6FxaJYnwp4Lty4FVAmS",
+    "amount": 4.527698805084976,
+    "refund": 0.0596
+  },
+  {
+    "address": "NqbFTJXs939JeY5GW8vS5r9GoEocpT4iQm2BEPPdAAe",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "GAChS9cDrGVjxL7xfZDybUVGqnutCp6Pwqp2jwQGyUYT",
+    "amount": 4.634054146144019,
+    "refund": 0.061
+  },
+  {
+    "address": "22zPqCLYisSNYKKsRuQZXyYAameREhPwqUMynPDAN6Zf",
+    "amount": 5.317767052952153,
+    "refund": 0.07
+  },
+  {
+    "address": "2UzpwtmfZAHcA1k15jazCrfHFtdqfWw9UxAG4XntMULq",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "Aixotbbgh8TY8eQ1pHjMLnHP4hesX1Zev2PKYQVkxb2s",
+    "amount": 4.635816606081568,
+    "refund": 0.06102319999999999
+  },
+  {
+    "address": "7cm1QvQhLu9ENtkLJZhLpsMj1gv57CHB4SqWWB4m89F6",
+    "amount": 22.030749219373202,
+    "refund": 0.29
+  },
+  {
+    "address": "4JxovWsBLi71PpKvVwFjPjTtujSFoMaiRt2AD9G7yZGm",
+    "amount": 4.557326364379994,
+    "refund": 0.059989999999999995
+  },
+  {
+    "address": "ALX7kfUBKAy687AGsMCAh5zsB5FZTmGV5fWS9afFTeDF",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "WQhfrprw5uQQyoKj6Ev4ZydN4JBTvoQPGDLugrjvDGb",
+    "amount": 45.580860453875594,
+    "refund": 0.6
+  },
+  {
+    "address": "6GywiHKhRR4nNETWHnYW6p6FHmWyGFon5fjRnmc5quU3",
+    "amount": 4.4821179446311,
+    "refund": 0.059000000000000004
+  },
+  {
+    "address": "DzsQbjjTQ6s8o1EbazjA6Jyadm5CZyhtbNHWjphyTgnY",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "9yE2NhkHzSRqSmzHZ8Luxct7spfauyA9XSb8925bDM5W",
+    "amount": 45.580860453875594,
+    "refund": 0.6
+  },
+  {
+    "address": "9B3o5A1htCQAiAYMNor2ejGxVCQj2XDGYsBMvxZMZmUN",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "7Wm9RfZUYjGYVC9RbvY4T56ShwXqS8U2gGjpJtHQ4KDc",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "FxXJ7w4qv77xnCEk1eKXRdxzqCFSHu6KfFqY73gmDjP2",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "9d61tyiRKbonmUFNKunwCYpFfrSFdSWMzGvqJvi78kv",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "Fu4pBC2CF9ssmihXt6FtpPVZgrony9XKyaAgDyT8Y3jV",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "EX7SxWT1PixdEz4qtaQ1NKbacPgi56jhP8qZVEouH3xi",
+    "amount": 159.53301158856456,
+    "refund": 2.0999999999999996
+  },
+  {
+    "address": "G5Krehh4XZcBbSoAwu6voVckxgVyJDczMfWSZf7bocAD",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "3wzx4uY4yah2pQmDQrK487vdjh3PU1gBW7WmkbhLhoEq",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "3kPLmEBb9Wy2dQN3sbtK4G7ip22ZwM9vx2s322fJZ39B",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "5oNLLrac3jSR8fjHoR5UGxNLpzZoSH4XtjxNTaeFKukq",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "CZchhFMdM1d1SeEhi1xjN7SFHSmeXs3gHBrUMunkpDD8",
+    "amount": 11.395215113468899,
+    "refund": 0.15
+  },
+  {
+    "address": "7ZdWzUcQfAZUvWUW7Hy6sQyxBDNwBwwAZ5RzDq55M7Fu",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "JJ25LyUHuvmVpYpNw1v7RTHAUXSdGT4hRHRxRqvUBLD",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "FQsfc1QmgjiYQuLzJYViecmrDxBWcypbrsy16AKD2fzA",
+    "amount": 1.671298216642105,
+    "refund": 0.022
+  },
+  {
+    "address": "ALKeT1ta5rvSWaCUXcweNR8qKAW5oLffZs6cmAXjtYTM",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "AXL2W6yrHtw3Zw5aEWbRAkVctTRwNZRZ4qu78sjxBh3B",
+    "amount": 68.37129068081339,
+    "refund": 0.9
+  },
+  {
+    "address": "3YqU8tCdp9YiQoxiE3okFG6DHa7naE7npyRhQWNv8BxM",
+    "amount": 30.387240302583727,
+    "refund": 0.39999999999999997
+  },
+  {
+    "address": "2bqwFN48DVfkkdEFZj4pgHXeGui5M8SKgn8nSoYcouk7",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "Bwike4QWQP7rrmMPiNKZx7s9ho9A9wJvWvhLNNDvaXS",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "8uPpg8WqvEgFXxod4EagVVqDCzvBmPhPMQ2UAS5JhWE8",
+    "amount": 9.875853098339713,
+    "refund": 0.13
+  },
+  {
+    "address": "92Vue4LbamZHE2CYfmDbtBfkPXST9dHw8XRYZNQNDRKB",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "CPV4vKXayvwmaj4GxnbyCEWVyHKwZCfz3CuZkUDX18PS",
+    "amount": 19.751706196679425,
+    "refund": 0.26
+  },
+  {
+    "address": "FrovRwqozGJBwYimq1rVMX2mGknR1Z6soKkoKZ7dgjyp",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "FYbHnHcHjcuMHFudVDJiPNYP85aDuuVZdG7i7R7tJNZT",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "GinvNt8Zc3Senx5KDo9bjT2BK8mv4y2N9cAYVNzMaEFG",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "GzxWdxo9mdToPdHE2ydXxbJHjmc1R28BgNZRPButUdu9",
+    "amount": 4.558086045387559,
+    "refund": 0.05999999999999999
+  },
+  {
+    "address": "2XyQF5q5EWdaGCH8ZfLjiVpvbpLXz8D78T9MzUpNEGBL",
+    "amount": 455.8086045387559,
+    "refund": 5.999999999999999
+  },
+  {
+    "address": "DzA4doAapN2fMgMiqpQ5uicSjR1uW4XEAUzHn3QVMB9E",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "E3EMwNqoo3h9RVSTiQyHyQhUyCC1jmXzipzwYvFFLAT2",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "DyH9rkp9kWwyEVuLHyaKjeWU1Ce7rp4JYD44thDHZmGx",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "7VudFk7YjLkUiyNBeF2S1tsbKTTMwcS2y8KQiMcV24bj",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "2DM4jyrzx5wEUzBdpBk557rP9NHbEzDWjpYJ3qTZMe6W",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "G7RwPhQi52k2KMndF44zyvGmjRCjd31aozjxfRyqmSMs",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "2A3G2oyiPyVSk3tnjd3y5AqetuyCUDmXUoy1qf4PeFUi",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "7vNFygv6bNZ7NP4tmrGZnw9nH1tcC6NktWwwZVZ54BE4",
+    "amount": 4.4821179446311,
+    "refund": 0.059000000000000004
+  },
+  {
+    "address": "E23ZUfyNCPdoRMGHCmJpyZLfBFa337QgLQaH5egtbaYX",
+    "amount": 21.27106821180861,
+    "refund": 0.28
+  },
+  {
+    "address": "AmJhX431jxiKrDjHVKx3YpDVzNofme6voiEY8nE8qUoh",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "7777777L8RLVHay9iDgjPCf8eb8LJgBYiULdtt3z54q9",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "6Q2RPdJrqRyWobuHqG7v1DzgGbCrtwtNJYbLhstM79bN",
+    "amount": 3.038724030258373,
+    "refund": 0.04
+  },
+  {
+    "address": "9zUARssvRGFk8okzkexXQtMqkaDnEd9T1hwsksExwC8w",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "ET1sQv1f2j5JqaJ5zoDEp8vmmCraDXR9o1ASUcCuUwud",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "9d4u3hEYJG6ZdFeAgZc5ixeDys8NRnV3gwAyHGkeSDmn",
+    "amount": 26.436899063247843,
+    "refund": 0.348
+  },
+  {
+    "address": "5oFciDjCm7AzRAcLo6s9xVhc78RQojVrQBK6HT4VAmZr",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "HyYUJ1RmMoMwFBCn3vNJ5rLC3bAsy9xL6h9oqd49fsBi",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "7816wnptpAz7Y3WWHkPZ26GUBdJjC4MDBgrwtGD9hJvS",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "53KTidVr3WY2o2eFzikxtUeftxQnAtTdN3WqXoYz57KM",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "BFquCFjtY54TLziQMMQfwCVErzBoZmuB2CJPEqNLtD2V",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "3zajMi7E5nfLK9HnUZ3vce6kJF1auGeoudXApCE5MJHA",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "HBnFV3gStH13MA3hheqsDJL9NedEcvAmDt4cFcnrfsGo",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "WHvT1vUNTvCoFDGEGgscMLsCn4neFw1k6VUxMivP1Kh",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "3Vn2MjwC4Yfey9H8A19VBfovM8xZichy6CGhcdmgdL4y",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "4C2DeG9CUPWtFGXdps67BYrofNNid9bd3wirSsTqUHz8",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "7b71N5gnzYmrw9QcPBAjb2JrH2Vxi3p9GJMK2ArPKsJz",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "DZYAVhgSztA7xSfaG4ZegBo21De3Yw2QbnkBuE4MQHX4",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "6fyuPaPcgycsn2aSXs1UQSDpyjP28z6BqZZiGC2aBLLU",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "EbkGDKvR6HRqveVoiZXXfhYkdYG3JRyj1ztHPyULLx4X",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "AXiNYaGPoH4ZBy5R3CkqSzUMnsVvvVceXyRY4LSYErda",
+    "amount": 0.9875853098339712,
+    "refund": 0.013
+  },
+  {
+    "address": "ESXT2bGMex8mFwEBFzF2cXaPN6F8ezMXtvkhbYeYG5tS",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "B27gkjo3Fo8j1m29UMc2YrCvcfMdvdxjDxynu7tvn9RL",
+    "amount": 18.232344181550236,
+    "refund": 0.23999999999999996
+  },
+  {
+    "address": "AZtvfc1iQo3vmpzMiuu4Q6NrKpdECxbTQNW6JV1jVeeE",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "DHMHXmrsBg5y8iiPkt7jJAVt2zeQMHo2dPe5xDFZPj75",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "9dbwQqLrUyeoiv2s1XDhBB8Nhc3CFoy1NL7PSd63dsmV",
+    "amount": 18.99202518911483,
+    "refund": 0.25
+  },
+  {
+    "address": "3863QMfTNyVXKu1tygXGMckRC12LCcGv6cfhctVJne3g",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "8s9kngcwtVn1rmXtD7m49uTyCHComdKTcABZwdRKqLh6",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "A5oSVvHLrHbg1UjC9XEemdswEDbCWAhNGwmmVBvn6weF",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "EJuM4kZzeSVWnkVhB4KgcALgc3p5wTUitL66bwjXDUcZ",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "5VZYMSi2pjtFPwXUwtNCQypxbYJn7dhN9ADdw87UzM4R",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "7sDUdRt75srRDWQgbz7xyVK9wh8sg56ugvXcBQS4ggnZ",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "3kH8n67QSgiGoQ7np3PbvLnommNZf5r2j7FWzzhmFZCb",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "9dpWWx3jQ9G4bYk7oB8c2UYd5pZg95mXhkUJVvrxVkEy",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "3dQY9WfQFfpMzvDhKQwQad3nFTBbUk93RCvc8u7KAtFJ",
+    "amount": 4.558086045387559,
+    "refund": 0.05999999999999999
+  },
+  {
+    "address": "47NwvD6B5xmKZ2Ac3fpzoHrzgyTvAubevSRu97x8fkGc",
+    "amount": 0.07596810075645932,
+    "refund": 0.001
+  },
+  {
+    "address": "BTYYEddYDMGxSYGJT2rKZJ7oaTtETnq7i86jxKgzPRf4",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "JCzA2RMkVkf48ofhdcZWxVFyjMwBCr1FH49rv1tNqQY7",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "CNxyiFVir5xiJ7hfQXMrg32aZiSPcamYHvPuL8CFaePM",
+    "amount": 2.2790430226937795,
+    "refund": 0.029999999999999995
+  },
+  {
+    "address": "8JeYLADMRdHbRfkzY4EAzyWy7XqBtyjh5UGxY7ZHm47L",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "C2vXNzqqeYxJfWfyKTEkoa54i5BnxCPYpvnp1HeZveRy",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "EdyLmmWnHCYC6cGRKPKtAQPk6V8gyq6sX3xhuJ1K1Ex7",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "CmwbigQRP2TfpmMNuz6EjkMAsUmogo8a2fVDEzwnLb7G",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "7wap2ZbvPpD9r8rJu8P2E2DSTGzCxtvEELpyuCX1GbWg",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "8g4kBSYPYZJzs2JJrQzCtj9Ny5vJfuidqDpFFghYN8RZ",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "4gh31ZttpeVXEcnR2KrXE64V7rD97MCYqVS39D8ebwYy",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "FGbZBj7AjC88vUDhkCRHbMhe687UkPgGptLju512FVEQ",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "EMLtthFPkKJf7mz63aqJi4y3YXxAuTLPEramu37Kb4VE",
+    "amount": 752.0841974889473,
+    "refund": 9.9
+  },
+  {
+    "address": "5D1XPfKgGxg9dj3L5v1CWah7X3pCbgd5Vzae9w8QkkQs",
+    "amount": 1.9751706196679424,
+    "refund": 0.026
+  },
+  {
+    "address": "FJS6eLoh5jCzsYkLgbLhJzE8qgNG4HT4ZAABFgoRGKSN",
+    "amount": 4.558086045387559,
+    "refund": 0.05999999999999999
+  },
+  {
+    "address": "8WDBhsruSbnk5rCR49mfygohzsotXc9XS3kejwtuZ5Rb",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "2FTGijqmV3Krck6YbA2JUUWm4d4D6qBtkxfa1NbsjTtz",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "En7SvVxXtZ2gLo5HohnwRVWDqLmaZsLBASQQzYhpYwBL",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "4FA4RsDqyVqYw3SFkBtmXwJG9PPaEUQVQd4WtGvHgor2",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "FGp8xpk1y8g3kLM7S9UYmFkMDMEfKpquAVDBZjCpcvQq",
+    "amount": 303.8724030258373,
+    "refund": 4
+  },
+  {
+    "address": "AuU8a5yEQGRcvvavANEY8SjxvrpNRL3FSKwjYAaVKM5r",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "G3PSqgEHivPPEUf2iNtF9yy51ZtmPBiYfQQsBW6MCWe8",
+    "amount": 8.356491083210525,
+    "refund": 0.10999999999999999
+  },
+  {
+    "address": "ECnH8TPNKQGDdfEE9mkQDFYuMg43kaZz4jjGLaXajcH6",
+    "amount": 1899.2025189114831,
+    "refund": 25
+  },
+  {
+    "address": "5MAdnskNg9Wzw3SF1egY6e6vC53cxXcynX7gQs7MgEzX",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "4HusDPMmr5QhCJLfEeDvbrxxLa8Z2LAdux5DJyG5yvWx",
+    "amount": 45.580860453875594,
+    "refund": 0.6
+  },
+  {
+    "address": "sKwLSBqLnZpCTTU15bkDLy7PFgdaBYDyihGKCA2RzKG",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "2WqMPXwoBYXbxb3o6PKD64cWvV5B3xSb14N4phUwbjq5",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "3jevxjmpte2MC5K8vNdsZPYGbe3PCchbyprAMaZw2DKb",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "CVuxxk7qMYyhjxpv2hJMAvKR8r2tdBCZzARN5K5Ap77e",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "EF7bfP4BKAhxrK1NPn66ndxsGd92cTQgaQLNANuntguf",
+    "amount": 7.984247389503874,
+    "refund": 0.1051
+  },
+  {
+    "address": "FCM7YryVr2o74sN7ZEwNHY2aUkoWrxEL3E1LPLKtymAp",
+    "amount": 6.837129068081339,
+    "refund": 0.09
+  },
+  {
+    "address": "BfseWK89kHjntBBkghwFUqJ6dm5qYV1pdUDSrEW32c7F",
+    "amount": 7.976650579428229,
+    "refund": 0.10500000000000001
+  },
+  {
+    "address": "DG3EKWrfkEQyWTgrL1Hu1DuaDvQHb8yVtNpYS3DSGEam",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "4Tp3eN4v61ZEYd5xvssuZMgNwTNedF23jsoDLN1fimjz",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "7ALVTN4LTZSwi3S5iRgb5a2cerCqq4eBq6ZDqQUmRjpJ",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "CeBs1SFghFbRQjTdgaN12T63XD5uFmiKKB67ypt5LAyS",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "F6EWVRWo3iFg6KJakBYFZf9xwyCK8MEhgVKBsNoK4vVS",
+    "amount": 30.387240302583727,
+    "refund": 0.39999999999999997
+  },
+  {
+    "address": "7VwFEHfyCEGTGsyMkXyAxkh4pnRqypKDRqprngohbkHM",
+    "amount": 91.16172090775119,
+    "refund": 1.2
+  },
+  {
+    "address": "4ioP1mHKMTYP3iFn8Y3kZ7ZRD4PyTN6E43WxihY5fe3k",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "G5CshSe15RMfz7bMsmxc8YSicwuUqiJHo93EB3D4cPhQ",
+    "amount": 15.953301158856458,
+    "refund": 0.21000000000000002
+  },
+  {
+    "address": "E7h7tiwpxk8hyi4kfT8iF1bf2s73M491xspBfYBA2odF",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "D7ibxPnyn67bAfH1BRcGfBBjMW7ZVopaLFDFKYAr7wPa",
+    "amount": 4.558086045387559,
+    "refund": 0.05999999999999999
+  },
+  {
+    "address": "DJtA1DN6QUnJyBQXomjcB7B6mZq6HJqx8yNek9kePf1",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "64X6t7YG9hhWs36WrEFuqiHFFgMSYdwwqKpyfLLCads3",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "EHjX57mNrp2RBFLhacxoJopVLbzN7vgyPAZWauXYzYpM",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "9CzCa5ENnRSTHBntEW9BXKmHrUzRDGsXu64ohFJTBw7c",
+    "amount": 0.8660363486236363,
+    "refund": 0.0114
+  },
+  {
+    "address": "AXz1EpEQQGFZu7cjj5rE4o9bg6DXbY6Y7ZqksQ3uNCHN",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "8818nvYqxBqB4omdDpyiyxkitRaFoZuxPiKFaZk2kn7Y",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "BdhmL9SiUGpvcsBSxVjU7mTFMnxofDWxmaoTgMqujN68",
+    "amount": 97.99884997583253,
+    "refund": 1.29
+  },
+  {
+    "address": "wGYfNsM8GoMha8g22W2EBYTcrpzxCyQM3f7Egsj2wqC",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "29KzX5o6npv62Q462DCGpBgZ2WXgYNR5ZYEnHqVyXEiD",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "GZVxN57e3cJ66hn3uiAtMiBWNKKrhwv6zZkxhqYp4MGa",
+    "amount": 8.356491083210525,
+    "refund": 0.10999999999999999
+  },
+  {
+    "address": "8RfLcDTsXj2zLB15oM2LNA6ap7cL5CLznFEEQfQHKh8R",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "66ZopLCcZjAnDGkJPaJnuUVsUQnWYEUg4p15e7GjJXUt",
+    "amount": 0.22790430226937797,
+    "refund": 0.003
+  },
+  {
+    "address": "BiJoQEtVKh7cszB2c3n4hbtZBkc88wbbySUDTcCQg86L",
+    "amount": 21.27106821180861,
+    "refund": 0.28
+  },
+  {
+    "address": "JE9rYUGnZ9jxgn34vgBsWoD8f9VRA8Rfcap8qJeuhJFp",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "4EoUCi6SK8hsNbwANugsaRhV7eTncy2h32W6FHY5Rsq3",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "33k5A8CLjGgpdNCdfatz78icacbZB13Wc5sJKcr5EJc8",
+    "amount": 22.790430226937797,
+    "refund": 0.3
+  },
+  {
+    "address": "6VH8CmsdGMshTam8nVma5LhqBJVif7Tap8E8cGKPgfFB",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "2RGkUbkmQaj2CgkzGVQTAaFBLv34gEmUyi1vs9VkhH1N",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "6j9LSUHWkjTiLuyAYKxH1GALzthGpM6zsWNPYYTFRy4N",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "FhTc5FDyiwKMSBx2tyf7yxbyNgcXWp1UZm9b9XT7E71V",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "AThkYiUpANiTV1vteF6aqd6wrDeACj5tEvWML5emb666",
+    "amount": 60.774480605167454,
+    "refund": 0.7999999999999999
+  },
+  {
+    "address": "BT1kZu2Y3aX51osVYBmPkmepAFoKb5T4DHDzpWvAJnmK",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "Amw9X8cH9tuwimMnx9L5arbGsHfumKvN4HzyEhNTcmDz",
+    "amount": 0.9116172090775119,
+    "refund": 0.012
+  },
+  {
+    "address": "7MjZ93juqgz4WGxsEDZnFZBvnzu6odwvYENDcXPimeyh",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "Cw3mFfD3iRpjECdyhXFpscGfrAPikRe9sk93RyDrRP37",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "B3bBN6kx5xu5UUu4ZWKJRGwmNwNZcfva36AJx7byfCER",
+    "amount": 1.0635534105904305,
+    "refund": 0.014
+  },
+  {
+    "address": "CTk1aw8uCMeRLfnRAp9wv1sYn3wHc8mbbMkbKU6WojWV",
+    "amount": 1.0939406508930143,
+    "refund": 0.014400000000000001
+  },
+  {
+    "address": "2dBH8A3wcoyZjqVoMdehBcPXbbJcWXeZXGKP8nFwSPpt",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "DsAWQeJ2rqEkhchwvxuZ7x8M88R1Xd4oAcGqSvSoUsMj",
+    "amount": 1.0635534105904305,
+    "refund": 0.014
+  },
+  {
+    "address": "F1dJMhQaB8sYwWY7FtiTC2yDyCGMZZfY5Kv4nrhmLC1d",
+    "amount": 0.8356491083210525,
+    "refund": 0.011
+  },
+  {
+    "address": "3DjtzLaY3tzMLY6BLh88CVApQWfpH3KTbxhMybfKvSYo",
+    "amount": 0.9116172090775119,
+    "refund": 0.012
+  },
+  {
+    "address": "ArE1dhVHjmww6qLpFexSXfd8W5j2Zhx2MwAwiFuQE2QM",
+    "amount": 1.1395215113468897,
+    "refund": 0.014999999999999998
+  },
+  {
+    "address": "GPGEqwtCiX2avbBKAe3ufZ1PHsL8f5xfahVrfx3XFqnk",
+    "amount": 0.9875853098339712,
+    "refund": 0.013
+  },
+  {
+    "address": "8Rpj1UzVaywhLgGTQeskACCr6eHUVcbF5QCvY7yfARfS",
+    "amount": 0.8356491083210525,
+    "refund": 0.011
+  },
+  {
+    "address": "BAxHPPVB4GigWFyKxtw71CQtoNreHbARt7phhNYjDPws",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "HrgwLmSqyZy12GmCMyFNCKwvN8SdjfMHv6gh9TLMq7vS",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "8QaDTz3nmoPX7efSyn6tkR6ueDsiD3CEaZW76G8BqCt6",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "5XKzDAUy7QYiTW7U7p4fK616YKxCi2LFP3qaQndZzqr7",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "6Zqv6ao85DjS59GWVZnanpuPtBoLs8ywXKdoQcGp5ZMc",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "BYFC1Ar5Bt37PDWBWHvd6Q1hJm4x17MsDUR2yStxWvMR",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "6Ghqr9E3pKsBDJJsn5oFgwg3s7iTbd999UJqZTHpKd3H",
+    "amount": 375.28241773690905,
+    "refund": 4.94
+  },
+  {
+    "address": "B5cYxfV4fmNGaeqwTh3cjG7Gya52JWWkg5tmhurFwxjC",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "6jGEoaH1WN5NsT4jsPsEh7R1N1sszw7xXJ7hM1LJftC3",
+    "amount": 106.35534105904306,
+    "refund": 1.4000000000000001
+  },
+  {
+    "address": "DwtF6KdjB9xgzKhCvcxKQLGU1NezdFFdVo8tLzSb7C8W",
+    "amount": 987.5853098339712,
+    "refund": 13
+  },
+  {
+    "address": "J9zUA3DZGuGykXWqgnNzrVGnyJfSyi4Di4KjJG7KRNVU",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "97tfky5tpyoyw34xaErZy1McPx2rwE9NcpwuYwYWWCAZ",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "HZBHqgUacwR3p7L52Nj4fj9TRypYx3M9KsYcnEjD78Gb",
+    "amount": 34.185645340406694,
+    "refund": 0.45
+  },
+  {
+    "address": "HBDdCy5tLEhdsQtV4fWyqMtVAon5kqt1GXRT3HYW5mMi",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "CM9XYrfwYCKYbr3b1UGM7rNuheRuP78CGfdFMphjMn8a",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "AHrhYDfsTTmdKRHV6BjRVw32SxQv94VQ7kojiqQawS39",
+    "amount": 98.75853098339712,
+    "refund": 1.3
+  },
+  {
+    "address": "FsfR7BnCubG6VCY6FwvL3Y5QXz1Sotwi757UGi1Y2X9",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "F7UzXyPzdSkkC2iywEfGnLgcP9HZnQofEHyqFpuJS5KY",
+    "amount": 0.22790430226937797,
+    "refund": 0.003
+  },
+  {
+    "address": "FN4DkZaYgnSCdw9wvSfq7fZmBuNKabpsXVg8WfANFJjz",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "6NwED1jjqRbj1ge93zpBJGJddErXoXfQAn1HnFhCrhwC",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "3Zo9rg1ZzHQL53tSGv33qecUX33Kk4vEH48NTi7fz7g7",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "8ZypaNmPLbKNCPjKcRrHW6vi8ewEVkTSrumGN66AeEbn",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "6oD4nY7wjpvTaPULanty3MiFVAyUxmXernewd1P779r7",
+    "amount": 0.49455233592455017,
+    "refund": 0.006509999999999999
+  },
+  {
+    "address": "GbrJaWw2NHMMnJgt8qjcYEw6nMNafVnmcthiAzXe1KoG",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "EPfXeiqxJ3gZp3jqXqde4jLWm5Hof9knq8fR6osjmw5H",
+    "amount": 0.4732812677127416,
+    "refund": 0.00623
+  },
+  {
+    "address": "AbZrjbsTuTMM5QYMkP7jsfuqVrX1LdLpHBh41k7jSvLb",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "GFgzxLNjw1GS9j6voNnurySbn6STsQxpV3ZdFdwUuHRM",
+    "amount": 0.9344076393044497,
+    "refund": 0.0123
+  },
+  {
+    "address": "BQGD1Y5sU2crWV9YWYixquc6NPParQrq3SzJTHkSEZuC",
+    "amount": 0.48619584484133965,
+    "refund": 0.0063999999999999994
+  },
+  {
+    "address": "BY9HKXmiscH2cHTnMWYxfXeBrypiV9vxaHPkitg1WGyA",
+    "amount": 0.45732796655388513,
+    "refund": 0.00602
+  },
+  {
+    "address": "3KADxp8Kc7qgMshjKdbZhgMszBLTVrJ4vuD43ekvJgAV",
+    "amount": 0.5317767052952153,
+    "refund": 0.007
+  },
+  {
+    "address": "Hhq99SbQcMWvNp48NVpA9S2k5TC3jRhsm5ZfWpGNUMTH",
+    "amount": 1.0483597904391386,
+    "refund": 0.0138
+  },
+  {
+    "address": "5Jw6rsUexvbMic1S9si3sxjKh7cbNSUJ95orQZLAib2i",
+    "amount": 0.6077448060516746,
+    "refund": 0.008
+  },
+  {
+    "address": "6cepkR5bTC3hA3bHPuPMKqJJM5r4WynsDCKoF8s6AsWo",
+    "amount": 0.4785990347656937,
+    "refund": 0.0063
+  },
+  {
+    "address": "9unDMst4tDKjcRo5zcho6tnhj5z5DGaDksPGT8FcAsJn",
+    "amount": 0.6229384262029665,
+    "refund": 0.0082
+  },
+  {
+    "address": "C7JDshA9YdZGyooiiUefbf5QVb4ZPQ8ytbG4364fXnzX",
+    "amount": 0.6077448060516746,
+    "refund": 0.008
+  },
+  {
+    "address": "944WVzV7Yia9WNK4nzazuqM5ixT9CTwbdGcc2dESNSDN",
+    "amount": 0.5067072320455837,
+    "refund": 0.00667
+  },
+  {
+    "address": "6MjMSfMH2rtHkAt4jHtBZQ3N8rU2qmQy6SSNLt5Tqe5U",
+    "amount": 0.5317767052952153,
+    "refund": 0.007
+  },
+  {
+    "address": "2iGhpY8FNXgFJRmuhifEBGtkKJ3G2ezekabm28hWPV8a",
+    "amount": 0.5705204366810095,
+    "refund": 0.007509999999999999
+  },
+  {
+    "address": "8b4CWLWGpzoceA6KX8sUqcp2jhA8mqgyJsXqYbvaegcJ",
+    "amount": 0.5165830851439234,
+    "refund": 0.0068
+  },
+  {
+    "address": "6EQmyEbA9UyoWQqrUYtku6Nx323RBVMhvSnzKC3tdnWG",
+    "amount": 0.9344076393044497,
+    "refund": 0.0123
+  },
+  {
+    "address": "EGL2hgXzQGNAcpZGUjEU9j3sGSnkhdmAP9pES74KFRWZ",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "2RMyHUYv4nt8HBUdfqQMAvZ7ibFFYL4nxobwjyFDyYi8",
+    "amount": 3798.4050378229663,
+    "refund": 50
+  },
+  {
+    "address": "5CzsqCr9DLgvazaEEyLgECAt5qA8nFYKuEFb1huseHyu",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "64PvBVokwGVBiuH1btSh1mMzTvWW7C2tfrrqsuLQBwGT",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "644ZUzP5nt1Zb1RoBkPVKHQCWap5LCmxDUF3jPhLQZit",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "3k6iCDG32dd1Wznv7Nce8YNRQLkgty6XLumP6c3EmH1Q",
+    "amount": 0.9116172090775119,
+    "refund": 0.012
+  },
+  {
+    "address": "Bpgiv16AeWoTP2ARJ1TFPXnXuLvjTFEj4TFL4cc1FpNF",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "4NQ6e8MhTdLyrpe2EGeNN9h3x67JRXhfhV8BinhGeVYd",
+    "amount": 2.2790430226937795,
+    "refund": 0.029999999999999995
+  },
+  {
+    "address": "3KWd8hiCEFxTiYTBtSdFrJhsqTqQEZAdjjq2169vBELF",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "G6RnZQ5rLQf1RsDr6VeALuUNKyFwaxozwavtd3dpYPS4",
+    "amount": 258.2915425719617,
+    "refund": 3.4000000000000004
+  },
+  {
+    "address": "AyH3MUvkuYGw2mUn9XZrV7FuTxJwj8r3Y37EgFgmzzZ3",
+    "amount": 0.3038724030258373,
+    "refund": 0.004
+  },
+  {
+    "address": "4HKUpMQ6ntRbXM54kU3Cqv1mGrjtxGg1mu1RoXgptEXt",
+    "amount": 0.07596810075645932,
+    "refund": 0.001
+  },
+  {
+    "address": "66AzwXDdNBLRkXesHkLTDCafaV2nQJGaPpUh4jb7cYiB",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "AYdfkN1SakzC1NRm57iVgVNxSnpCV9R4NJB8rq4pAK5S",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "8deGch5QpVhDR5cU55t9ekEVTkzqCEShMqm78MDSKbse",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "8sZWc4THx4TWc8wcXjNdjAufMhRNHFHpi27pPKq3aEgt",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "qDvZPFA2QZbUnorZ7yaaCPeP4Ppfqx6K1SDhiy8EX7i",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "CccorAECd5N3pWdocijPmiRWDgkZqSwi4tBerAnA835e",
+    "amount": 11.395215113468899,
+    "refund": 0.15
+  },
+  {
+    "address": "HgN9yDEsDoSgWzAGcX5MGeVawESS1H9mEApxAFxpvJrX",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "8wh1wNYRyJqV7o8LkeykRymzXnAotHYvAuAGNRaaKdsT",
+    "amount": 0.07596810075645932,
+    "refund": 0.001
+  },
+  {
+    "address": "DQ3kBvbaTdbtaMq2ErgsEVTPG7VirA9BfYgJmiYsgUdT",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "Ec9LeH9pbysvnyCLevjV951LvRKxUG7eD5minhKL5pKx",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "5u1L2T2xrfu35zvMRDS4RvgaH2nQhk3MJNp91FHrpSEZ",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "DsXTQ59D6qPYE3z7A5MPLyfcQ9G5CDhtCwiGkJL6TUP9",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "GHme5DMDjqtPu3G6S4m9mEuW6rP7xvrS2cCtHHBSd4Xu",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "Bv6ZhSg8Snj3QrKZAvhf8GLFmHxi7pVzR6XYY41grmCi",
+    "amount": 68.37129068081339,
+    "refund": 0.9
+  },
+  {
+    "address": "AzyjmvP3xV3Wk9GLf97yjjT1zptsAXMoT9g1fnSN2xUP",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "D7S8q3bHXtfHXkfEAhw7xfECRQCbZB7uVyc2M9VMAoeB",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "J9EtuvxZppmiDj2x4dxHJiKaMFzX6LWR5A8TTdmhnS7m",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "4Pr9LjKE5Vj1xmA9qY3bWrjZ4LLKbiQup7SrYZsyieMr",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "4giz1J5GRBAS3B5VkrEZ7d8zeoTtjkBTdkYWj4MmZZcB",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "C5k8ekZJpvgPHeRGT1gGwBZJEasJqQELDigNmgBZRpJs",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "A4CQ97Rs4XtpViLxk1hkGmcECnWncRL3aanqPxdYYoQG",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "4DvhfcryKn91EhNDhtxu4smAxuKbmmfomacDPV1q7CMD",
+    "amount": 0.9116172090775119,
+    "refund": 0.012
+  },
+  {
+    "address": "DDpJSAkSEW2EhTGhA4RAmdvNUrDZ4siWohUc9qvMHBqC",
+    "amount": 11.395215113468899,
+    "refund": 0.15
+  },
+  {
+    "address": "DXAWDmESXDQzaJhCP1EPvrgpNe2ySp3gxAzyBPMAXSAo",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "3tpw9E3Zyex3yJ9onQPhi52CwRoQcD4y771kXywmaWpu",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "2xMW8ckFiXhXk5eifZtwaNM3c9f9rz9kQcQWf3kVQN9s",
+    "amount": 303.8724030258373,
+    "refund": 4
+  },
+  {
+    "address": "9ZuXd7LP45FPRzBiAkGiviYHSiSY5egMWppde3H4yBaX",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "EoLXNgAAYJczk9TE4srYayK5syRWKyf9B4exJa98mKt8",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "FbTt1UGLNNbe1Q1PHTxoapWe88Ago9i8NGMV638V66Mo",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "A5gbyh93r9AFem6ECpkbNAAdWShqk8S2aidXnYCgyjpK",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "HfbT7JmdrYSnjYvXNmDZurQD3zWoaiUWmYCBGSM3zw7q",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "CMHV1oahRbb99HRgYrBUjJzUCJTkYT53uK3rNY7QHQAp",
+    "amount": 45.580860453875594,
+    "refund": 0.6
+  },
+  {
+    "address": "58PEo8bhfLwRvGsAFjr4KvHNbVzih1AB487yeuEwMLqh",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "8zeC6mW9N6hXxCoYdkxmbHvddGYjtynBGLGraNe5N2eD",
+    "amount": 5.317767052952153,
+    "refund": 0.07
+  },
+  {
+    "address": "37rC642TQdmHFUFMyuS31g9sfjvkQW7ZU5mRS5raea28",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "8CFMzH5oNRC3JVYvKV8W5HYNhqinvyb7KrUXihDte5Ye",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "E4SjXetVXhPYE8y5nLNfSHLb8oPybJNgWzSdBSSRMG8Y",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "wn2JjHur6RsyB8LM4PAUYc33m9RxPHjAKQGk4dtK8bq",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "6MYmfwNztVUczauNEWpfMPBAvbzYDihDbQPkAM36WtCK",
+    "amount": 0.3798405037822966,
+    "refund": 0.005
+  },
+  {
+    "address": "czyAcN8sQydSnkh15PCnegmpEM4xoZDfbqBYpU3NEKt",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "Etj7ReXDRLDjysgquTPGXJPMuWXoCd1ueHJurpFUji7Y",
+    "amount": 34.185645340406694,
+    "refund": 0.45
+  },
+  {
+    "address": "9rnKvzMEVbeHof1rtpgCWQ7RPatFshndeTaqYPEDYUMx",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "73w4UAVnfnXgq9kbrUvYe99hqHpLuojnAFEZNDUkJcLt",
+    "amount": 226.3849402542488,
+    "refund": 2.98
+  },
+  {
+    "address": "4gnRS6FKrfpmYaRqJXfh5U5KMsmhW9DRtDvJtJhjCRGU",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "HNaR1autD3fRVaeU4YQWjLsCF1NDuDL9PcKg57aVb3HJ",
+    "amount": 5.317767052952153,
+    "refund": 0.07
+  },
+  {
+    "address": "EVnNzkb3Py3zAD8tURTQC5pBY27Tj1G9bPbWorLytJte",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "54hABH19fx8q9bvMGEadb9b8B7zpiA7kyyYMgLyj7C6i",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "5EfUgspnzHJ4iF7K9QxTFHKUavFKFQ48bkDKpocjGdKg",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "GKiVTVm5xJZo1fhaGhUgLcHXrZEoBPgsmkXsC93HKfBy",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "3FQ7VRRsKdDX8ZRvYLNpYqgjm54AnmrEFYdnjD6PsfC8",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "9Dn1k1nSMZ7neUwvXag1jxzx2bPPCQxwHerj84hPUR98",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "H1kpvubCmc8JDRmAzEQ9FhcsaXVMNK6f3P4ZD1Xq59dq",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "57GTTxUkbAeNrUnoVHa42AfqeRJT7jtfmVZ5zYNJnepi",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "EhoybcrtLDKMeRgFxfXzi2R5BE5RrBcB2Wi8ShjCXub9",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "2MvAnXRjj8dD5VqTZx6h3kLAWMQ27NqQujmGYdaxFr1S",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "5acAyDD4WeC62dkWFqyGdJhaqTLjYNjVJVcqNsXNdnsy",
+    "amount": 227.90430226937795,
+    "refund": 2.9999999999999996
+  },
+  {
+    "address": "2PbUUqjr52DqaGUoXP7DQncCEZfhQM5n7qeyxmcwnsCb",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "sUdbH1LD1ZFK41LWm8NQFkbSJYVdGshsDhuvSUpeemA",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "GeZPR7m2b2JxmuGKGWYvMQc1BkrRkhZcRKdSyzXVw1bH",
+    "amount": 364.64688363100475,
+    "refund": 4.8
+  },
+  {
+    "address": "2XKqpG92JCKqRvT3Xq5sg8JWr7Nyt1vfxV8Gh8Boarxv",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "9Q5Wiorcs2NEoUjx3M9YhXMQFmivz2GB3jPA6J2RTkfD",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "SS8jf3hcARZw1km85XrdjDVeBzxqAt2W8qq3bxTmWMv",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "2kfESP4sv3RpeRAb7mV47goNcHaaJWwXyiw1CN8eFjwr",
+    "amount": 18.99202518911483,
+    "refund": 0.25
+  },
+  {
+    "address": "48bxomSu3kB9nwmkoeydETbTydZhWfGkEorPVsjvFQD8",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "2uJ1G7qbUehPf41C8iycdsfTr4sqkRPvcVVbPgMVZuX3",
+    "amount": 53177.67052952152,
+    "refund": 699.9999999999999
+  },
+  {
+    "address": "7gvyqBjXztzBrXkieGH1vFXSk9vpTrPfH2X8yFv1CFYV",
+    "amount": 113.95215113468898,
+    "refund": 1.4999999999999998
+  },
+  {
+    "address": "3ZM1Endh5ve4X5A89ap8WHzoazCgZJNChe7rmgEGCmty",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "7ADb85Qyp9j5XJiL8FQxRBmR3DVVoz2fg3cLqGXdKaKX",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "CjXM9FCUrctaq46VpU5ffX4tk6csGvv4cCfwYezDXRbN",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "GDUfUqU87TB1Jvi96jo8UiN1fubqou3jj1xX46bjuhAA",
+    "amount": 227.90430226937795,
+    "refund": 2.9999999999999996
+  },
+  {
+    "address": "6K8hJAX69ch8uYG7MyTmD8zEGEkYuTm8r14VmQvzg5Cx",
+    "amount": 14.43393914372727,
+    "refund": 0.19
+  },
+  {
+    "address": "EXAkNSyRfe9MBVnCjw5XuwpqUbJnhnyUU2nauFCNJ1hh",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "6QftMsX2pcdNjiVH7LUN1NHEDT4sycE9dZQynXswwFxP",
+    "amount": 51.65830851439234,
+    "refund": 0.6799999999999999
+  },
+  {
+    "address": "AxijGEBnpsitVQGrUncS38sSo8DKypRadtnfvxMwGfCW",
+    "amount": 759.6810075645932,
+    "refund": 10
+  },
+  {
+    "address": "J4KJSwQ8akzLBTU5oMqczX58zFfhX3wn4EmR2qKxViNo",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "7mYrdycND8Aaq62JNRUovqfhgWDfFxGFB5DKLGBG4dE6",
+    "amount": 154.2152444596443,
+    "refund": 2.0299999989999997
+  },
+  {
+    "address": "2TmgrcgSn4SSV97CmyR7wBB8R7KTsBtvBZ2j1xrRSCDs",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "B6FyCX9eucv6urs3hvg3qJxdqDoRAUwF4uvGc8dY8wb7",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "4SotBD97WbYW4kEzf3iZ1mVm9ZKAfo3ia3rvjfqL1o11",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "3bL99k8oLDhV3zMBd3QHLFVFDRCzSa1LBHCZtkVt6zwD",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "HmHrEmSV93riCw75586xGdweatxUg1VcfV7ntRPYXx2G",
+    "amount": 1.2914577128598084,
+    "refund": 0.016999999999999998
+  },
+  {
+    "address": "61jX8PQiBDksKPLJAEtHhtksKAbPZi1dneSRp5Bjz8su",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "DCb9SJ9tcYvRSrsZjFMksoCyqLWcFrw8SMbchrPzSR1Y",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "GJH3Gw5fmFP83GYAbkbd2diwHFua4EihbyEdnCzi33Ur",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "A7Db1FDLDYZ6BBDRgH27zXNKQF93iYiVnn7S6wfGDoRN",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "4tY92KbSxAs3XFDuFcofsWR35rC26dSZHeUfrnbNAgU9",
+    "amount": 835.6491083210525,
+    "refund": 11
+  },
+  {
+    "address": "Bz9JpWztvkLai97k2H9s5rL5sMpnr9xQFLngNMFaEz6q",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "5Xmvp2P9TYZMZyxteKDTAPMrSxC81nUGqDmnBLW5g9NM",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "4e9eXUYVB7B4bATSYJXyQt6e6ofAxxLrwKkVJ3Zkjes9",
+    "amount": 2.5829154257196167,
+    "refund": 0.033999999999999996
+  },
+  {
+    "address": "BkwEuWLPaKbFUFFcGApr5REFR5pmFgY1CdDzB7jZiY5f",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "ChMwPsNy2XD1c5qAXY68RBosNRyjmFSGDtHneC7PuJmz",
+    "amount": 13.674258136162678,
+    "refund": 0.18
+  },
+  {
+    "address": "8bWCf6qq4kkgnw3muHUicLhxEBF2UNYCw2KumQmvPSxQ",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "BjD3iS13UhJCUcBQv4wMEGhZC4QvW86uJ5y6175YT4fz",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "DCiiTgCQdJnsagL4Dt8AF1rnH8qF8nDfnC3yCSUYXggD",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "BirbhshRYSMt6TX4J5axp73iQ9wvRnHPoC2hodD97M9S",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "2ZifBCWf6ocw6ZsXDQPeEB2q5zaq13m8xww6w4ALn9Rh",
+    "amount": 1.1395215113468897,
+    "refund": 0.014999999999999998
+  },
+  {
+    "address": "D2RA3qvcMoaMRQYixUEU3BgcihvZ5jsusXATUEAQ9UbQ",
+    "amount": 2.810819727988995,
+    "refund": 0.037
+  },
+  {
+    "address": "ALxV5kWZp5RHDY14cxENcqL5zuhxrnC1iXtbLkKNkDpw",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "2LQJrdbRLjb1P7ERZse1funVr4kPTD3FUQmBpskHgguJ",
+    "amount": 8.356491083210525,
+    "refund": 0.10999999999999999
+  },
+  {
+    "address": "GVXZ7tmAMz8xfjN97axwmT6HykyyWBTt8qVwhT39UMqk",
+    "amount": 189.9202518911483,
+    "refund": 2.5
+  },
+  {
+    "address": "CPqb4kSYTpUwEPbiAFSJecZhR6tiEHeCWZNRDscNDcC9",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "FeGjn65pSfAH83r6apTUWSTLsNpX6ECbUHyct24ym9bM",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "FUndJgacQv8ZLiK3vkJEK83XtsakZQ9Y6wf22h6trH4T",
+    "amount": 56.97607556734449,
+    "refund": 0.7499999999999999
+  },
+  {
+    "address": "8xpFvY5HpXvp8GcRw5qKRBecMZsRqG5zhQSRox53GvUJ",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "E7hZscR8MSUtpnrxbG3kG2sZbHJUscsQ2dv5yT8JyWLE",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "A77YtkZBcqXzVdv4wdT8W2qhcaDKD3FtsBzCHWmrnCwE",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "6q4WDySDP5iKyB4Wg4CNTaUsuFmYkg1HTVbtd4ScdNC6",
+    "amount": 68.37129068081339,
+    "refund": 0.9
+  },
+  {
+    "address": "ArnUTT2pEhG6WS4fc8Q4MU4yV11bvexEQJn2KRKxSADV",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "3kGLt9XXLQTF6UvjTP6sRnTQcj3hq1C6r7WSUAzJkuZt",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "6S1xfZyM2XuhCSZFj7fPLz2jRQjgiw5zpDi5FwvTyc5n",
+    "amount": 1.5193620151291864,
+    "refund": 0.02
+  },
+  {
+    "address": "Ch4yPitsqEKt89iMr65i4D6NPztth9AndemeU17Ed7FN",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "EoERhMh7CFWGArXPuHwFMwauPyRQpRs2g13m9U2NSLYv",
+    "amount": 3790.80822774732,
+    "refund": 49.9
+  },
+  {
+    "address": "8pMw3frRy4pDseGAgNY19Gx5pz5fqEdkq3UTS4vY8b9t",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "GDKmNCjPECt2PmzkefFQQSPUxEZXjBiFLPRj9rRZ4YwK",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "DaoGn9BF1TQp31VMe7MFBuTguqLfB1rAPj1JWuLisSJh",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "3xig7TSoaEzRMoN5nRUSTJi92GCcuQxzjvKG7hjff9gv",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "7MtLL7BE26RT4pHzsbtjHK11qFxJNsGyTAH1NkNE5iq7",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "6gE4fUzw75BsE9ydGc4MkW3ADCW46QcXihus4zcoNJyZ",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "BAiAzJCjmotJnsvvgAwu9HPXuZm4UrjKZa98f2xfk9NA",
+    "amount": 1517.8426531140572,
+    "refund": 19.979999999999997
+  },
+  {
+    "address": "39Ng2sWL9DBwPKKSHQx1AxQqyjP5bckMR4kXdi13uidG",
+    "amount": 25.449313753413872,
+    "refund": 0.33499999999999996
+  },
+  {
+    "address": "61rK9ABgKsXM47zm4sNq3KEzhn55p1F1zha2P4Rmksor",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "9pBc3gc61DfFZeLRtdsWfY5SJ1rRMwL4jZ3ciKxiHgNb",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "HNFEq7F1hAHWxSGcquQQGUyDzmKiKV9vGP19dCgj7eCS",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "ALuekxTXQTAjrzjYGrcqXtkfFZS6mTBXmsTAHQSb8GA4",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "HBrQsrhjy7zC9FU1J9KfpoGJgX2kvXWFEGzvXCTdcWjC",
+    "amount": 41.78245541605263,
+    "refund": 0.55
+  },
+  {
+    "address": "3GHAT6oztp3aCJpsAWizGDA5zSjmy6EztnmrxAy6XvDT",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "8888884FwxTfNYiVsawvpnLAb8yB5n2AK4fRK5bJDB65",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  },
+  {
+    "address": "CfSWKX95pKU9xNkU6GQz3mautBysBTSokhx2LMHUGBrg",
+    "amount": 3.798405037822966,
+    "refund": 0.049999999999999996
+  },
+  {
+    "address": "3kFeJmxaugdTErS5w8vhoCAvUMRwJ4DygB7J4be8FGE7",
+    "amount": 265.88835264760763,
+    "refund": 3.5
+  },
+  {
+    "address": "GjXChpBbWDS5AyoWxPS1BqSVztN6nKNKLAu4Lp1KQQg4",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "9uYQXj9AXVid3WS37AJA6QYw4ynTp8iSLieqdMnqsgtn",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "8PKwvGv3rPniR55M7dPvJtwwUDzDTFJAZbty6zJnUZXJ",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "EFyH9j6euiCz2aJNMi3Gnn2M1TcuNgiBvzQVYvDrQ1iM",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "YBUGY3cZLNfSyGhubq7XKhCpg86uPURksvyjhayBEQF",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "AC5EfbwmhCQSNDoN4h14M6i3avs7Q6THEpzu5twoQYvC",
+    "amount": 53.17767052952153,
+    "refund": 0.7000000000000001
+  },
+  {
+    "address": "9M7hdqYeJgJcZcgjhaZhhfSNUhP1QmoBfGXoYBtweek7",
+    "amount": 11.395215113468899,
+    "refund": 0.15
+  },
+  {
+    "address": "EEaETSUp2EveGGj6WBwCg8dcufyfFDyU2nSZLBYUddh5",
+    "amount": 151.93620151291864,
+    "refund": 2
+  },
+  {
+    "address": "AHQEbxK6dNVhSWrFJ5mEJEZJNR8eHgcebhEkizDWueAQ",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "535mnYeutu94gRB8HaJruSDskJxD2o4yb8eSUANwXxen",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "B1XXRMQgK6cSS5cdgWYVTNrRgsY2tCfYVVdQPvsGqkyx",
+    "amount": 11.395215113468899,
+    "refund": 0.15
+  },
+  {
+    "address": "HXnSGNkZhxoG79TJW5DBz7ugxoUAHUeVUczJatnBx9ji",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "EVZFuaschhbpSkEEuJFjcNAfPDUhKJ8p751DxyQqHWeT",
+    "amount": 379.8405037822966,
+    "refund": 5
+  },
+  {
+    "address": "9x5XwsMJEfySgBpXhovR999EvrttuAZEf3ZysUuR6oS3",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "2c7h5TJ6L1tucVnvAc4E9AFXSE18GDne7x9w99Bu1Kov",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "5Co8FfQBjVGhYavGKPvT7E8uTWP3F65YE9kQ29Jzw2n8",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "3U12E2Eog4i9hoHGt7UktCnam5pe5h6UvDsUpHPjWn8A",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "8jC9nqD2ayh3cDMrTeV2e7g73tawxXaySossLTrDxThY",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "7dYUmEvRvxG5U8JeAUbMAvVf6RQ1gwMxwRPQuAi255v7",
+    "amount": 15.193620151291864,
+    "refund": 0.19999999999999998
+  },
+  {
+    "address": "AwU4DgCNGq2HbNdijU3sfGvEyX4qZ49EbbLBPT4RLT21",
+    "amount": 37.98405037822966,
+    "refund": 0.5
+  },
+  {
+    "address": "G1Ppi8Vr4YhSzEPNVm6FVK4qYhXum9EE7HZVJq2h7kQA",
+    "amount": 30.387240302583727,
+    "refund": 0.39999999999999997
+  },
+  {
+    "address": "6AZJCjhk2e8v9fDm1R9Unfu8wikKQUTi35uvH2AtBdGL",
+    "amount": 75.96810075645932,
+    "refund": 1
+  },
+  {
+    "address": "7x4mp6R1dv58VPhG5JL8Rst2Anh2AyzLb3sV7zsENcDR",
+    "amount": 7.596810075645932,
+    "refund": 0.09999999999999999
+  },
+  {
+    "address": "dekvPjCK1v1Z884ra5j3UYpgYiWtKXS56UuW3cn3jTk",
+    "amount": 0.7596810075645932,
+    "refund": 0.01
+  }
+]
