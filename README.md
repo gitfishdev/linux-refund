@@ -15,7 +15,7 @@ As of the writing of this document, we (the GitFish team) are in possession of:
 - 25,003.37 SOL withdrawn from the liquidity pool
 - 438.24 SOL in auction fees, transferred to the admin wallet after token launch
 
-25% of the auction fees, or 109.56 SOL, has been pledged as a referral bonus to users who referred their friends. In other words, a total of 25,003.37 + 438.24 - 109.56 = 25,332.05 SOL is recovered and can be returned to users. 
+25% of auction fees collected from referred users, totalling 51.78 SOL, has been pledged as a referral bonus to users who referred others. In other words, a total of 25,003.37 + 438.24 - 51.78 = 25,389.83 SOL is recovered and can be returned to users. 
 
 All present and future LINUX tokens in our wallet will not be redistributed and should be considered retired. 
 
