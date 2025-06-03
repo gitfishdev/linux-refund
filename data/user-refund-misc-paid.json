@@ -1,0 +1,8 @@
+[
+  {
+    "address": "GcH9fm3fzrGgrW71f9Ua44gyPBSsemaNCTb6vDTcxQ2d",
+    "note": "During auction, the user sent fund to the vault which got directly added to the pool without getting any $LINUX. https://solscan.io/tx/5xrsTyPxyfsTvjbRu7EAFfCC68eK53H9GTD9MJgAfuRpyy1TgKSW3FS5MRHHafWAWYVqfLFh9K3Sy5rDPYTREXZC",
+    "refund": 6,
+    "tx": "5Z6GgjM5uSJpDJnJVf7jjVN4UQRnAtZMvQEpF6myKQcPyMNBAG6hoBEbSGMteNQmxNDFFTM21rHpBP6ucRG4DADR"
+  }
+]
