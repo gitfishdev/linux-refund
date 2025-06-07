@@ -12,5 +12,5 @@ Paid refunds (each record has a `tx` field indicating the refund transaction):
   - `user-refund-misc-paid.json`: full refund for users who sent funds directly to the program managed accounts.
 
 Unpaid refunds:
-  - `user-partial-refund-linux-returned.json`: partial refund for users who had a loss but returned all their $LINUX tokens.
-  - `user-partial-refund-linux-not-returned.json`: partial refund for users who had a loss but did not return all their $LINUX tokens.
+  - `user-partial-refund-linux-recycled.json`: partial refund for users who had a loss but returned all their $LINUX tokens to the admin address.
+  - `user-partial-refund-linux-not-recycled.json`: partial refund for users who had a loss but did not return all their $LINUX tokens to the admin address.
