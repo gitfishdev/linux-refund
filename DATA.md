@@ -8,7 +8,8 @@ More results, along with source code for supporting calculations, will be made a
 
 Paid refunds (each record has a `tx` field indicating the refund transaction):
   - `user-refund-not-claimed-paid.json`: full refund for bidders who did not claim their tokens and have sent all their tokens to the admin address (Note: this list is final)
-  - `user-refund-no-sell-paid.json`: full refund for bidders and traders who did not sell their tokens and have sent all their tokens to the admin address (Note: this list will be appended with more users sending tokens to the admin address)
+  - `user-refund-no-sell-paid-Jun3.json`: full refund for bidders and traders who did not sell their tokens and have sent all their tokens to the admin address (Note: this list will be appended with more users sending tokens to the admin address). sent on June 3rd
+  - `user-refund-no-sell-paid-Jun9.json`: same as above but it was sent on June 9th
   - `user-refund-misc-paid.json`: full refund for users who sent funds directly to the program managed accounts.
 
 Unpaid refunds:
