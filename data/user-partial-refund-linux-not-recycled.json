@@ -2,2629 +2,1321 @@
   {
     "address": "EJBy6AxMtxfX9P3wpDNw3C46TAjQeSbBwYNgVTabhVam",
     "lossInSol": 35.19534101384535,
-    "returned": 0,
-    "remainingToken": 0.2924590000002354
+    "remainingToken": 0.2924590000002354,
+    "returned": 0
   },
   {
     "address": "6xbV17oHY3srdRb6jPmVWwUug31Nb1wC6td7XkxjcZPk",
     "lossInSol": 13.048692829583985,
-    "returned": 0,
-    "remainingToken": 12.91281200000003
+    "remainingToken": 12.91281200000003,
+    "returned": 0
   },
   {
     "address": "2Y5tGkFkPELejn2S9N3AMqcbKg7b1wkjxcdxMdSQ4iDy",
     "lossInSol": 8.211110409910646,
-    "returned": 0,
-    "remainingToken": 0.0013640000001942099
+    "remainingToken": 0.0013640000001942099,
+    "returned": 0
   },
   {
     "address": "7cXkCT3A4qW9nPZy9NfayHZ24ypwXB5PWzhuT2QmL64y",
     "lossInSol": 6.842442046336629,
-    "returned": 0,
-    "remainingToken": 83.923133
+    "remainingToken": 83.923133,
+    "returned": 0
   },
   {
     "address": "Er2Nf9uDenzdNRATWzgzHftKkjUnqXbDinJMDbjKJeC8",
     "lossInSol": 6.320535812278251,
-    "returned": 0,
-    "remainingToken": 0.099885
-  },
-  {
-    "address": "77NdrveTSr2Z4GjRrgf9JUYRX1zZFzZGDqbnjWMy8NC5",
-    "lossInSol": 6.218417354171186,
-    "returned": 0,
-    "remainingToken": 0.08694599999998331
+    "remainingToken": 0.099885,
+    "returned": 0
   },
   {
     "address": "BcGvxcGwcX2fan3eCuaTNue5Z29SaxuczfF8tkLLZbMc",
     "lossInSol": 5.8272476931994355,
-    "returned": 0,
-    "remainingToken": 0.10822700000016994
+    "remainingToken": 0.10822700000016994,
+    "returned": 0
   },
   {
     "address": "DngJJAuicE33y1ZmgcvHieqs62tCLPHSKM3pJLjzTQKt",
     "lossInSol": 4.933616343000001,
-    "returned": 0,
-    "remainingToken": 488.998017
+    "remainingToken": 488.998017,
+    "returned": 0
   },
   {
     "address": "2mtKESPrinussnN3E1uWFNCAQiEjcpESGD89CUxAGT2R",
     "lossInSol": 4.702141915288376,
-    "returned": 0,
-    "remainingToken": 0.0314210000001367
+    "remainingToken": 0.0314210000001367,
+    "returned": 0
   },
   {
     "address": "HyxzmL2xi5GNjxwANVnNkhN8edebE8KYzFi2k3ax1uob",
     "lossInSol": 4.16581066451313,
-    "returned": 0,
-    "remainingToken": 0.002567999999996573
+    "remainingToken": 0.002567999999996573,
+    "returned": 0
   },
   {
     "address": "3m6KkNY78jTUUVYFKKimbbRj4bdm2S9qqTXDM9E4ZHPW",
     "lossInSol": 3.8074719235552204,
-    "returned": 0,
-    "remainingToken": 0.5771399999999858
+    "remainingToken": 0.5771399999999858,
+    "returned": 0
   },
   {
     "address": "GHx6ngE1KtYWzuhCkdAD61Z5KAL8H1baHgUNGKinsefZ",
     "lossInSol": 3.8047088335552193,
-    "returned": 0,
-    "remainingToken": 0.5771399999999858
+    "remainingToken": 0.5771399999999858,
+    "returned": 0
   },
   {
     "address": "48fPYNVaFKkP9fmTHvfwQfAkG8YpyzTgkXTgvxh87Se3",
     "lossInSol": 3.636716613555219,
-    "returned": 0,
-    "remainingToken": 0.5771399999999858
+    "remainingToken": 0.5771399999999858,
+    "returned": 0
   },
   {
     "address": "BYrwvM3VdcKccT3Xc4aPCqizMJr1ZJqbG1JSrgkVKD8n",
     "lossInSol": 3.6332756815552187,
-    "returned": 0,
-    "remainingToken": 0.5771399999999858
+    "remainingToken": 0.5771399999999858,
+    "returned": 0
   },
   {
     "address": "3T8oKEGH6kwzcVyW4TM4smWeJ9T2U2kdgZGPwGmsw7sD",
     "lossInSol": 3.6278195030219034,
-    "returned": 0,
-    "remainingToken": 0.7462840000000028
+    "remainingToken": 0.7462840000000028,
+    "returned": 0
   },
   {
     "address": "3KHavrwizugmoo6e5wR47rY1WP7khQZ2NN3VPacT994P",
     "lossInSol": 3.44762037451319,
-    "returned": 0,
-    "remainingToken": 0.000569000000041342
+    "remainingToken": 0.000569000000041342,
+    "returned": 0
   },
   {
     "address": "86ssNTYmFVux4NABe22hjjicVsgLzaNfgQzLa1ScicPg",
     "lossInSol": 3.284224632888574,
-    "returned": 0,
-    "remainingToken": 0.7885699999999929
+    "remainingToken": 0.7885699999999929,
+    "returned": 0
   },
   {
     "address": "5pyDYJP3TB6WwwsUvLmP4Nrbhq19mRemXa4Nkumb2wZ",
     "lossInSol": 3.134135547258934,
-    "returned": 0,
-    "remainingToken": 29
+    "remainingToken": 29,
+    "returned": 0
   },
   {
     "address": "7Qw8CS2ywnp9VgHrH1sjpArpLsKWU9LV6TfqcjQ7jMGR",
     "lossInSol": 2.9249898013956015,
-    "returned": 0,
-    "remainingToken": 2.905382999999972
+    "remainingToken": 2.905382999999972,
+    "returned": 0
   },
   {
     "address": "8R9kA5dj7DQTZS8xMSr3DR3n7PJNAGPRUeCpUhhbuZdg",
     "lossInSol": 2.8567414365421224,
-    "returned": 0,
-    "remainingToken": 0.0005120000000147229
+    "remainingToken": 0.0005120000000147229,
+    "returned": 0
   },
   {
     "address": "EmZ9kTS2DNcVsXyrJLDxBjQCy7iHydXy8MBPgU9WhDgW",
     "lossInSol": 2.6844993930556416,
-    "returned": 0,
-    "remainingToken": 2.8408189999999536
+    "remainingToken": 2.8408189999999536,
+    "returned": 0
   },
   {
     "address": "EkkkcrgiH8JQQKt8s97Eag2WcahEQ2UZMpuvb9s8L6nJ",
     "lossInSol": 2.449210694577701,
-    "returned": 0,
-    "remainingToken": 0.030855999999971573
+    "remainingToken": 0.030855999999971573,
+    "returned": 0
   },
   {
     "address": "4MFATh6YdLk5D4KKSyo3khtWUbp29kovjxyXkfK4NEu5",
     "lossInSol": 2.4411626399377937,
-    "returned": 0,
-    "remainingToken": 99.894285
-  },
-  {
-    "address": "5BfMj4q2BLDo9baST2eRnVnhsQp3r8zRsGvKaGDVt4gj",
-    "lossInSol": 2.336022903863666,
-    "returned": 307,
-    "remainingToken": 0.4425499999999971
+    "remainingToken": 99.894285,
+    "returned": 0
   },
   {
     "address": "jYMn9e9YVuHPQ9ooTVak2QVRVFbmELX579BPE7JfU9D",
     "lossInSol": 2.107063311673693,
-    "returned": 0,
-    "remainingToken": 0.0005699999999819738
+    "remainingToken": 0.0005699999999819738,
+    "returned": 0
   },
   {
     "address": "5frcq38Nh9SrUbdLFQGKeKxgBzv7JGrqA7VaLB3fAm9T",
     "lossInSol": 1.9762287316219163,
-    "returned": 0,
-    "remainingToken": 0.8731420000000014
-  },
-  {
-    "address": "HuTshmtwcQkWBLzgW3m4uwcmik7Lmz4YFpYcTqMJpXiP",
-    "lossInSol": 1.889808500487447,
-    "returned": 0,
-    "remainingToken": 349.85480099999995
+    "remainingToken": 0.8731420000000014,
+    "returned": 0
   },
   {
     "address": "26LWN1FvXfU9Dd4F8hAAP1cH6wo8j1mwyu3ECWjqFGCw",
     "lossInSol": 1.7163414889238997,
-    "returned": 0,
-    "remainingToken": 212.586492
-  },
-  {
-    "address": "25Q3TqyiiJ5KAcYfFFZ9XEHkeS6HN567J2tmu5WUpS1M",
-    "lossInSol": 1.6989716410710383,
-    "returned": 0,
-    "remainingToken": 0.06468399999999974
-  },
-  {
-    "address": "DP3dwFywToTEpg88T3B5NMRYy1AVtL4eWbtTpw4wgRBz",
-    "lossInSol": 1.648723834055252,
-    "returned": 0,
-    "remainingToken": 0.8942849999999964
-  },
-  {
-    "address": "CpegbAgSe7aZfLjsamKtsbceZEU4wPoPLuUDV5XbpdQS",
-    "lossInSol": 1.4965503597210414,
-    "returned": 0,
-    "remainingToken": 0.09639899999999102
-  },
-  {
-    "address": "FSc7wTQhiwywyd1AFBcXCVq2kaYZoyqaQU6Jo26DHagS",
-    "lossInSol": 1.495500666679928,
-    "returned": 113.9365,
-    "remainingToken": 16.427180000000007
-  },
-  {
-    "address": "5hUShahcYNyKswVGDiPdkTQ9KjMmy2q8eER2kGZfNrz9",
-    "lossInSol": 1.4575701903219092,
-    "returned": 0,
-    "remainingToken": 0.8097129999999879
-  },
-  {
-    "address": "BAWxmSFWFfbeapRe7CFWTkvnGiEUSajs5cTd2n7hNmeH",
-    "lossInSol": 1.430562670428766,
-    "returned": 0,
-    "remainingToken": 0.005540999999993801
-  },
-  {
-    "address": "ECM32S5vNxjzTbQRcJVgDKGwZnYtg5XVmG46G8CzDRyi",
-    "lossInSol": 1.4146114860881716,
-    "returned": 0,
-    "remainingToken": 0.0001420000000109667
-  },
-  {
-    "address": "Gpf1VB9iFB1ELYgnSCNMCyrPJ5pzVa4w3s6DXJAAWjZq",
-    "lossInSol": 1.3449971756219163,
-    "returned": 0,
-    "remainingToken": 0.8731420000000014
-  },
-  {
-    "address": "72F356JV7ZUXRfdv54yzz5p8xDFRQ1NTzR6Z92mZ7dZ8",
-    "lossInSol": 1.3110496933314062,
-    "returned": 0,
-    "remainingToken": 0.009999999999990905
-  },
-  {
-    "address": "GqvB8ZPS8TcPaGucEPZ8hBd4EyyYniuibfrwkymZ3jvz",
-    "lossInSol": 1.1861286742827568,
-    "returned": 0,
-    "remainingToken": 0.002387999999996282
-  },
-  {
-    "address": "AkVxWHDU2Ky91FkiWskfGRLrt6SSZ9s6hZfKxeURGWP7",
-    "lossInSol": 1.0894435702268348,
-    "returned": 0,
-    "remainingToken": 0.07254100000000108
-  },
-  {
-    "address": "CSDTjN8rnjQSLcpiLSBWeKxaf1d8dgPHm21ZryHAYrU7",
-    "lossInSol": 1.0570644430583735,
-    "returned": 0,
-    "remainingToken": 65.3192
-  },
-  {
-    "address": "9vLqvVG8wy5tuNbPumUUPtjdWBFjytoqS7SATaoaEBmp",
-    "lossInSol": 1.0547366113262349,
-    "returned": 0,
-    "remainingToken": 1.8229860000000144
-  },
-  {
-    "address": "HAeYTzSifV1aqJsGE7nzzLFpkrotF22Y93xp7nLWYrB2",
-    "lossInSol": 1.0133617520755818,
-    "returned": 75.9577,
-    "remainingToken": 0.19650599999999496
-  },
-  {
-    "address": "7cHisGZ1NtrKehdLQX8TmdsweizvuXYyKkzbm5jYVQdu",
-    "lossInSol": 1.0107562394078795,
-    "returned": 0,
-    "remainingToken": 0.21791899999999487
-  },
-  {
-    "address": "74fbbwBBZ5zHr6pEuRLKYoZEUsi74pFNjpdShjhE5oM5",
-    "lossInSol": 0.9887790562243217,
-    "returned": 0,
-    "remainingToken": 65.70001500000004
-  },
-  {
-    "address": "CPerEa9RcBgjUU5u5pnAmYgByZLV8Gp9y3Nmvzqd5daz",
-    "lossInSol": 0.9693796239710677,
-    "returned": 0,
-    "remainingToken": 0.00005600000000072214
-  },
-  {
-    "address": "H19EoyaP1HzMkncDzPdDTvdgwvwj5uf7tYdpEQNJZCSZ",
-    "lossInSol": 0.9555336465950677,
-    "returned": 0,
-    "remainingToken": 0.005130000000008295
-  },
-  {
-    "address": "2pDuZL84dYMCTQAvbt8DQms7Ux8r6xFY6zetDtPyUbdT",
-    "lossInSol": 0.9547038752952206,
-    "returned": 0,
-    "remainingToken": 0.9361789999999957
-  },
-  {
-    "address": "4fps6R7mZemXQyHy5eSTZsFR7Qy6vNB88qM6ksjG16KH",
-    "lossInSol": 0.9410551375732166,
-    "returned": 68.361942,
-    "remainingToken": 60.490309999999994
-  },
-  {
-    "address": "FmveUq2Yh3P42EuRVvkFMwhZK5EdyYbj536ZgbDbUrTk",
-    "lossInSol": 0.9115941686021836,
-    "returned": 0,
-    "remainingToken": 0.011199000000004844
-  },
-  {
-    "address": "GCvPTYLNST1DQKhNDd9n9AUFwqnutyTj6N3yvfEC69ZW",
-    "lossInSol": 0.8912636643155285,
-    "returned": 0,
-    "remainingToken": 0.006570999999993887
-  },
-  {
-    "address": "G491suSREwWRyUy5WxtL2ghpE5XRdgWxaW2nVSzn2v8j",
-    "lossInSol": 0.8515691299219231,
-    "returned": 0,
-    "remainingToken": 0.9365710000000007
-  },
-  {
-    "address": "B2TExssQ9Xa7CXBhznS2tT7m6BHEg7JmJnjHE4vehzwx",
-    "lossInSol": 0.8417750234552388,
-    "returned": 0,
-    "remainingToken": 0.7674269999999979
-  },
-  {
-    "address": "EpVNxDfNAdBRsW8jK22u9tdvs5dgvQrmkd2jJ7W38Qek",
-    "lossInSol": 0.8405444621732985,
-    "returned": 0,
-    "remainingToken": 0.00965600000000677
-  },
-  {
-    "address": "CMVJot3JDQWvQvuYMWkXJ1FvsWAUFXQ8NoDb97oem3vA",
-    "lossInSol": 0.8234692574885876,
-    "returned": 0,
-    "remainingToken": 0.9154279999999915
-  },
-  {
-    "address": "Di8a6WHdXQgwYq2mkEm1YtSC7pLHgsJA1QC3391JGaHQ",
-    "lossInSol": 0.822087013444373,
-    "returned": 0,
-    "remainingToken": 0.07314199999999005
-  },
-  {
-    "address": "91vBLcuMhgQBQYVWactrcGNFRkGAytk4sg7WPjQDbKAX",
-    "lossInSol": 0.8179636200159552,
-    "returned": 0,
-    "remainingToken": 99.99999999999997
-  },
-  {
-    "address": "F9xUBsot77Z7AaRHY9ijUg6YZApnKS6CYxnibTTqCiB6",
-    "lossInSol": 0.8160492590658371,
-    "returned": 0,
-    "remainingToken": 59.175058
-  },
-  {
-    "address": "4MqURiPzVpizkfeHtwSUXW6ZGDdMxhDKzeoztgwFkSPe",
-    "lossInSol": 0.8051045979985746,
-    "returned": 1.721,
-    "remainingToken": 0.00009599999999987396
-  },
-  {
-    "address": "BBsjGyxfxDE9erYMMTiYPmtmgjnEDjC465rgK1mfRWPb",
-    "lossInSol": 0.7607816781188722,
-    "returned": 0,
-    "remainingToken": 165.58689900000002
-  },
-  {
-    "address": "HxjwdF326ZunmUwC1iXhfgL3ku78YsksN6n7Rfxzwr6b",
-    "lossInSol": 0.7525446801091159,
-    "returned": 0,
-    "remainingToken": 0.0667039999999588
-  },
-  {
-    "address": "CANikvShfS2wjkm98E2NjDXC2V425BufMFB5qTTZsPLh",
-    "lossInSol": 0.7247984791958466,
-    "returned": 0,
-    "remainingToken": 0.07191499999998996
-  },
-  {
-    "address": "2Zyu6wwfHHFU1SLYdV8RPW7jhwxWjsHnjfL3rarbqzPn",
-    "lossInSol": 0.6559236861444253,
-    "returned": 0,
-    "remainingToken": 0.007713999999992893
-  },
-  {
-    "address": "EE7MEBmE8FPppiqhce7TRkybYLWXFNtfFX8TpEf3jVid",
-    "lossInSol": 0.6539510479797939,
-    "returned": 0,
-    "remainingToken": 1.232328999999993
-  },
-  {
-    "address": "4CFPo9jXstBMEj1QK6YA2kZmaENCuPbxMTZTZzZeh5bk",
-    "lossInSol": 0.608743350689469,
-    "returned": 0,
-    "remainingToken": 0.23644500000000335
-  },
-  {
-    "address": "CMpPo12Ffy9JBuDVDKpNmgiXj9Ae4Q555BnbM9kBXyxQ",
-    "lossInSol": 0.5719042846457578,
-    "returned": 0,
-    "remainingToken": 0.0009479999999939537
-  },
-  {
-    "address": "BqccZ4gC9ixvkEYPWP2XMiXnF3SECF5CfTobdqvxva5",
-    "lossInSol": 0.5653937115745575,
-    "returned": 0,
-    "remainingToken": 10.957713999999996
-  },
-  {
-    "address": "3HBLNQBNknXuzhArGEp8S9p4u1GftUBTaWgkkTpJBRGr",
-    "lossInSol": 0.5645907617754118,
-    "returned": 0,
-    "remainingToken": 0.6076619999999906
-  },
-  {
-    "address": "C65VxZqcVtDmAAmsVzGeBDGJWZnBtNS9VoVGaSw7hQYg",
-    "lossInSol": 0.5166566872937803,
-    "returned": 0,
-    "remainingToken": 44.053077
-  },
-  {
-    "address": "AznC2ZBeonUqR81ASMFWGxcMVak9aDnE3LBcdKiaH4aj",
-    "lossInSol": 0.5152502259999991,
-    "returned": 0,
-    "remainingToken": 1.4557230000000143
-  },
-  {
-    "address": "FvgLd1q5mfY1TCSBhkZqHkJzxZugXzGzy3Y8YnbH1yDc",
-    "lossInSol": 0.5107210023296488,
-    "returned": 0,
-    "remainingToken": 0.00030800000000397176
-  },
-  {
-    "address": "3dsVChRpoFW83rxKRPA3JGtWhPJ8RNkoAUKpyKCzdqha",
-    "lossInSol": 0.5006809759030306,
-    "returned": 0,
-    "remainingToken": 0.000025000000000829914
-  },
-  {
-    "address": "A8iyp9SCNny6cCvqcimnxvH6et4yFuZkM5sG1htE6Y9B",
-    "lossInSol": 0.5000477262583602,
-    "returned": 0,
-    "remainingToken": 0.2657910000000001
-  },
-  {
-    "address": "9GrTY7fhTAFtAYdT5H5jzuFNnMXEezEqy62b8pYqyANJ",
-    "lossInSol": 0.49743120614442526,
-    "returned": 0,
-    "remainingToken": 0.007713999999992893
-  },
-  {
-    "address": "3ryyasZovb78Bb3NR5efDgCXsdohyAr7cuF22xvVho8L",
-    "lossInSol": 0.4973567014767165,
-    "returned": 0,
-    "remainingToken": 0.000013999999993075107
-  },
-  {
-    "address": "FjZHGEUvhpoh2xqbD8ihBaA5Fpe7sVCU442zkVKjdFi7",
-    "lossInSol": 0.4956383265181388,
-    "returned": 37.978857,
-    "remainingToken": 42.865029
-  },
-  {
-    "address": "7MiisYdcKAghTdzaX6qoGEAEtCzM1JofLWc9mp1yx7nz",
-    "lossInSol": 0.48906652365571457,
-    "returned": 0,
-    "remainingToken": 10.828236999999945
-  },
-  {
-    "address": "3YMrsmettDDRZJFdLWrbqHr1ZCNy4H2Fwm3NB1YzHWj5",
-    "lossInSol": 0.4776766793552587,
-    "returned": 0,
-    "remainingToken": 0.9577139999999957
-  },
-  {
-    "address": "GRz9uYg3GF9ke4Sjnz597rWZh7BrQKH4nQEB78793y8U",
-    "lossInSol": 0.4525656296021833,
-    "returned": 0,
-    "remainingToken": 0.011199000000004844
-  },
-  {
-    "address": "EvZwJ3wty8G4ijahhoNThh292uTdYsLPMr9EaJ4GodBf",
-    "lossInSol": 0.4500129049992403,
-    "returned": 0,
-    "remainingToken": 61.509060000000005
-  },
-  {
-    "address": "DzXyo2LaWkofzKC1ZTu7pD8B6m68fh47tVSUBAYLQJr9",
-    "lossInSol": 0.4489490152884291,
-    "returned": 0,
-    "remainingToken": 1.323109
-  },
-  {
-    "address": "AYcrWjorDyDn8HUhfyn2p3CHF1oYRVyGjja8b6tyMrVw",
-    "lossInSol": 0.4440481400850036,
-    "returned": 0,
-    "remainingToken": 0.00008499999999855845
-  },
-  {
-    "address": "G5r9PbW5iCi44tyCJWybvuaigMa39C5QytqWb5RUJtyt",
-    "lossInSol": 0.44392449015552193,
-    "returned": 0,
-    "remainingToken": 0.05771399999999005
-  },
-  {
-    "address": "2WAq9cxtxrW92rsEYtCdEUGdAffdtc2JvuYpV2jRcQya",
-    "lossInSol": 0.3958831375291867,
-    "returned": 0,
-    "remainingToken": 0.5180870000000001
-  },
-  {
-    "address": "946PATBF294fKUBFFM7a5EzTgfrxs7AxKsfeHE7z2Nzs",
-    "lossInSol": 0.39186485219511064,
-    "returned": 0,
-    "remainingToken": 1.3740760000000023
-  },
-  {
-    "address": "3dJSRFCPPNRa1Dmw95cQESiwcpMAes2kPCmTcPedGTWT",
-    "lossInSol": 0.3908195761444253,
-    "returned": 0,
-    "remainingToken": 0.007713999999992893
-  },
-  {
-    "address": "8oTFBwwyA6wBYLpu3dy4hYJZGECW8XH1VJBajTmfTDF5",
-    "lossInSol": 0.3905086842127719,
-    "returned": 0,
-    "remainingToken": 40.588032
-  },
-  {
-    "address": "5CgnCqudTkbCJZer95Bx3r4UgjQtyVhywoBHpraXRvFz",
-    "lossInSol": 0.3676367223822966,
-    "returned": 0,
-    "remainingToken": 37.978857
-  },
-  {
-    "address": "9bs6qfjGDWuVdHGTyCBfgobnfQvBHdRMRsgB3s4fuYSR",
-    "lossInSol": 0.3651176100288731,
-    "returned": 0,
-    "remainingToken": 0.0019419999999996662
-  },
-  {
-    "address": "5k9J2yugYsXgFWjmAPiR9s4ZGMNcc4mBZUiCSGdPiCcH",
-    "lossInSol": 0.36336118590219024,
-    "returned": 0,
-    "remainingToken": 0.07462799999999703
-  },
-  {
-    "address": "95Hx34WxpzCwJ36NogrmUbNsgnoLK3N4LxeF7VMHxzpA",
-    "lossInSol": 0.36292169828885057,
-    "returned": 0,
-    "remainingToken": 0.015427999999985786
-  },
-  {
-    "address": "55Sa4dm3wGkqWzknBHSLkdYSgzPuMKRUVJhAKhzRkkGD",
-    "lossInSol": 0.36247173015437717,
-    "returned": 0,
-    "remainingToken": 0.11754199999998605
-  },
-  {
-    "address": "4RtpDBp7DviFXZ7mwR6nA7jgAYQRZZERZ59W5yTPXcu1",
-    "lossInSol": 0.35290702946490815,
-    "returned": 0,
-    "remainingToken": 5.957713999999996
-  },
-  {
-    "address": "HE3EoLTMsWnsJUFyAcWxWSmJmTyXC2jBavgLQcwXSuY6",
-    "lossInSol": 0.3526414131555219,
-    "returned": 0,
-    "remainingToken": 0.05771399999999005
-  },
-  {
-    "address": "EMqZMQfCS7AqyyN54dB2kxgfFGJ3tGRt9x2qNowXnoy8",
-    "lossInSol": 0.3446899776551549,
-    "returned": 0,
-    "remainingToken": 56.968285
-  },
-  {
-    "address": "9DAxgA6TJWvQf18UtwXkAiCB9FEG8wsonc8cpaJmvLta",
-    "lossInSol": 0.33356936352431665,
-    "returned": 0,
-    "remainingToken": 1.1329860000000025
-  },
-  {
-    "address": "4o2EEEtzEZV5SDouisPJ7BodFTGPkj6Z7WB8KBk7uNXa",
-    "lossInSol": 0.3254704220461203,
-    "returned": 0,
-    "remainingToken": 0.3228209999999976
-  },
-  {
-    "address": "BgcpmAFGRUuage1HsZ4HsYEiwEtzv8Rjv85PPREiB3Fe",
-    "lossInSol": 0.3231947565291864,
-    "returned": 0,
-    "remainingToken": 429.109718
-  },
-  {
-    "address": "HqaWcMYVrqGvaK6xfCqaRWCKDYPxxi6TqHK7xaAPo7qA",
-    "lossInSol": 0.3221747746702083,
-    "returned": 0,
-    "remainingToken": 0.009712999999997862
-  },
-  {
-    "address": "2QWpg7aptahrcYrF3eByaJBmT9HtZRZAH4ceotbMPBtt",
-    "lossInSol": 0.3160734314917352,
-    "returned": 0,
-    "remainingToken": 56.968286
-  },
-  {
-    "address": "A5n3kd7FtnSdBQ1y9X1CuSttKX71ARRsHnfy6PNKpp5a",
-    "lossInSol": 0.30728220178859433,
-    "returned": 0,
-    "remainingToken": 0.21927900000000022
-  },
-  {
-    "address": "BGDvS2NFZqftRCLipD41gdwVzmgb4C3cFGokdY8bCThr",
-    "lossInSol": 0.2962376256950411,
-    "returned": 0,
-    "remainingToken": 29.875505
-  },
-  {
-    "address": "7RaLzH87R84hZ91VfvgTpPa175h6c3GonjftSVDbhuti",
-    "lossInSol": 0.28471546900000017,
-    "returned": 0,
-    "remainingToken": 0.01696300000002842
-  },
-  {
-    "address": "8MDaZgS4Virv9P7ph4Nvxzi9TP7HebQ1eV4PcqBUnxQS",
-    "lossInSol": 0.27517446600718176,
-    "returned": 0,
-    "remainingToken": 5.079189999999997
-  },
-  {
-    "address": "2u4scdYxXao4k2boo66zccLZAUL8Tgtpy11JvFPCvyrB",
-    "lossInSol": 0.26306890595136956,
-    "returned": 0,
-    "remainingToken": 1
-  },
-  {
-    "address": "2sbNS8xwcZUuVKagbZU1nNNCr6eLB2G78KV6qYGto86x",
-    "lossInSol": 0.2593149683421035,
-    "returned": 0,
-    "remainingToken": 0.38308500000000123
-  },
-  {
-    "address": "96GLv8FHdDH1UbkkqBwwqMi3j5duydiRZLr9WkmTPDEZ",
-    "lossInSol": 0.24741330594554278,
-    "returned": 0,
-    "remainingToken": 4.954371
-  },
-  {
-    "address": "HAv2rG6bEt3QsKbL3DcyBMLuSJe1R9bwUAYgT19eyJMA",
-    "lossInSol": 0.23843707337552966,
-    "returned": 0,
-    "remainingToken": 0.019255999999998608
-  },
-  {
-    "address": "9fniQXHcKqjTbnbRpzvRapeUSfaBZY1oL22yPvWRRSLF",
-    "lossInSol": 0.23461069564575787,
-    "returned": 0,
-    "remainingToken": 0.0009479999999939537
-  },
-  {
-    "address": "FukRkGdeTiCEMrgZGz4dDxfzRmoxsJZqatbJAmHD297t",
-    "lossInSol": 0.23269741032757746,
-    "returned": 0,
-    "remainingToken": 85.452428
-  },
-  {
-    "address": "AFN3Hgy7zkHqQf3gfzwtBcqVq6hqiEmhmHUzSFfXg4U5",
-    "lossInSol": 0.2309051765888574,
-    "returned": 0,
-    "remainingToken": 0.07885699999999785
-  },
-  {
-    "address": "Cx3nHcMTzo53NUxmmSnZdJxorAb2FuWgZyXeRZ6ARmnS",
-    "lossInSol": 0.22733584563358133,
-    "returned": 0,
-    "remainingToken": 29.999999999999993
-  },
-  {
-    "address": "6A4kwuev3Lo8uV9GfHtMnPWaa9fY9uHgsug8LHifsnZS",
-    "lossInSol": 0.20434658300000003,
-    "returned": 0,
-    "remainingToken": 15.172172
-  },
-  {
-    "address": "BjaYEhYm9MdCWKMt542ua49vZqqsiiwGn1aLTT5mVdR5",
-    "lossInSol": 0.20386883006250472,
-    "returned": 0,
-    "remainingToken": 13.2926
-  },
-  {
-    "address": "6huhdyXWk4yUwxTkTT1dNAWFT3faRmoEqaPp2AqmuyPi",
-    "lossInSol": 0.19959605956666437,
-    "returned": 0,
-    "remainingToken": 0.016835000000000377
-  },
-  {
-    "address": "CvY6vccEPSaxttnk4iZwvddsPKAgZ6it6YAPdC3RYbdC",
-    "lossInSol": 0.19311249345775816,
-    "returned": 0,
-    "remainingToken": 0.00348499999999774
-  },
-  {
-    "address": "EmwDihQNUcMEd4UqPQDZss7AkuewmGzGgCbVkZM3eeqG",
-    "lossInSol": 0.19011539174552394,
-    "returned": 0,
-    "remainingToken": 0.07674199999999587
-  },
-  {
-    "address": "29MRVLkB992MdszTtvD4enw3j9wo3MtNHXZknBac13hQ",
-    "lossInSol": 0.1817646241999762,
-    "returned": 0,
-    "remainingToken": 0.0007990000000006603
-  },
-  {
-    "address": "EDckCQRhWLTkFfd2M8cTew8xeQp2BCjzGVcgFktt88Qu",
-    "lossInSol": 0.1775118258263601,
-    "returned": 0,
-    "remainingToken": 0.18723599999999863
-  },
-  {
-    "address": "CvXfP7MLpG4S6fxieX9ZipKF6aQSvmtQDZjXMbAcPpWj",
-    "lossInSol": 0.1763857385291865,
-    "returned": 0,
-    "remainingToken": 0.182309
-  },
-  {
-    "address": "7Xbp9uiYChpCG6fnVqMHsrNYCLnG5gaNDyoYwzkKci7o",
-    "lossInSol": 0.1759282811906992,
-    "returned": 0,
-    "remainingToken": 0.007388999999996315
-  },
-  {
-    "address": "9n1ofp79erv82BPDLT2phdQ829YabAmXBEDMW5Ap7DAf",
-    "lossInSol": 0.17131103195306627,
-    "returned": 0,
-    "remainingToken": 20.888371
-  },
-  {
-    "address": "mjfgWjXKkSqpSpHTYLP8x3HVMbH7LbnFkePfcw8ZMjH",
-    "lossInSol": 0.17116805425490972,
-    "returned": 0,
-    "remainingToken": 0.8659180000000006
-  },
-  {
-    "address": "3umozPeW1ihBgmcxXaFfZUZWwjLmdXDbrW8wGD6xZkfW",
-    "lossInSol": 0.15876655999753964,
-    "returned": 0,
-    "remainingToken": 0.002365000000011719
-  },
-  {
-    "address": "HUkXVPAh3FSZutX2Vpb9Zxr8twUifDtRS9MyrTwSBMi9",
-    "lossInSol": 0.15327958752907794,
-    "returned": 0,
-    "remainingToken": 0.09377299999999877
-  },
-  {
-    "address": "8Jdg8LNxXeeZdyE57TEKShzGEmyZBHHNF1ir5yADKVRt",
-    "lossInSol": 0.14479055578596325,
-    "returned": 0,
-    "remainingToken": 0.8639310000000009
-  },
-  {
-    "address": "8zWowzzc44gpmkK2zMjzTzXrbYZddEa9VrUPJ8jBhwZU",
-    "lossInSol": 0.14173175627855317,
-    "returned": 0,
-    "remainingToken": 0.25477200000000266
-  },
-  {
-    "address": "CXo2x4nNQ2UvtNFXEv6tGcGneDBHvWcR96x1QnJpEiJC",
-    "lossInSol": 0.1405056839733223,
-    "returned": 0,
-    "remainingToken": 0.008856999999999005
-  },
-  {
-    "address": "AEkATuDPLxz3GM1UWacho7dQXZT2hyjuSDWenRb6G2yE",
-    "lossInSol": 0.1375816660842713,
-    "returned": 0,
-    "remainingToken": 28.226792
-  },
-  {
-    "address": "AWEccc2EqGXKUiEz8Jh9wobQGFYhq6JFsHMHmKt862qi",
-    "lossInSol": 0.13076979997332222,
-    "returned": 0,
-    "remainingToken": 0.008856999999999005
-  },
-  {
-    "address": "3zGZGn4yt6Jaq63BD1GgTDikgDFhXXiaDBw1auSD1Vaw",
-    "lossInSol": 0.13002577114442537,
-    "returned": 0,
-    "remainingToken": 0.007713999999992893
-  },
-  {
-    "address": "8L1p3yXjCg6Rdzc3nq8qRJdidkjWCULNbG2svgudKoJ9",
-    "lossInSol": 0.12740279932346765,
-    "returned": 0,
-    "remainingToken": 33.408657000000005
-  },
-  {
-    "address": "8rBVToLrYjocweUTv5TzEYWshDrsPggavsKeLwQLEA1E",
-    "lossInSol": 0.12585575142888505,
-    "returned": 0,
-    "remainingToken": 0.0015420000000005984
-  },
-  {
-    "address": "FB9KgjyL2Avns9SsTZMcQ3WpEc85VcuPzDzb3UUw28BR",
-    "lossInSol": 0.12035968128665525,
-    "returned": 0,
-    "remainingToken": 0.004627999999996746
-  },
-  {
-    "address": "8H8DKQXjTjG1zpod3rwtNGr76f9Z3mUpbNVQWmdkS7Ys",
-    "lossInSol": 0.11569032072476094,
-    "returned": 9.11493,
-    "remainingToken": 5.449128
-  },
-  {
-    "address": "8QFwD36Mpkr14PyGYPnF8pDm34LToS8wBL8mKqnQ8rkL",
-    "lossInSol": 0.11545414658885739,
-    "returned": 0,
-    "remainingToken": 0.07885699999999929
-  },
-  {
-    "address": "C8DCJr2Nq9Et3ATaakTwSooU8mStdQZsxSCS4hoXLEdZ",
-    "lossInSol": 0.1142038980673693,
-    "returned": 0,
-    "remainingToken": 0.00005699999999819738
-  },
-  {
-    "address": "FtX1pWuHmDbLt5F6PjALhsnFwEojK3cuC1FfKPbTVbSQ",
-    "lossInSol": 0.10740094465515493,
-    "returned": 0,
-    "remainingToken": 56.968285
-  },
-  {
-    "address": "5jxYN5DWV7cvx4GEPXe9D351L3kN7ssbiSmZWAB9RnwK",
-    "lossInSol": 0.1070624943394724,
-    "returned": 0,
-    "remainingToken": 0.2681590000000007
-  },
-  {
-    "address": "2AHri8k2L3BzRBVogFHNBVytcq6T7YLpsn1Bj8wZ8XyE",
-    "lossInSol": 0.10593076958885739,
-    "returned": 0,
-    "remainingToken": 0.07885699999999929
-  },
-  {
-    "address": "8ZfrLKKj2rHHYMyGd8aykcfhwrZsgmX1mpe5Z54epZpH",
-    "lossInSol": 0.10586813797332228,
-    "returned": 0,
-    "remainingToken": 0.008856999999999005
-  },
-  {
-    "address": "D3y4QGTdmPgdKty9KqRFpBjyYYHtzjcYgY47kWenmEjT",
-    "lossInSol": 0.10547671697332234,
-    "returned": 0,
-    "remainingToken": 0.008856999999999005
-  },
-  {
-    "address": "2Et9MVpPJubdyRNgaZsJ6JhntcQBJwX6q69abU4ZHcw3",
-    "lossInSol": 0.10179999442888507,
-    "returned": 0,
-    "remainingToken": 0.0015420000000005984
-  },
-  {
-    "address": "3WCfaBjyqneRQANPGqKYKCvdyjF78jAfZv1UfakHK8Lp",
-    "lossInSol": 0.10128084938229659,
-    "returned": 0,
-    "remainingToken": 36.030811
-  },
-  {
-    "address": "FC1YuF1hojYjnjxyXhcKWDtQyeJ2dKMqWvEWU3CbUeS4",
-    "lossInSol": 0.09776867449219233,
-    "returned": 0,
-    "remainingToken": 0.09365699999999855
-  },
-  {
-    "address": "BF3yr1vww158ZwuRTmthfUcLjNfAxVDe7rRYydskC91s",
-    "lossInSol": 0.09579788056140232,
-    "returned": 0,
-    "remainingToken": 0.5085820000000005
-  },
-  {
-    "address": "HrL7vF11BBFkfYLj7f9z42iXaMzZjb6ZTzEP8KGN5y9B",
-    "lossInSol": 0.09572007001297626,
-    "returned": 0,
-    "remainingToken": 7.089762
-  },
-  {
-    "address": "2a1WBt1QeTt4hthxiGNWoX8EqrXBsxJxKqnHoqdyVJMp",
-    "lossInSol": 0.09381237338229664,
-    "returned": 0,
-    "remainingToken": 35.876633
-  },
-  {
-    "address": "9hLudDUwVJ1cmarxTa9iNDHiXoiCrNnoimHRPsuCmSzw",
-    "lossInSol": 0.09181797830447724,
-    "returned": 0,
-    "remainingToken": 0.00002200000000129876
-  },
-  {
-    "address": "ETqGqWyht3LRfg7do5pPdKzTodYC2D5mmc3QgA93iyD4",
-    "lossInSol": 0.08856210942888507,
-    "returned": 0,
-    "remainingToken": 0.0015420000000005984
-  },
-  {
-    "address": "BDAH1xBTvBHwxBtYrk87oXNS3uPvPi6wbRR193Kqtg3h",
-    "lossInSol": 0.08731455800263105,
-    "returned": 0,
-    "remainingToken": 0.03896699999999953
-  },
-  {
-    "address": "8zNTYrVx4VcRsjZvpZetT1Zd4WYrdtWJjuq5E3QM3V6z",
-    "lossInSol": 0.08531105350156204,
-    "returned": 0,
-    "remainingToken": 56.453181
-  },
-  {
-    "address": "GDCEr6vrgdwZPq3TDFvdK9MtN3L6M7ypPx8vkGGzmKZR",
-    "lossInSol": 0.08447385299999999,
-    "returned": 0,
-    "remainingToken": 197.667568
-  },
-  {
-    "address": "4vcSbBn9QQMh4DfcYK4T8ftzhemkWpTgxzy8Kp4CVqfe",
-    "lossInSol": 0.08372490044437583,
-    "returned": 0,
-    "remainingToken": 0.09999999999999964
-  },
-  {
-    "address": "5YjneZ4TdzUybtjZCDsQQcxF5KL3rQZu9yWkrc1P7TER",
-    "lossInSol": 0.08165557555855217,
-    "returned": 0,
-    "remainingToken": 0.000042000000000541604
-  },
-  {
-    "address": "CX4LfxDUnzrASnT7EAVxbEheVccQ6Nw64J8VDYKCQfAX",
-    "lossInSol": 0.08083434130944905,
-    "returned": 0,
-    "remainingToken": 0.4127340000000004
-  },
-  {
-    "address": "4xt86srAiGVjEoMundN2wByhYyVeABFYg39UTC193HEc",
-    "lossInSol": 0.07810941442888507,
-    "returned": 0,
-    "remainingToken": 0.0015420000000005984
-  },
-  {
-    "address": "9BZW4JrCpd9rr4R1YL4RHfihRD88qUhzU9562aHYJCbV",
-    "lossInSol": 0.07772901449036981,
-    "returned": 0,
-    "remainingToken": 5.317038999999999
-  },
-  {
-    "address": "2GDqAdaQ8U4Y5sbutHgUTAeZaZcdpRFsofg58KP9ZSga",
-    "lossInSol": 0.07334244997363987,
-    "returned": 0,
-    "remainingToken": 0.0021740000000001203
-  },
-  {
-    "address": "4SGhtNn57nX6Fbvp9P1fn9pdfz8TUnMa8RDWLP4QPm9y",
-    "lossInSol": 0.06988527467105174,
-    "returned": 0,
-    "remainingToken": 7.7873139999999985
-  },
-  {
-    "address": "A9pL2VYDTUC8GEvhSAMJWZ1AFhQLfESppPZ2iXhDxpSy",
-    "lossInSol": 0.06672031415798196,
-    "returned": 0,
-    "remainingToken": 0.05534799999999862
-  },
-  {
-    "address": "EMnywxxb4Co1tXAVAXbZXKYEor9prL17AwqqXPmSwFmP",
-    "lossInSol": 0.0638044807966941,
-    "returned": 0,
-    "remainingToken": 20.912338000000002
-  },
-  {
-    "address": "AKetzgT2TcDgtfbkyKB8uKrVCt9gDG6vpboGQ6eqbRXV",
-    "lossInSol": 0.06333625533552587,
-    "returned": 0,
-    "remainingToken": 0.09577100000000005
-  },
-  {
-    "address": "EyG1miSQ31JpFKwF62jVsf3GtCdS7JTJ7KU2iZRZVtbL",
-    "lossInSol": 0.06249888327221863,
-    "returned": 0,
-    "remainingToken": 0.003656999999998689
-  },
-  {
-    "address": "799ED2s6Wjo9WFzySPinEq23k6odKYhuRwCgLSkTK2LZ",
-    "lossInSol": 0.062345576999999985,
-    "returned": 0,
-    "remainingToken": 5.688559
-  },
-  {
-    "address": "EyZsodFStE1Dqsr6pfyr1yFsK5md1swyBimaUHpQVMBd",
-    "lossInSol": 0.06153980233552587,
-    "returned": 0,
-    "remainingToken": 0.09577100000000005
-  },
-  {
-    "address": "8fDYKJ7DWrkgcADkqPFAr1XrhpvUJhVD9d2VXGCMUnrB",
-    "lossInSol": 0.061103745925392916,
-    "returned": 0,
-    "remainingToken": 7.132269
-  },
-  {
-    "address": "DTXZVoipTtA9y1gQWKo2bWX8s5JrSxKVw2p2Jvv6cfBS",
-    "lossInSol": 0.06059985901312032,
-    "returned": 0,
-    "remainingToken": 0.06456499999999998
-  },
-  {
-    "address": "FZ5Y8aWQCoNt1TJNcZvYWMhVt26zs6nrP4qPVYwWoaeV",
-    "lossInSol": 0.06022225769504108,
-    "returned": 0,
-    "remainingToken": 7.246968
-  },
-  {
-    "address": "BXb2KdbuEyFFkm2ucuhu1TmnfZzFvL2uFo3oeWxsv7rs",
-    "lossInSol": 0.05869196896219167,
-    "returned": 0,
-    "remainingToken": 0.08731399999999923
-  },
-  {
-    "address": "ArM7oeraJrt9Jb6BZtVigNoum96ppWAVdPBKB1TSUD5t",
-    "lossInSol": 0.05584186611555218,
-    "returned": 0,
-    "remainingToken": 0.005771000000000193
-  },
-  {
-    "address": "3fhaaM15FqBdrL5rAprK7HiSXRS1Bz9YdqgK4GHmumaj",
-    "lossInSol": 0.0519197730077855,
-    "returned": 0,
-    "remainingToken": 30.383086
-  },
-  {
-    "address": "8hh64qzJje72pRvUjfR8qabXpd4sYZYTHpTAstdRtsUG",
-    "lossInSol": 0.05158930154443725,
-    "returned": 0,
-    "remainingToken": 0.007313999999997378
-  },
-  {
-    "address": "6H3BydNyBvMn5qtztgkejHugH6nAun78Yq1DchSpkerV",
-    "lossInSol": 0.048302426879800256,
-    "returned": 0,
-    "remainingToken": 0.071021
-  },
-  {
-    "address": "2DzFbYCY1dSqJDJo3dn5aZ23S6LN2wTeiudwX17XyGJB",
-    "lossInSol": 0.04795081060828718,
-    "returned": 0,
-    "remainingToken": 0.00007100000000015427
-  },
-  {
-    "address": "BJ4uXP1io9MEQFLeKTPhyTgyPBY7Au6wXceDC8rWUjvB",
-    "lossInSol": 0.0460847224793076,
-    "returned": 0,
-    "remainingToken": 0.04539899999999797
-  },
-  {
-    "address": "9rPZXMPozuapHnvN6nBPaCQucY264jacM1ZXwcFVAnn6",
-    "lossInSol": 0.041079143962157456,
-    "returned": 0,
-    "remainingToken": 0.21577100000000016
-  },
-  {
-    "address": "AejkZ4A5coNL2TCmd7ct91satkD3ubHFmAYjqbpJWuz4",
-    "lossInSol": 0.04094192158193841,
-    "returned": 0,
-    "remainingToken": 6.430267
-  },
-  {
-    "address": "8VSMTAPZx3nFsUh92gk8y9e2ddbiVV28h7sGmwx4rjXt",
-    "lossInSol": 0.04065263268441355,
-    "returned": 0,
-    "remainingToken": 4
-  },
-  {
-    "address": "3GThBdgP2GF6ba98rqwmgspJhx4QgktCHjeAv1xjWn8R",
-    "lossInSol": 0.03883927958771283,
-    "returned": 0,
-    "remainingToken": 0.21464299999999525
-  },
-  {
-    "address": "2S5brnjXSHKKZzRfeuFJzHs7zboESaGcSH5BKgsBEvFC",
-    "lossInSol": 0.038705545272858244,
-    "returned": 0,
-    "remainingToken": 18.989427999999997
-  },
-  {
-    "address": "AeqeN7bZ8tFoJfckVPNoW7pNtpfaCwHzZqG9pex3hazu",
-    "lossInSol": 0.037516128892981615,
-    "returned": 0,
-    "remainingToken": 1.9511190000000003
-  },
-  {
-    "address": "BRe7MAyBdbN2az8GeSPiJctKF1MEDveh1CW7mN6FMo86",
-    "lossInSol": 0.03398961556059689,
-    "returned": 0,
-    "remainingToken": 0.008615999999999957
-  },
-  {
-    "address": "CGMKGkMx2nTF4XM7YQSZ846M6FpQYAbVppwNRhUR86PH",
-    "lossInSol": 0.033564353659178446,
-    "returned": 0,
-    "remainingToken": 2.697547
-  },
-  {
-    "address": "AD2TtRmUuwh6DsGCxoCH4sC4DEcRbkLKpM4Lxm7Kpozo",
-    "lossInSol": 0.03150661733552587,
-    "returned": 0,
-    "remainingToken": 0.09577100000000005
-  },
-  {
-    "address": "BJjQ1uCFQeLUEQxYerqEjGr8aovNgFgvD4mhADg8jG6T",
-    "lossInSol": 0.031242556671051747,
-    "returned": 0,
-    "remainingToken": 7.7873139999999985
-  },
-  {
-    "address": "BZ9T6EbiUFMLNqPoRYSJ8ZCAZd9Z1uHtVdiku91WvN1Y",
-    "lossInSol": 0.031161685449121845,
-    "returned": 0,
-    "remainingToken": 6.7873139999999985
-  },
-  {
-    "address": "2DPGgm5qjh4o8VL3PC4YVwJjzzvLFvrFbTs4Zrf2VeGx",
-    "lossInSol": 0.030218117214442536,
-    "returned": 0,
-    "remainingToken": 0.0007710000000002992
-  },
-  {
-    "address": "7mQNcNmQboWAFbUYHuniqCf9w3irWzNZ62kWTvNA4Vy8",
-    "lossInSol": 0.02901726252383582,
-    "returned": 0,
-    "remainingToken": 3.797886
-  },
-  {
-    "address": "84G4YdaTDKaybcJdm7zo66nDnf9KC94LTrS9DeDRcTbw",
-    "lossInSol": 0.028115497115552182,
-    "returned": 0,
-    "remainingToken": 0.005771000000000193
-  },
-  {
-    "address": "E7xDvpyeCk6tNYtYDfvUJJLVZC2RdHSvHA5xwjsjwC3W",
-    "lossInSol": 0.027872011807020466,
-    "returned": 0,
-    "remainingToken": 0.019239000000000672
-  },
-  {
-    "address": "FGBzZwTviCX7tqTsADQHC84kSURhHFXqDUWTxNihiym4",
-    "lossInSol": 0.026863729075006615,
-    "returned": 0,
-    "remainingToken": 0.38586600000000004
-  },
-  {
-    "address": "CVz66yw9qJL9EmzkcmuTHZQvJX3vLiyw8qzKfbeyLYk4",
-    "lossInSol": 0.025476119081105197,
-    "returned": 0,
-    "remainingToken": 0.004054000000000002
-  },
-  {
-    "address": "944jhb6sxB7JYLKYDzS93oToB82r2N5hjyYKVGkMu2zz",
-    "lossInSol": 0.024348745928665524,
-    "returned": 0,
-    "remainingToken": 0.0004619999999997404
-  },
-  {
-    "address": "8ZsJCZPgcDvJ8DUWyYJZQNFWz2Vv1N1MhtSUzgZXHDmj",
-    "lossInSol": 0.02207739879466447,
-    "returned": 0,
-    "remainingToken": 0.001770999999999745
-  },
-  {
-    "address": "AsZ11Wahwi9UeWEk7BQMmf25AqUdP7nwwuQCmERrs95D",
-    "lossInSol": 0.020614116156666442,
-    "returned": 0,
-    "remainingToken": 3.7957710000000002
-  },
-  {
-    "address": "EtTfoeLYdFVeFfrQn3K7Z3FRS7E9k8EDQFnzLdEPNyo1",
-    "lossInSol": 0.019974979687255603,
-    "returned": 0,
-    "remainingToken": 3.797885
-  },
-  {
-    "address": "9i5EfP3EayeW4PzephzT5SSBpSkycFrdX3mEJUau6oEu",
-    "lossInSol": 0.01895066321109143,
-    "returned": 0,
-    "remainingToken": 7.595771
-  },
-  {
-    "address": "9ABdcehk2dfMXZx3bDdt6hRhKEggwLeNJqmsw6T1WbbM",
-    "lossInSol": 0.01816796421109143,
-    "returned": 0,
-    "remainingToken": 8.61161
-  },
-  {
-    "address": "2RbrDAXnaTV483vmrp3KgjZpKDzYRf5hBuZ4uN6LJwpn",
-    "lossInSol": 0.017327789591182557,
-    "returned": 0,
-    "remainingToken": 10
-  },
-  {
-    "address": "BsdkNj66sQmNSggmsE1zNPdDHf5NawYBFCuZ9Xjq2CnS",
-    "lossInSol": 0.016654803669546518,
-    "returned": 0,
-    "remainingToken": 7.098698
-  },
-  {
-    "address": "E8NLmtuxCA16kyjfKebq8DSbfFuuPqc35bcAA7bdv2kk",
-    "lossInSol": 0.015760554752948047,
-    "returned": 0,
-    "remainingToken": 3.895983000000001
-  },
-  {
-    "address": "FRhUvoAo7tSxs88v9uCt5h42MvVYFjuueCxpkfp4jrQX",
-    "lossInSol": 0.010856745999999973,
-    "returned": 0,
-    "remainingToken": 21.360365
-  },
-  {
-    "address": "icwSLHjfrYuAvAnpHd9vQo9ey2BkHFxJccb6tKRTYyi",
-    "lossInSol": 0.010346638112280468,
-    "returned": 0,
-    "remainingToken": 3.595771
-  },
-  {
-    "address": "5rGq4HnSKVxeERysdd2QEdYvCbUev7fzL39VjMNUsU96",
-    "lossInSol": 0.008917786778070116,
-    "returned": 0,
-    "remainingToken": 74.198136
-  },
-  {
-    "address": "Ex6UrVFy3Ehz3tJHTPhxNc7rhVyVuzrwCiVcWQXv7vf4",
-    "lossInSol": 0.008279354999999766,
-    "returned": 0,
-    "remainingToken": 1.4561190000000002
-  },
-  {
-    "address": "5DE5JJyG7S7htAJQncPtVmJkncU3ZkqTHB1ZqV2zq5KA",
-    "lossInSol": 0.00667834326925424,
-    "returned": 0,
-    "remainingToken": 0.0777840000000003
-  },
-  {
-    "address": "2EfLBvYVXjcKrxWFbzsHXBdN3GST3qC6BUva64ij7qpu",
-    "lossInSol": 0.005035665714301491,
-    "returned": 0,
-    "remainingToken": 2.326598
-  },
-  {
-    "address": "Hy7krzqXF4UpWGDptFebwAYMPnpKgtjiPXgigqUYFzvh",
-    "lossInSol": 0.004849035000000005,
-    "returned": 0,
-    "remainingToken": 3.2972290000000006
-  },
-  {
-    "address": "J338Ntt2fqzFSmoabj2SRPLrEHQgBEBaafD644mFGFB8",
-    "lossInSol": 0.004118851424544739,
-    "returned": 0,
-    "remainingToken": 0.22476400000000396
-  },
-  {
-    "address": "Am27RYnReAgn7sP5wuPoBjYaxjQGbnCDitVzmbHGLnXY",
-    "lossInSol": 0.0030839556046507524,
-    "returned": 0,
-    "remainingToken": 1.430095
-  },
-  {
-    "address": "HaeR9vW7FUTKsfmNvkv1fGWWp397HJFt9KgvrmqJCjG7",
-    "lossInSol": 0.0029156197780701165,
-    "returned": 0,
-    "remainingToken": 6.595771
-  },
-  {
-    "address": "DNkfsPVnhRAewYCtnBQ3VFuNxkrp9kG8BrpDcrVpvaUB",
-    "lossInSol": 0.0023230888835271135,
-    "returned": 0,
-    "remainingToken": 14.814283999999999
-  },
-  {
-    "address": "AofmqCrQPhCpPnwUrmKFj2w5RMc7nDzEXReAm2iWSfCp",
-    "lossInSol": 0.002184795668420697,
-    "returned": 0,
-    "remainingToken": 0.07661699999999971
-  },
-  {
-    "address": "5NVgrqW7BtDZD6GSr1zjGkbKZDe3GSBZgcEAibL4bMxG",
-    "lossInSol": 0.0020269275738173695,
-    "returned": 0,
-    "remainingToken": 0.03416600000000125
-  },
-  {
-    "address": "6FS9KsENUTocPQKRBTm45HCgaWJdzuCW8HFSfDanpptW",
-    "lossInSol": 0.002012092000000007,
-    "returned": 0,
-    "remainingToken": 28.158982
-  },
-  {
-    "address": "3o2fttzVtHau5WuczWJtcxUJ4uAC3VorXtvWABK4Gojq",
-    "lossInSol": 0.0012409109999999834,
-    "returned": 0,
-    "remainingToken": 0.2196
-  },
-  {
-    "address": "DscHCtXYxPfvquqrXL6FzD2H7Ndhf1Q1qeXhM6iuWXYw",
-    "lossInSol": 0.000959462000000022,
-    "returned": 0,
-    "remainingToken": 0.000010000000003174137
-  },
-  {
-    "address": "3LnZpg7BBzgDiVSqeH1ci1zCgcA8vbv5c6Ara3BARVWG",
-    "lossInSol": 0.00013526571135893603,
-    "returned": 0,
-    "remainingToken": 0.00004599999999999049
-  },
-  {
-    "address": "FopyHR7YG5GZxG4ucpxkPBKbRw6gCnzzK1dktNqbugP8",
-    "lossInSol": 0.00012379399999984386,
-    "returned": 0,
-    "remainingToken": 0.010712
-  },
-  {
-    "address": "EJBy6AxMtxfX9P3wpDNw3C46TAjQeSbBwYNgVTabhVam",
-    "lossInSol": 35.19534101384535,
-    "returned": 0,
-    "remainingToken": 0.2924590000002354
-  },
-  {
-    "address": "6xbV17oHY3srdRb6jPmVWwUug31Nb1wC6td7XkxjcZPk",
-    "lossInSol": 13.048692829583985,
-    "returned": 0,
-    "remainingToken": 12.91281200000003
-  },
-  {
-    "address": "2Y5tGkFkPELejn2S9N3AMqcbKg7b1wkjxcdxMdSQ4iDy",
-    "lossInSol": 8.211110409910646,
-    "returned": 0,
-    "remainingToken": 0.0013640000001942099
-  },
-  {
-    "address": "7cXkCT3A4qW9nPZy9NfayHZ24ypwXB5PWzhuT2QmL64y",
-    "lossInSol": 6.842442046336629,
-    "returned": 0,
-    "remainingToken": 83.923133
-  },
-  {
-    "address": "Er2Nf9uDenzdNRATWzgzHftKkjUnqXbDinJMDbjKJeC8",
-    "lossInSol": 6.320535812278251,
-    "returned": 0,
-    "remainingToken": 0.099885
-  },
-  {
-    "address": "77NdrveTSr2Z4GjRrgf9JUYRX1zZFzZGDqbnjWMy8NC5",
-    "lossInSol": 6.218417354171186,
-    "returned": 0,
-    "remainingToken": 0.08694599999998331
-  },
-  {
-    "address": "BcGvxcGwcX2fan3eCuaTNue5Z29SaxuczfF8tkLLZbMc",
-    "lossInSol": 5.8272476931994355,
-    "returned": 0,
-    "remainingToken": 0.10822700000016994
-  },
-  {
-    "address": "DngJJAuicE33y1ZmgcvHieqs62tCLPHSKM3pJLjzTQKt",
-    "lossInSol": 4.933616343000001,
-    "returned": 0,
-    "remainingToken": 488.998017
-  },
-  {
-    "address": "2mtKESPrinussnN3E1uWFNCAQiEjcpESGD89CUxAGT2R",
-    "lossInSol": 4.702141915288376,
-    "returned": 0,
-    "remainingToken": 0.0314210000001367
-  },
-  {
-    "address": "HyxzmL2xi5GNjxwANVnNkhN8edebE8KYzFi2k3ax1uob",
-    "lossInSol": 4.16581066451313,
-    "returned": 0,
-    "remainingToken": 0.002567999999996573
-  },
-  {
-    "address": "3m6KkNY78jTUUVYFKKimbbRj4bdm2S9qqTXDM9E4ZHPW",
-    "lossInSol": 3.8074719235552204,
-    "returned": 0,
-    "remainingToken": 0.5771399999999858
-  },
-  {
-    "address": "GHx6ngE1KtYWzuhCkdAD61Z5KAL8H1baHgUNGKinsefZ",
-    "lossInSol": 3.8047088335552193,
-    "returned": 0,
-    "remainingToken": 0.5771399999999858
-  },
-  {
-    "address": "48fPYNVaFKkP9fmTHvfwQfAkG8YpyzTgkXTgvxh87Se3",
-    "lossInSol": 3.636716613555219,
-    "returned": 0,
-    "remainingToken": 0.5771399999999858
-  },
-  {
-    "address": "BYrwvM3VdcKccT3Xc4aPCqizMJr1ZJqbG1JSrgkVKD8n",
-    "lossInSol": 3.6332756815552187,
-    "returned": 0,
-    "remainingToken": 0.5771399999999858
-  },
-  {
-    "address": "3T8oKEGH6kwzcVyW4TM4smWeJ9T2U2kdgZGPwGmsw7sD",
-    "lossInSol": 3.6278195030219034,
-    "returned": 0,
-    "remainingToken": 0.7462840000000028
-  },
-  {
-    "address": "3KHavrwizugmoo6e5wR47rY1WP7khQZ2NN3VPacT994P",
-    "lossInSol": 3.44762037451319,
-    "returned": 0,
-    "remainingToken": 0.000569000000041342
-  },
-  {
-    "address": "86ssNTYmFVux4NABe22hjjicVsgLzaNfgQzLa1ScicPg",
-    "lossInSol": 3.284224632888574,
-    "returned": 0,
-    "remainingToken": 0.7885699999999929
-  },
-  {
-    "address": "5pyDYJP3TB6WwwsUvLmP4Nrbhq19mRemXa4Nkumb2wZ",
-    "lossInSol": 3.134135547258934,
-    "returned": 0,
-    "remainingToken": 29
-  },
-  {
-    "address": "7Qw8CS2ywnp9VgHrH1sjpArpLsKWU9LV6TfqcjQ7jMGR",
-    "lossInSol": 2.9249898013956015,
-    "returned": 0,
-    "remainingToken": 2.905382999999972
-  },
-  {
-    "address": "8R9kA5dj7DQTZS8xMSr3DR3n7PJNAGPRUeCpUhhbuZdg",
-    "lossInSol": 2.8567414365421224,
-    "returned": 0,
-    "remainingToken": 0.0005120000000147229
-  },
-  {
-    "address": "EmZ9kTS2DNcVsXyrJLDxBjQCy7iHydXy8MBPgU9WhDgW",
-    "lossInSol": 2.6844993930556416,
-    "returned": 0,
-    "remainingToken": 2.8408189999999536
-  },
-  {
-    "address": "EkkkcrgiH8JQQKt8s97Eag2WcahEQ2UZMpuvb9s8L6nJ",
-    "lossInSol": 2.449210694577701,
-    "returned": 0,
-    "remainingToken": 0.030855999999971573
-  },
-  {
-    "address": "4MFATh6YdLk5D4KKSyo3khtWUbp29kovjxyXkfK4NEu5",
-    "lossInSol": 2.4411626399377937,
-    "returned": 0,
-    "remainingToken": 99.894285
+    "remainingToken": 212.586492,
+    "returned": 0
   },
   {
     "address": "5BfMj4q2BLDo9baST2eRnVnhsQp3r8zRsGvKaGDVt4gj",
-    "lossInSol": 2.336022903863666,
-    "returned": 307,
-    "remainingToken": 0.4425499999999971
-  },
-  {
-    "address": "jYMn9e9YVuHPQ9ooTVak2QVRVFbmELX579BPE7JfU9D",
-    "lossInSol": 2.107063311673693,
-    "returned": 0,
-    "remainingToken": 0.0005699999999819738
-  },
-  {
-    "address": "5frcq38Nh9SrUbdLFQGKeKxgBzv7JGrqA7VaLB3fAm9T",
-    "lossInSol": 1.9762287316219163,
-    "returned": 0,
-    "remainingToken": 0.8731420000000014
-  },
-  {
-    "address": "HuTshmtwcQkWBLzgW3m4uwcmik7Lmz4YFpYcTqMJpXiP",
-    "lossInSol": 1.889808500487447,
-    "returned": 0,
-    "remainingToken": 349.85480099999995
-  },
-  {
-    "address": "26LWN1FvXfU9Dd4F8hAAP1cH6wo8j1mwyu3ECWjqFGCw",
-    "lossInSol": 1.7163414889238997,
-    "returned": 0,
-    "remainingToken": 212.586492
+    "lossInSol": 1.71163623102259,
+    "remainingToken": 0.4425499999999971,
+    "returned": 307
   },
   {
     "address": "25Q3TqyiiJ5KAcYfFFZ9XEHkeS6HN567J2tmu5WUpS1M",
     "lossInSol": 1.6989716410710383,
-    "returned": 0,
-    "remainingToken": 0.06468399999999974
+    "remainingToken": 0.06468399999999974,
+    "returned": 0
   },
   {
     "address": "DP3dwFywToTEpg88T3B5NMRYy1AVtL4eWbtTpw4wgRBz",
     "lossInSol": 1.648723834055252,
-    "returned": 0,
-    "remainingToken": 0.8942849999999964
+    "remainingToken": 0.8942849999999964,
+    "returned": 0
   },
   {
     "address": "CpegbAgSe7aZfLjsamKtsbceZEU4wPoPLuUDV5XbpdQS",
     "lossInSol": 1.4965503597210414,
-    "returned": 0,
-    "remainingToken": 0.09639899999999102
+    "remainingToken": 0.09639899999999102,
+    "returned": 0
   },
   {
     "address": "FSc7wTQhiwywyd1AFBcXCVq2kaYZoyqaQU6Jo26DHagS",
     "lossInSol": 1.495500666679928,
-    "returned": 113.9365,
-    "remainingToken": 16.427180000000007
+    "remainingToken": 16.427180000000007,
+    "returned": 113.9365
   },
   {
     "address": "5hUShahcYNyKswVGDiPdkTQ9KjMmy2q8eER2kGZfNrz9",
     "lossInSol": 1.4575701903219092,
-    "returned": 0,
-    "remainingToken": 0.8097129999999879
+    "remainingToken": 0.8097129999999879,
+    "returned": 0
   },
   {
     "address": "BAWxmSFWFfbeapRe7CFWTkvnGiEUSajs5cTd2n7hNmeH",
     "lossInSol": 1.430562670428766,
-    "returned": 0,
-    "remainingToken": 0.005540999999993801
+    "remainingToken": 0.005540999999993801,
+    "returned": 0
   },
   {
     "address": "ECM32S5vNxjzTbQRcJVgDKGwZnYtg5XVmG46G8CzDRyi",
     "lossInSol": 1.4146114860881716,
-    "returned": 0,
-    "remainingToken": 0.0001420000000109667
+    "remainingToken": 0.0001420000000109667,
+    "returned": 0
+  },
+  {
+    "address": "EPw8u7kuYBLa4AsY9aR3Um6UzTMwzhj2ZKyUX3ZJY3Mj",
+    "lossInSol": 1.392516774,
+    "remainingToken": 639.447975,
+    "returned": 0
   },
   {
     "address": "Gpf1VB9iFB1ELYgnSCNMCyrPJ5pzVa4w3s6DXJAAWjZq",
     "lossInSol": 1.3449971756219163,
-    "returned": 0,
-    "remainingToken": 0.8731420000000014
+    "remainingToken": 0.8731420000000014,
+    "returned": 0
   },
   {
     "address": "72F356JV7ZUXRfdv54yzz5p8xDFRQ1NTzR6Z92mZ7dZ8",
     "lossInSol": 1.3110496933314062,
-    "returned": 0,
-    "remainingToken": 0.009999999999990905
+    "remainingToken": 0.009999999999990905,
+    "returned": 0
   },
   {
     "address": "GqvB8ZPS8TcPaGucEPZ8hBd4EyyYniuibfrwkymZ3jvz",
     "lossInSol": 1.1861286742827568,
-    "returned": 0,
-    "remainingToken": 0.002387999999996282
+    "remainingToken": 0.002387999999996282,
+    "returned": 0
   },
   {
     "address": "AkVxWHDU2Ky91FkiWskfGRLrt6SSZ9s6hZfKxeURGWP7",
     "lossInSol": 1.0894435702268348,
-    "returned": 0,
-    "remainingToken": 0.07254100000000108
+    "remainingToken": 0.07254100000000108,
+    "returned": 0
   },
   {
     "address": "CSDTjN8rnjQSLcpiLSBWeKxaf1d8dgPHm21ZryHAYrU7",
     "lossInSol": 1.0570644430583735,
-    "returned": 0,
-    "remainingToken": 65.3192
+    "remainingToken": 65.3192,
+    "returned": 0
   },
   {
     "address": "9vLqvVG8wy5tuNbPumUUPtjdWBFjytoqS7SATaoaEBmp",
     "lossInSol": 1.0547366113262349,
-    "returned": 0,
-    "remainingToken": 1.8229860000000144
+    "remainingToken": 1.8229860000000144,
+    "returned": 0
   },
   {
     "address": "HAeYTzSifV1aqJsGE7nzzLFpkrotF22Y93xp7nLWYrB2",
     "lossInSol": 1.0133617520755818,
-    "returned": 75.9577,
-    "remainingToken": 0.19650599999999496
+    "remainingToken": 0.19650599999999496,
+    "returned": 75.9577
   },
   {
     "address": "7cHisGZ1NtrKehdLQX8TmdsweizvuXYyKkzbm5jYVQdu",
     "lossInSol": 1.0107562394078795,
-    "returned": 0,
-    "remainingToken": 0.21791899999999487
+    "remainingToken": 0.21791899999999487,
+    "returned": 0
   },
   {
     "address": "74fbbwBBZ5zHr6pEuRLKYoZEUsi74pFNjpdShjhE5oM5",
     "lossInSol": 0.9887790562243217,
-    "returned": 0,
-    "remainingToken": 65.70001500000004
+    "remainingToken": 65.70001500000004,
+    "returned": 0
   },
   {
     "address": "CPerEa9RcBgjUU5u5pnAmYgByZLV8Gp9y3Nmvzqd5daz",
     "lossInSol": 0.9693796239710677,
-    "returned": 0,
-    "remainingToken": 0.00005600000000072214
+    "remainingToken": 0.00005600000000072214,
+    "returned": 0
   },
   {
     "address": "H19EoyaP1HzMkncDzPdDTvdgwvwj5uf7tYdpEQNJZCSZ",
     "lossInSol": 0.9555336465950677,
-    "returned": 0,
-    "remainingToken": 0.005130000000008295
+    "remainingToken": 0.005130000000008295,
+    "returned": 0
   },
   {
     "address": "2pDuZL84dYMCTQAvbt8DQms7Ux8r6xFY6zetDtPyUbdT",
     "lossInSol": 0.9547038752952206,
-    "returned": 0,
-    "remainingToken": 0.9361789999999957
+    "remainingToken": 0.9361789999999957,
+    "returned": 0
   },
   {
     "address": "4fps6R7mZemXQyHy5eSTZsFR7Qy6vNB88qM6ksjG16KH",
     "lossInSol": 0.9410551375732166,
-    "returned": 68.361942,
-    "remainingToken": 60.490309999999994
+    "remainingToken": 60.490309999999994,
+    "returned": 68.361942
   },
   {
     "address": "FmveUq2Yh3P42EuRVvkFMwhZK5EdyYbj536ZgbDbUrTk",
     "lossInSol": 0.9115941686021836,
-    "returned": 0,
-    "remainingToken": 0.011199000000004844
+    "remainingToken": 0.011199000000004844,
+    "returned": 0
   },
   {
     "address": "GCvPTYLNST1DQKhNDd9n9AUFwqnutyTj6N3yvfEC69ZW",
     "lossInSol": 0.8912636643155285,
-    "returned": 0,
-    "remainingToken": 0.006570999999993887
+    "remainingToken": 0.006570999999993887,
+    "returned": 0
   },
   {
     "address": "G491suSREwWRyUy5WxtL2ghpE5XRdgWxaW2nVSzn2v8j",
     "lossInSol": 0.8515691299219231,
-    "returned": 0,
-    "remainingToken": 0.9365710000000007
+    "remainingToken": 0.9365710000000007,
+    "returned": 0
   },
   {
     "address": "B2TExssQ9Xa7CXBhznS2tT7m6BHEg7JmJnjHE4vehzwx",
     "lossInSol": 0.8417750234552388,
-    "returned": 0,
-    "remainingToken": 0.7674269999999979
+    "remainingToken": 0.7674269999999979,
+    "returned": 0
   },
   {
     "address": "EpVNxDfNAdBRsW8jK22u9tdvs5dgvQrmkd2jJ7W38Qek",
     "lossInSol": 0.8405444621732985,
-    "returned": 0,
-    "remainingToken": 0.00965600000000677
+    "remainingToken": 0.00965600000000677,
+    "returned": 0
   },
   {
     "address": "CMVJot3JDQWvQvuYMWkXJ1FvsWAUFXQ8NoDb97oem3vA",
     "lossInSol": 0.8234692574885876,
-    "returned": 0,
-    "remainingToken": 0.9154279999999915
+    "remainingToken": 0.9154279999999915,
+    "returned": 0
   },
   {
     "address": "Di8a6WHdXQgwYq2mkEm1YtSC7pLHgsJA1QC3391JGaHQ",
     "lossInSol": 0.822087013444373,
-    "returned": 0,
-    "remainingToken": 0.07314199999999005
+    "remainingToken": 0.07314199999999005,
+    "returned": 0
   },
   {
     "address": "91vBLcuMhgQBQYVWactrcGNFRkGAytk4sg7WPjQDbKAX",
     "lossInSol": 0.8179636200159552,
-    "returned": 0,
-    "remainingToken": 99.99999999999997
-  },
-  {
-    "address": "F9xUBsot77Z7AaRHY9ijUg6YZApnKS6CYxnibTTqCiB6",
-    "lossInSol": 0.8160492590658371,
-    "returned": 0,
-    "remainingToken": 59.175058
+    "remainingToken": 99.99999999999997,
+    "returned": 0
   },
   {
     "address": "4MqURiPzVpizkfeHtwSUXW6ZGDdMxhDKzeoztgwFkSPe",
     "lossInSol": 0.8051045979985746,
-    "returned": 1.721,
-    "remainingToken": 0.00009599999999987396
+    "remainingToken": 0.00009599999999987396,
+    "returned": 1.721
   },
   {
     "address": "BBsjGyxfxDE9erYMMTiYPmtmgjnEDjC465rgK1mfRWPb",
     "lossInSol": 0.7607816781188722,
-    "returned": 0,
-    "remainingToken": 165.58689900000002
-  },
-  {
-    "address": "HxjwdF326ZunmUwC1iXhfgL3ku78YsksN6n7Rfxzwr6b",
-    "lossInSol": 0.7525446801091159,
-    "returned": 0,
-    "remainingToken": 0.0667039999999588
+    "remainingToken": 165.58689900000002,
+    "returned": 0
   },
   {
     "address": "CANikvShfS2wjkm98E2NjDXC2V425BufMFB5qTTZsPLh",
     "lossInSol": 0.7247984791958466,
-    "returned": 0,
-    "remainingToken": 0.07191499999998996
+    "remainingToken": 0.07191499999998996,
+    "returned": 0
   },
   {
     "address": "2Zyu6wwfHHFU1SLYdV8RPW7jhwxWjsHnjfL3rarbqzPn",
     "lossInSol": 0.6559236861444253,
-    "returned": 0,
-    "remainingToken": 0.007713999999992893
+    "remainingToken": 0.007713999999992893,
+    "returned": 0
   },
   {
     "address": "EE7MEBmE8FPppiqhce7TRkybYLWXFNtfFX8TpEf3jVid",
     "lossInSol": 0.6539510479797939,
-    "returned": 0,
-    "remainingToken": 1.232328999999993
+    "remainingToken": 1.232328999999993,
+    "returned": 0
   },
   {
     "address": "4CFPo9jXstBMEj1QK6YA2kZmaENCuPbxMTZTZzZeh5bk",
     "lossInSol": 0.608743350689469,
-    "returned": 0,
-    "remainingToken": 0.23644500000000335
+    "remainingToken": 0.23644500000000335,
+    "returned": 0
   },
   {
     "address": "CMpPo12Ffy9JBuDVDKpNmgiXj9Ae4Q555BnbM9kBXyxQ",
     "lossInSol": 0.5719042846457578,
-    "returned": 0,
-    "remainingToken": 0.0009479999999939537
+    "remainingToken": 0.0009479999999939537,
+    "returned": 0
   },
   {
     "address": "BqccZ4gC9ixvkEYPWP2XMiXnF3SECF5CfTobdqvxva5",
     "lossInSol": 0.5653937115745575,
-    "returned": 0,
-    "remainingToken": 10.957713999999996
-  },
-  {
-    "address": "3HBLNQBNknXuzhArGEp8S9p4u1GftUBTaWgkkTpJBRGr",
-    "lossInSol": 0.5645907617754118,
-    "returned": 0,
-    "remainingToken": 0.6076619999999906
+    "remainingToken": 10.957713999999996,
+    "returned": 0
   },
   {
     "address": "C65VxZqcVtDmAAmsVzGeBDGJWZnBtNS9VoVGaSw7hQYg",
     "lossInSol": 0.5166566872937803,
-    "returned": 0,
-    "remainingToken": 44.053077
+    "remainingToken": 44.053077,
+    "returned": 0
+  },
+  {
+    "address": "wh5vVUFTiMDAQq1VtSVZ5C42dNSxC8ZauGXYchSF3NG",
+    "lossInSol": 0.5152834245291864,
+    "remainingToken": 43.092218,
+    "returned": 0
   },
   {
     "address": "AznC2ZBeonUqR81ASMFWGxcMVak9aDnE3LBcdKiaH4aj",
     "lossInSol": 0.5152502259999991,
-    "returned": 0,
-    "remainingToken": 1.4557230000000143
+    "remainingToken": 1.4557230000000143,
+    "returned": 0
   },
   {
     "address": "FvgLd1q5mfY1TCSBhkZqHkJzxZugXzGzy3Y8YnbH1yDc",
     "lossInSol": 0.5107210023296488,
-    "returned": 0,
-    "remainingToken": 0.00030800000000397176
+    "remainingToken": 0.00030800000000397176,
+    "returned": 0
   },
   {
     "address": "3dsVChRpoFW83rxKRPA3JGtWhPJ8RNkoAUKpyKCzdqha",
     "lossInSol": 0.5006809759030306,
-    "returned": 0,
-    "remainingToken": 0.000025000000000829914
+    "remainingToken": 0.000025000000000829914,
+    "returned": 0
   },
   {
     "address": "A8iyp9SCNny6cCvqcimnxvH6et4yFuZkM5sG1htE6Y9B",
     "lossInSol": 0.5000477262583602,
-    "returned": 0,
-    "remainingToken": 0.2657910000000001
+    "remainingToken": 0.2657910000000001,
+    "returned": 0
   },
   {
     "address": "9GrTY7fhTAFtAYdT5H5jzuFNnMXEezEqy62b8pYqyANJ",
     "lossInSol": 0.49743120614442526,
-    "returned": 0,
-    "remainingToken": 0.007713999999992893
+    "remainingToken": 0.007713999999992893,
+    "returned": 0
   },
   {
     "address": "3ryyasZovb78Bb3NR5efDgCXsdohyAr7cuF22xvVho8L",
     "lossInSol": 0.4973567014767165,
-    "returned": 0,
-    "remainingToken": 0.000013999999993075107
+    "remainingToken": 0.000013999999993075107,
+    "returned": 0
   },
   {
     "address": "FjZHGEUvhpoh2xqbD8ihBaA5Fpe7sVCU442zkVKjdFi7",
     "lossInSol": 0.4956383265181388,
-    "returned": 37.978857,
-    "remainingToken": 42.865029
+    "remainingToken": 42.865029,
+    "returned": 37.978857
   },
   {
     "address": "7MiisYdcKAghTdzaX6qoGEAEtCzM1JofLWc9mp1yx7nz",
     "lossInSol": 0.48906652365571457,
-    "returned": 0,
-    "remainingToken": 10.828236999999945
+    "remainingToken": 10.828236999999945,
+    "returned": 0
   },
   {
     "address": "3YMrsmettDDRZJFdLWrbqHr1ZCNy4H2Fwm3NB1YzHWj5",
     "lossInSol": 0.4776766793552587,
-    "returned": 0,
-    "remainingToken": 0.9577139999999957
+    "remainingToken": 0.9577139999999957,
+    "returned": 0
   },
   {
     "address": "GRz9uYg3GF9ke4Sjnz597rWZh7BrQKH4nQEB78793y8U",
     "lossInSol": 0.4525656296021833,
-    "returned": 0,
-    "remainingToken": 0.011199000000004844
+    "remainingToken": 0.011199000000004844,
+    "returned": 0
   },
   {
     "address": "EvZwJ3wty8G4ijahhoNThh292uTdYsLPMr9EaJ4GodBf",
     "lossInSol": 0.4500129049992403,
-    "returned": 0,
-    "remainingToken": 61.509060000000005
+    "remainingToken": 61.509060000000005,
+    "returned": 0
   },
   {
     "address": "DzXyo2LaWkofzKC1ZTu7pD8B6m68fh47tVSUBAYLQJr9",
     "lossInSol": 0.4489490152884291,
-    "returned": 0,
-    "remainingToken": 1.323109
+    "remainingToken": 1.323109,
+    "returned": 0
   },
   {
     "address": "AYcrWjorDyDn8HUhfyn2p3CHF1oYRVyGjja8b6tyMrVw",
     "lossInSol": 0.4440481400850036,
-    "returned": 0,
-    "remainingToken": 0.00008499999999855845
+    "remainingToken": 0.00008499999999855845,
+    "returned": 0
   },
   {
     "address": "G5r9PbW5iCi44tyCJWybvuaigMa39C5QytqWb5RUJtyt",
     "lossInSol": 0.44392449015552193,
-    "returned": 0,
-    "remainingToken": 0.05771399999999005
+    "remainingToken": 0.05771399999999005,
+    "returned": 0
   },
   {
     "address": "2WAq9cxtxrW92rsEYtCdEUGdAffdtc2JvuYpV2jRcQya",
     "lossInSol": 0.3958831375291867,
-    "returned": 0,
-    "remainingToken": 0.5180870000000001
+    "remainingToken": 0.5180870000000001,
+    "returned": 0
   },
   {
     "address": "946PATBF294fKUBFFM7a5EzTgfrxs7AxKsfeHE7z2Nzs",
     "lossInSol": 0.39186485219511064,
-    "returned": 0,
-    "remainingToken": 1.3740760000000023
+    "remainingToken": 1.3740760000000023,
+    "returned": 0
   },
   {
     "address": "3dJSRFCPPNRa1Dmw95cQESiwcpMAes2kPCmTcPedGTWT",
     "lossInSol": 0.3908195761444253,
-    "returned": 0,
-    "remainingToken": 0.007713999999992893
+    "remainingToken": 0.007713999999992893,
+    "returned": 0
   },
   {
     "address": "8oTFBwwyA6wBYLpu3dy4hYJZGECW8XH1VJBajTmfTDF5",
     "lossInSol": 0.3905086842127719,
-    "returned": 0,
-    "remainingToken": 40.588032
+    "remainingToken": 40.588032,
+    "returned": 0
   },
   {
     "address": "5CgnCqudTkbCJZer95Bx3r4UgjQtyVhywoBHpraXRvFz",
     "lossInSol": 0.3676367223822966,
-    "returned": 0,
-    "remainingToken": 37.978857
+    "remainingToken": 37.978857,
+    "returned": 0
   },
   {
     "address": "9bs6qfjGDWuVdHGTyCBfgobnfQvBHdRMRsgB3s4fuYSR",
     "lossInSol": 0.3651176100288731,
-    "returned": 0,
-    "remainingToken": 0.0019419999999996662
+    "remainingToken": 0.0019419999999996662,
+    "returned": 0
   },
   {
     "address": "5k9J2yugYsXgFWjmAPiR9s4ZGMNcc4mBZUiCSGdPiCcH",
     "lossInSol": 0.36336118590219024,
-    "returned": 0,
-    "remainingToken": 0.07462799999999703
+    "remainingToken": 0.07462799999999703,
+    "returned": 0
   },
   {
     "address": "95Hx34WxpzCwJ36NogrmUbNsgnoLK3N4LxeF7VMHxzpA",
     "lossInSol": 0.36292169828885057,
-    "returned": 0,
-    "remainingToken": 0.015427999999985786
+    "remainingToken": 0.015427999999985786,
+    "returned": 0
   },
   {
     "address": "55Sa4dm3wGkqWzknBHSLkdYSgzPuMKRUVJhAKhzRkkGD",
     "lossInSol": 0.36247173015437717,
-    "returned": 0,
-    "remainingToken": 0.11754199999998605
+    "remainingToken": 0.11754199999998605,
+    "returned": 0
   },
   {
     "address": "4RtpDBp7DviFXZ7mwR6nA7jgAYQRZZERZ59W5yTPXcu1",
     "lossInSol": 0.35290702946490815,
-    "returned": 0,
-    "remainingToken": 5.957713999999996
+    "remainingToken": 5.957713999999996,
+    "returned": 0
   },
   {
     "address": "HE3EoLTMsWnsJUFyAcWxWSmJmTyXC2jBavgLQcwXSuY6",
     "lossInSol": 0.3526414131555219,
-    "returned": 0,
-    "remainingToken": 0.05771399999999005
+    "remainingToken": 0.05771399999999005,
+    "returned": 0
   },
   {
     "address": "EMqZMQfCS7AqyyN54dB2kxgfFGJ3tGRt9x2qNowXnoy8",
     "lossInSol": 0.3446899776551549,
-    "returned": 0,
-    "remainingToken": 56.968285
+    "remainingToken": 56.968285,
+    "returned": 0
   },
   {
     "address": "9DAxgA6TJWvQf18UtwXkAiCB9FEG8wsonc8cpaJmvLta",
     "lossInSol": 0.33356936352431665,
-    "returned": 0,
-    "remainingToken": 1.1329860000000025
+    "remainingToken": 1.1329860000000025,
+    "returned": 0
   },
   {
     "address": "4o2EEEtzEZV5SDouisPJ7BodFTGPkj6Z7WB8KBk7uNXa",
     "lossInSol": 0.3254704220461203,
-    "returned": 0,
-    "remainingToken": 0.3228209999999976
+    "remainingToken": 0.3228209999999976,
+    "returned": 0
   },
   {
     "address": "BgcpmAFGRUuage1HsZ4HsYEiwEtzv8Rjv85PPREiB3Fe",
     "lossInSol": 0.3231947565291864,
-    "returned": 0,
-    "remainingToken": 429.109718
+    "remainingToken": 429.109718,
+    "returned": 0
   },
   {
     "address": "HqaWcMYVrqGvaK6xfCqaRWCKDYPxxi6TqHK7xaAPo7qA",
     "lossInSol": 0.3221747746702083,
-    "returned": 0,
-    "remainingToken": 0.009712999999997862
+    "remainingToken": 0.009712999999997862,
+    "returned": 0
   },
   {
     "address": "2QWpg7aptahrcYrF3eByaJBmT9HtZRZAH4ceotbMPBtt",
     "lossInSol": 0.3160734314917352,
-    "returned": 0,
-    "remainingToken": 56.968286
+    "remainingToken": 56.968286,
+    "returned": 0
   },
   {
     "address": "A5n3kd7FtnSdBQ1y9X1CuSttKX71ARRsHnfy6PNKpp5a",
     "lossInSol": 0.30728220178859433,
-    "returned": 0,
-    "remainingToken": 0.21927900000000022
+    "remainingToken": 0.21927900000000022,
+    "returned": 0
   },
   {
     "address": "BGDvS2NFZqftRCLipD41gdwVzmgb4C3cFGokdY8bCThr",
     "lossInSol": 0.2962376256950411,
-    "returned": 0,
-    "remainingToken": 29.875505
+    "remainingToken": 29.875505,
+    "returned": 0
   },
   {
     "address": "7RaLzH87R84hZ91VfvgTpPa175h6c3GonjftSVDbhuti",
     "lossInSol": 0.28471546900000017,
-    "returned": 0,
-    "remainingToken": 0.01696300000002842
+    "remainingToken": 0.01696300000002842,
+    "returned": 0
   },
   {
     "address": "8MDaZgS4Virv9P7ph4Nvxzi9TP7HebQ1eV4PcqBUnxQS",
     "lossInSol": 0.27517446600718176,
-    "returned": 0,
-    "remainingToken": 5.079189999999997
+    "remainingToken": 5.079189999999997,
+    "returned": 0
+  },
+  {
+    "address": "9adoShXttumQqaLbQkzkX5PaXerTAVHynVtcEwM3fHTp",
+    "lossInSol": 0.274723974,
+    "remainingToken": 0.28140800000000254,
+    "returned": 0
   },
   {
     "address": "2u4scdYxXao4k2boo66zccLZAUL8Tgtpy11JvFPCvyrB",
     "lossInSol": 0.26306890595136956,
-    "returned": 0,
-    "remainingToken": 1
+    "remainingToken": 1,
+    "returned": 0
   },
   {
     "address": "2sbNS8xwcZUuVKagbZU1nNNCr6eLB2G78KV6qYGto86x",
     "lossInSol": 0.2593149683421035,
-    "returned": 0,
-    "remainingToken": 0.38308500000000123
+    "remainingToken": 0.38308500000000123,
+    "returned": 0
   },
   {
     "address": "96GLv8FHdDH1UbkkqBwwqMi3j5duydiRZLr9WkmTPDEZ",
     "lossInSol": 0.24741330594554278,
-    "returned": 0,
-    "remainingToken": 4.954371
+    "remainingToken": 4.954371,
+    "returned": 0
   },
   {
     "address": "HAv2rG6bEt3QsKbL3DcyBMLuSJe1R9bwUAYgT19eyJMA",
     "lossInSol": 0.23843707337552966,
-    "returned": 0,
-    "remainingToken": 0.019255999999998608
+    "remainingToken": 0.019255999999998608,
+    "returned": 0
   },
   {
     "address": "9fniQXHcKqjTbnbRpzvRapeUSfaBZY1oL22yPvWRRSLF",
     "lossInSol": 0.23461069564575787,
-    "returned": 0,
-    "remainingToken": 0.0009479999999939537
+    "remainingToken": 0.0009479999999939537,
+    "returned": 0
   },
   {
     "address": "FukRkGdeTiCEMrgZGz4dDxfzRmoxsJZqatbJAmHD297t",
     "lossInSol": 0.23269741032757746,
-    "returned": 0,
-    "remainingToken": 85.452428
+    "remainingToken": 85.452428,
+    "returned": 0
   },
   {
     "address": "AFN3Hgy7zkHqQf3gfzwtBcqVq6hqiEmhmHUzSFfXg4U5",
     "lossInSol": 0.2309051765888574,
-    "returned": 0,
-    "remainingToken": 0.07885699999999785
+    "remainingToken": 0.07885699999999785,
+    "returned": 0
   },
   {
     "address": "Cx3nHcMTzo53NUxmmSnZdJxorAb2FuWgZyXeRZ6ARmnS",
     "lossInSol": 0.22733584563358133,
-    "returned": 0,
-    "remainingToken": 29.999999999999993
+    "remainingToken": 29.999999999999993,
+    "returned": 0
   },
   {
     "address": "6A4kwuev3Lo8uV9GfHtMnPWaa9fY9uHgsug8LHifsnZS",
     "lossInSol": 0.20434658300000003,
-    "returned": 0,
-    "remainingToken": 15.172172
+    "remainingToken": 15.172172,
+    "returned": 0
   },
   {
     "address": "BjaYEhYm9MdCWKMt542ua49vZqqsiiwGn1aLTT5mVdR5",
     "lossInSol": 0.20386883006250472,
-    "returned": 0,
-    "remainingToken": 13.2926
+    "remainingToken": 13.2926,
+    "returned": 0
   },
   {
     "address": "6huhdyXWk4yUwxTkTT1dNAWFT3faRmoEqaPp2AqmuyPi",
     "lossInSol": 0.19959605956666437,
-    "returned": 0,
-    "remainingToken": 0.016835000000000377
+    "remainingToken": 0.016835000000000377,
+    "returned": 0
+  },
+  {
+    "address": "3HBLNQBNknXuzhArGEp8S9p4u1GftUBTaWgkkTpJBRGr",
+    "lossInSol": 0.1951852967754118,
+    "remainingToken": 0.6076619999999906,
+    "returned": 0
   },
   {
     "address": "CvY6vccEPSaxttnk4iZwvddsPKAgZ6it6YAPdC3RYbdC",
     "lossInSol": 0.19311249345775816,
-    "returned": 0,
-    "remainingToken": 0.00348499999999774
+    "remainingToken": 0.00348499999999774,
+    "returned": 0
   },
   {
     "address": "EmwDihQNUcMEd4UqPQDZss7AkuewmGzGgCbVkZM3eeqG",
     "lossInSol": 0.19011539174552394,
-    "returned": 0,
-    "remainingToken": 0.07674199999999587
+    "remainingToken": 0.07674199999999587,
+    "returned": 0
   },
   {
     "address": "29MRVLkB992MdszTtvD4enw3j9wo3MtNHXZknBac13hQ",
     "lossInSol": 0.1817646241999762,
-    "returned": 0,
-    "remainingToken": 0.0007990000000006603
+    "remainingToken": 0.0007990000000006603,
+    "returned": 0
   },
   {
     "address": "EDckCQRhWLTkFfd2M8cTew8xeQp2BCjzGVcgFktt88Qu",
     "lossInSol": 0.1775118258263601,
-    "returned": 0,
-    "remainingToken": 0.18723599999999863
+    "remainingToken": 0.18723599999999863,
+    "returned": 0
   },
   {
     "address": "CvXfP7MLpG4S6fxieX9ZipKF6aQSvmtQDZjXMbAcPpWj",
     "lossInSol": 0.1763857385291865,
-    "returned": 0,
-    "remainingToken": 0.182309
+    "remainingToken": 0.182309,
+    "returned": 0
   },
   {
     "address": "7Xbp9uiYChpCG6fnVqMHsrNYCLnG5gaNDyoYwzkKci7o",
     "lossInSol": 0.1759282811906992,
-    "returned": 0,
-    "remainingToken": 0.007388999999996315
+    "remainingToken": 0.007388999999996315,
+    "returned": 0
   },
   {
     "address": "9n1ofp79erv82BPDLT2phdQ829YabAmXBEDMW5Ap7DAf",
     "lossInSol": 0.17131103195306627,
-    "returned": 0,
-    "remainingToken": 20.888371
+    "remainingToken": 20.888371,
+    "returned": 0
   },
   {
     "address": "mjfgWjXKkSqpSpHTYLP8x3HVMbH7LbnFkePfcw8ZMjH",
     "lossInSol": 0.17116805425490972,
-    "returned": 0,
-    "remainingToken": 0.8659180000000006
+    "remainingToken": 0.8659180000000006,
+    "returned": 0
   },
   {
     "address": "3umozPeW1ihBgmcxXaFfZUZWwjLmdXDbrW8wGD6xZkfW",
     "lossInSol": 0.15876655999753964,
-    "returned": 0,
-    "remainingToken": 0.002365000000011719
+    "remainingToken": 0.002365000000011719,
+    "returned": 0
   },
   {
     "address": "HUkXVPAh3FSZutX2Vpb9Zxr8twUifDtRS9MyrTwSBMi9",
     "lossInSol": 0.15327958752907794,
-    "returned": 0,
-    "remainingToken": 0.09377299999999877
+    "remainingToken": 0.09377299999999877,
+    "returned": 0
   },
   {
     "address": "8Jdg8LNxXeeZdyE57TEKShzGEmyZBHHNF1ir5yADKVRt",
     "lossInSol": 0.14479055578596325,
-    "returned": 0,
-    "remainingToken": 0.8639310000000009
+    "remainingToken": 0.8639310000000009,
+    "returned": 0
   },
   {
     "address": "8zWowzzc44gpmkK2zMjzTzXrbYZddEa9VrUPJ8jBhwZU",
     "lossInSol": 0.14173175627855317,
-    "returned": 0,
-    "remainingToken": 0.25477200000000266
+    "remainingToken": 0.25477200000000266,
+    "returned": 0
   },
   {
     "address": "CXo2x4nNQ2UvtNFXEv6tGcGneDBHvWcR96x1QnJpEiJC",
     "lossInSol": 0.1405056839733223,
-    "returned": 0,
-    "remainingToken": 0.008856999999999005
+    "remainingToken": 0.008856999999999005,
+    "returned": 0
   },
   {
     "address": "AEkATuDPLxz3GM1UWacho7dQXZT2hyjuSDWenRb6G2yE",
     "lossInSol": 0.1375816660842713,
-    "returned": 0,
-    "remainingToken": 28.226792
+    "remainingToken": 28.226792,
+    "returned": 0
   },
   {
     "address": "AWEccc2EqGXKUiEz8Jh9wobQGFYhq6JFsHMHmKt862qi",
     "lossInSol": 0.13076979997332222,
-    "returned": 0,
-    "remainingToken": 0.008856999999999005
+    "remainingToken": 0.008856999999999005,
+    "returned": 0
   },
   {
     "address": "3zGZGn4yt6Jaq63BD1GgTDikgDFhXXiaDBw1auSD1Vaw",
     "lossInSol": 0.13002577114442537,
-    "returned": 0,
-    "remainingToken": 0.007713999999992893
+    "remainingToken": 0.007713999999992893,
+    "returned": 0
   },
   {
     "address": "8L1p3yXjCg6Rdzc3nq8qRJdidkjWCULNbG2svgudKoJ9",
     "lossInSol": 0.12740279932346765,
-    "returned": 0,
-    "remainingToken": 33.408657000000005
+    "remainingToken": 33.408657000000005,
+    "returned": 0
   },
   {
     "address": "8rBVToLrYjocweUTv5TzEYWshDrsPggavsKeLwQLEA1E",
     "lossInSol": 0.12585575142888505,
-    "returned": 0,
-    "remainingToken": 0.0015420000000005984
+    "remainingToken": 0.0015420000000005984,
+    "returned": 0
   },
   {
     "address": "FB9KgjyL2Avns9SsTZMcQ3WpEc85VcuPzDzb3UUw28BR",
     "lossInSol": 0.12035968128665525,
-    "returned": 0,
-    "remainingToken": 0.004627999999996746
+    "remainingToken": 0.004627999999996746,
+    "returned": 0
   },
   {
     "address": "8H8DKQXjTjG1zpod3rwtNGr76f9Z3mUpbNVQWmdkS7Ys",
     "lossInSol": 0.11569032072476094,
-    "returned": 9.11493,
-    "remainingToken": 5.449128
+    "remainingToken": 5.449128,
+    "returned": 9.11493
   },
   {
     "address": "8QFwD36Mpkr14PyGYPnF8pDm34LToS8wBL8mKqnQ8rkL",
     "lossInSol": 0.11545414658885739,
-    "returned": 0,
-    "remainingToken": 0.07885699999999929
+    "remainingToken": 0.07885699999999929,
+    "returned": 0
   },
   {
     "address": "C8DCJr2Nq9Et3ATaakTwSooU8mStdQZsxSCS4hoXLEdZ",
     "lossInSol": 0.1142038980673693,
-    "returned": 0,
-    "remainingToken": 0.00005699999999819738
+    "remainingToken": 0.00005699999999819738,
+    "returned": 0
   },
   {
     "address": "FtX1pWuHmDbLt5F6PjALhsnFwEojK3cuC1FfKPbTVbSQ",
     "lossInSol": 0.10740094465515493,
-    "returned": 0,
-    "remainingToken": 56.968285
+    "remainingToken": 56.968285,
+    "returned": 0
   },
   {
     "address": "5jxYN5DWV7cvx4GEPXe9D351L3kN7ssbiSmZWAB9RnwK",
     "lossInSol": 0.1070624943394724,
-    "returned": 0,
-    "remainingToken": 0.2681590000000007
+    "remainingToken": 0.2681590000000007,
+    "returned": 0
   },
   {
     "address": "2AHri8k2L3BzRBVogFHNBVytcq6T7YLpsn1Bj8wZ8XyE",
     "lossInSol": 0.10593076958885739,
-    "returned": 0,
-    "remainingToken": 0.07885699999999929
+    "remainingToken": 0.07885699999999929,
+    "returned": 0
   },
   {
     "address": "8ZfrLKKj2rHHYMyGd8aykcfhwrZsgmX1mpe5Z54epZpH",
     "lossInSol": 0.10586813797332228,
-    "returned": 0,
-    "remainingToken": 0.008856999999999005
+    "remainingToken": 0.008856999999999005,
+    "returned": 0
   },
   {
     "address": "D3y4QGTdmPgdKty9KqRFpBjyYYHtzjcYgY47kWenmEjT",
     "lossInSol": 0.10547671697332234,
-    "returned": 0,
-    "remainingToken": 0.008856999999999005
+    "remainingToken": 0.008856999999999005,
+    "returned": 0
   },
   {
     "address": "2Et9MVpPJubdyRNgaZsJ6JhntcQBJwX6q69abU4ZHcw3",
     "lossInSol": 0.10179999442888507,
-    "returned": 0,
-    "remainingToken": 0.0015420000000005984
+    "remainingToken": 0.0015420000000005984,
+    "returned": 0
   },
   {
     "address": "3WCfaBjyqneRQANPGqKYKCvdyjF78jAfZv1UfakHK8Lp",
     "lossInSol": 0.10128084938229659,
-    "returned": 0,
-    "remainingToken": 36.030811
+    "remainingToken": 36.030811,
+    "returned": 0
   },
   {
     "address": "FC1YuF1hojYjnjxyXhcKWDtQyeJ2dKMqWvEWU3CbUeS4",
     "lossInSol": 0.09776867449219233,
-    "returned": 0,
-    "remainingToken": 0.09365699999999855
+    "remainingToken": 0.09365699999999855,
+    "returned": 0
   },
   {
     "address": "BF3yr1vww158ZwuRTmthfUcLjNfAxVDe7rRYydskC91s",
     "lossInSol": 0.09579788056140232,
-    "returned": 0,
-    "remainingToken": 0.5085820000000005
+    "remainingToken": 0.5085820000000005,
+    "returned": 0
   },
   {
     "address": "HrL7vF11BBFkfYLj7f9z42iXaMzZjb6ZTzEP8KGN5y9B",
     "lossInSol": 0.09572007001297626,
-    "returned": 0,
-    "remainingToken": 7.089762
+    "remainingToken": 7.089762,
+    "returned": 0
+  },
+  {
+    "address": "4SXWUfFbfsGRkYSZ94uu8MumBuXudPesYJgwTyqGPuCJ",
+    "lossInSol": 0.09530600821548962,
+    "remainingToken": 0.003129,
+    "returned": 0
   },
   {
     "address": "2a1WBt1QeTt4hthxiGNWoX8EqrXBsxJxKqnHoqdyVJMp",
     "lossInSol": 0.09381237338229664,
-    "returned": 0,
-    "remainingToken": 35.876633
+    "remainingToken": 35.876633,
+    "returned": 0
   },
   {
     "address": "9hLudDUwVJ1cmarxTa9iNDHiXoiCrNnoimHRPsuCmSzw",
     "lossInSol": 0.09181797830447724,
-    "returned": 0,
-    "remainingToken": 0.00002200000000129876
+    "remainingToken": 0.00002200000000129876,
+    "returned": 0
   },
   {
     "address": "ETqGqWyht3LRfg7do5pPdKzTodYC2D5mmc3QgA93iyD4",
     "lossInSol": 0.08856210942888507,
-    "returned": 0,
-    "remainingToken": 0.0015420000000005984
+    "remainingToken": 0.0015420000000005984,
+    "returned": 0
   },
   {
     "address": "BDAH1xBTvBHwxBtYrk87oXNS3uPvPi6wbRR193Kqtg3h",
     "lossInSol": 0.08731455800263105,
-    "returned": 0,
-    "remainingToken": 0.03896699999999953
+    "remainingToken": 0.03896699999999953,
+    "returned": 0
   },
   {
     "address": "8zNTYrVx4VcRsjZvpZetT1Zd4WYrdtWJjuq5E3QM3V6z",
     "lossInSol": 0.08531105350156204,
-    "returned": 0,
-    "remainingToken": 56.453181
+    "remainingToken": 56.453181,
+    "returned": 0
   },
   {
     "address": "GDCEr6vrgdwZPq3TDFvdK9MtN3L6M7ypPx8vkGGzmKZR",
     "lossInSol": 0.08447385299999999,
-    "returned": 0,
-    "remainingToken": 197.667568
+    "remainingToken": 197.667568,
+    "returned": 0
   },
   {
     "address": "4vcSbBn9QQMh4DfcYK4T8ftzhemkWpTgxzy8Kp4CVqfe",
     "lossInSol": 0.08372490044437583,
-    "returned": 0,
-    "remainingToken": 0.09999999999999964
+    "remainingToken": 0.09999999999999964,
+    "returned": 0
   },
   {
     "address": "5YjneZ4TdzUybtjZCDsQQcxF5KL3rQZu9yWkrc1P7TER",
     "lossInSol": 0.08165557555855217,
-    "returned": 0,
-    "remainingToken": 0.000042000000000541604
+    "remainingToken": 0.000042000000000541604,
+    "returned": 0
   },
   {
     "address": "CX4LfxDUnzrASnT7EAVxbEheVccQ6Nw64J8VDYKCQfAX",
     "lossInSol": 0.08083434130944905,
-    "returned": 0,
-    "remainingToken": 0.4127340000000004
+    "remainingToken": 0.4127340000000004,
+    "returned": 0
   },
   {
     "address": "4xt86srAiGVjEoMundN2wByhYyVeABFYg39UTC193HEc",
     "lossInSol": 0.07810941442888507,
-    "returned": 0,
-    "remainingToken": 0.0015420000000005984
+    "remainingToken": 0.0015420000000005984,
+    "returned": 0
   },
   {
     "address": "9BZW4JrCpd9rr4R1YL4RHfihRD88qUhzU9562aHYJCbV",
     "lossInSol": 0.07772901449036981,
-    "returned": 0,
-    "remainingToken": 5.317038999999999
+    "remainingToken": 5.317038999999999,
+    "returned": 0
   },
   {
     "address": "2GDqAdaQ8U4Y5sbutHgUTAeZaZcdpRFsofg58KP9ZSga",
     "lossInSol": 0.07334244997363987,
-    "returned": 0,
-    "remainingToken": 0.0021740000000001203
+    "remainingToken": 0.0021740000000001203,
+    "returned": 0
   },
   {
     "address": "4SGhtNn57nX6Fbvp9P1fn9pdfz8TUnMa8RDWLP4QPm9y",
     "lossInSol": 0.06988527467105174,
-    "returned": 0,
-    "remainingToken": 7.7873139999999985
+    "remainingToken": 7.7873139999999985,
+    "returned": 0
   },
   {
     "address": "A9pL2VYDTUC8GEvhSAMJWZ1AFhQLfESppPZ2iXhDxpSy",
     "lossInSol": 0.06672031415798196,
-    "returned": 0,
-    "remainingToken": 0.05534799999999862
+    "remainingToken": 0.05534799999999862,
+    "returned": 0
   },
   {
     "address": "EMnywxxb4Co1tXAVAXbZXKYEor9prL17AwqqXPmSwFmP",
     "lossInSol": 0.0638044807966941,
-    "returned": 0,
-    "remainingToken": 20.912338000000002
+    "remainingToken": 20.912338000000002,
+    "returned": 0
   },
   {
     "address": "AKetzgT2TcDgtfbkyKB8uKrVCt9gDG6vpboGQ6eqbRXV",
     "lossInSol": 0.06333625533552587,
-    "returned": 0,
-    "remainingToken": 0.09577100000000005
+    "remainingToken": 0.09577100000000005,
+    "returned": 0
   },
   {
     "address": "EyG1miSQ31JpFKwF62jVsf3GtCdS7JTJ7KU2iZRZVtbL",
     "lossInSol": 0.06249888327221863,
-    "returned": 0,
-    "remainingToken": 0.003656999999998689
+    "remainingToken": 0.003656999999998689,
+    "returned": 0
   },
   {
     "address": "799ED2s6Wjo9WFzySPinEq23k6odKYhuRwCgLSkTK2LZ",
     "lossInSol": 0.062345576999999985,
-    "returned": 0,
-    "remainingToken": 5.688559
+    "remainingToken": 5.688559,
+    "returned": 0
   },
   {
     "address": "EyZsodFStE1Dqsr6pfyr1yFsK5md1swyBimaUHpQVMBd",
     "lossInSol": 0.06153980233552587,
-    "returned": 0,
-    "remainingToken": 0.09577100000000005
+    "remainingToken": 0.09577100000000005,
+    "returned": 0
   },
   {
     "address": "8fDYKJ7DWrkgcADkqPFAr1XrhpvUJhVD9d2VXGCMUnrB",
     "lossInSol": 0.061103745925392916,
-    "returned": 0,
-    "remainingToken": 7.132269
+    "remainingToken": 7.132269,
+    "returned": 0
   },
   {
     "address": "DTXZVoipTtA9y1gQWKo2bWX8s5JrSxKVw2p2Jvv6cfBS",
     "lossInSol": 0.06059985901312032,
-    "returned": 0,
-    "remainingToken": 0.06456499999999998
+    "remainingToken": 0.06456499999999998,
+    "returned": 0
   },
   {
     "address": "FZ5Y8aWQCoNt1TJNcZvYWMhVt26zs6nrP4qPVYwWoaeV",
     "lossInSol": 0.06022225769504108,
-    "returned": 0,
-    "remainingToken": 7.246968
+    "remainingToken": 7.246968,
+    "returned": 0
   },
   {
     "address": "BXb2KdbuEyFFkm2ucuhu1TmnfZzFvL2uFo3oeWxsv7rs",
     "lossInSol": 0.05869196896219167,
-    "returned": 0,
-    "remainingToken": 0.08731399999999923
+    "remainingToken": 0.08731399999999923,
+    "returned": 0
   },
   {
     "address": "ArM7oeraJrt9Jb6BZtVigNoum96ppWAVdPBKB1TSUD5t",
     "lossInSol": 0.05584186611555218,
-    "returned": 0,
-    "remainingToken": 0.005771000000000193
+    "remainingToken": 0.005771000000000193,
+    "returned": 0
   },
   {
     "address": "3fhaaM15FqBdrL5rAprK7HiSXRS1Bz9YdqgK4GHmumaj",
     "lossInSol": 0.0519197730077855,
-    "returned": 0,
-    "remainingToken": 30.383086
+    "remainingToken": 30.383086,
+    "returned": 0
   },
   {
     "address": "8hh64qzJje72pRvUjfR8qabXpd4sYZYTHpTAstdRtsUG",
     "lossInSol": 0.05158930154443725,
-    "returned": 0,
-    "remainingToken": 0.007313999999997378
+    "remainingToken": 0.007313999999997378,
+    "returned": 0
   },
   {
     "address": "6H3BydNyBvMn5qtztgkejHugH6nAun78Yq1DchSpkerV",
     "lossInSol": 0.048302426879800256,
-    "returned": 0,
-    "remainingToken": 0.071021
+    "remainingToken": 0.071021,
+    "returned": 0
   },
   {
     "address": "2DzFbYCY1dSqJDJo3dn5aZ23S6LN2wTeiudwX17XyGJB",
     "lossInSol": 0.04795081060828718,
-    "returned": 0,
-    "remainingToken": 0.00007100000000015427
+    "remainingToken": 0.00007100000000015427,
+    "returned": 0
   },
   {
     "address": "BJ4uXP1io9MEQFLeKTPhyTgyPBY7Au6wXceDC8rWUjvB",
     "lossInSol": 0.0460847224793076,
-    "returned": 0,
-    "remainingToken": 0.04539899999999797
+    "remainingToken": 0.04539899999999797,
+    "returned": 0
   },
   {
     "address": "9rPZXMPozuapHnvN6nBPaCQucY264jacM1ZXwcFVAnn6",
     "lossInSol": 0.041079143962157456,
-    "returned": 0,
-    "remainingToken": 0.21577100000000016
+    "remainingToken": 0.21577100000000016,
+    "returned": 0
   },
   {
     "address": "AejkZ4A5coNL2TCmd7ct91satkD3ubHFmAYjqbpJWuz4",
     "lossInSol": 0.04094192158193841,
-    "returned": 0,
-    "remainingToken": 6.430267
+    "remainingToken": 6.430267,
+    "returned": 0
   },
   {
     "address": "8VSMTAPZx3nFsUh92gk8y9e2ddbiVV28h7sGmwx4rjXt",
     "lossInSol": 0.04065263268441355,
-    "returned": 0,
-    "remainingToken": 4
+    "remainingToken": 4,
+    "returned": 0
   },
   {
     "address": "3GThBdgP2GF6ba98rqwmgspJhx4QgktCHjeAv1xjWn8R",
     "lossInSol": 0.03883927958771283,
-    "returned": 0,
-    "remainingToken": 0.21464299999999525
+    "remainingToken": 0.21464299999999525,
+    "returned": 0
   },
   {
     "address": "2S5brnjXSHKKZzRfeuFJzHs7zboESaGcSH5BKgsBEvFC",
     "lossInSol": 0.038705545272858244,
-    "returned": 0,
-    "remainingToken": 18.989427999999997
+    "remainingToken": 18.989427999999997,
+    "returned": 0
   },
   {
     "address": "AeqeN7bZ8tFoJfckVPNoW7pNtpfaCwHzZqG9pex3hazu",
     "lossInSol": 0.037516128892981615,
-    "returned": 0,
-    "remainingToken": 1.9511190000000003
+    "remainingToken": 1.9511190000000003,
+    "returned": 0
   },
   {
     "address": "BRe7MAyBdbN2az8GeSPiJctKF1MEDveh1CW7mN6FMo86",
     "lossInSol": 0.03398961556059689,
-    "returned": 0,
-    "remainingToken": 0.008615999999999957
+    "remainingToken": 0.008615999999999957,
+    "returned": 0
   },
   {
     "address": "CGMKGkMx2nTF4XM7YQSZ846M6FpQYAbVppwNRhUR86PH",
     "lossInSol": 0.033564353659178446,
-    "returned": 0,
-    "remainingToken": 2.697547
+    "remainingToken": 2.697547,
+    "returned": 0
   },
   {
     "address": "AD2TtRmUuwh6DsGCxoCH4sC4DEcRbkLKpM4Lxm7Kpozo",
     "lossInSol": 0.03150661733552587,
-    "returned": 0,
-    "remainingToken": 0.09577100000000005
+    "remainingToken": 0.09577100000000005,
+    "returned": 0
   },
   {
     "address": "BJjQ1uCFQeLUEQxYerqEjGr8aovNgFgvD4mhADg8jG6T",
     "lossInSol": 0.031242556671051747,
-    "returned": 0,
-    "remainingToken": 7.7873139999999985
+    "remainingToken": 7.7873139999999985,
+    "returned": 0
   },
   {
     "address": "BZ9T6EbiUFMLNqPoRYSJ8ZCAZd9Z1uHtVdiku91WvN1Y",
     "lossInSol": 0.031161685449121845,
-    "returned": 0,
-    "remainingToken": 6.7873139999999985
+    "remainingToken": 6.7873139999999985,
+    "returned": 0
   },
   {
     "address": "2DPGgm5qjh4o8VL3PC4YVwJjzzvLFvrFbTs4Zrf2VeGx",
     "lossInSol": 0.030218117214442536,
-    "returned": 0,
-    "remainingToken": 0.0007710000000002992
+    "remainingToken": 0.0007710000000002992,
+    "returned": 0
   },
   {
     "address": "7mQNcNmQboWAFbUYHuniqCf9w3irWzNZ62kWTvNA4Vy8",
     "lossInSol": 0.02901726252383582,
-    "returned": 0,
-    "remainingToken": 3.797886
+    "remainingToken": 3.797886,
+    "returned": 0
   },
   {
     "address": "84G4YdaTDKaybcJdm7zo66nDnf9KC94LTrS9DeDRcTbw",
     "lossInSol": 0.028115497115552182,
-    "returned": 0,
-    "remainingToken": 0.005771000000000193
+    "remainingToken": 0.005771000000000193,
+    "returned": 0
   },
   {
     "address": "E7xDvpyeCk6tNYtYDfvUJJLVZC2RdHSvHA5xwjsjwC3W",
     "lossInSol": 0.027872011807020466,
-    "returned": 0,
-    "remainingToken": 0.019239000000000672
+    "remainingToken": 0.019239000000000672,
+    "returned": 0
   },
   {
     "address": "FGBzZwTviCX7tqTsADQHC84kSURhHFXqDUWTxNihiym4",
     "lossInSol": 0.026863729075006615,
-    "returned": 0,
-    "remainingToken": 0.38586600000000004
+    "remainingToken": 0.38586600000000004,
+    "returned": 0
   },
   {
     "address": "CVz66yw9qJL9EmzkcmuTHZQvJX3vLiyw8qzKfbeyLYk4",
     "lossInSol": 0.025476119081105197,
-    "returned": 0,
-    "remainingToken": 0.004054000000000002
+    "remainingToken": 0.004054000000000002,
+    "returned": 0
   },
   {
     "address": "944jhb6sxB7JYLKYDzS93oToB82r2N5hjyYKVGkMu2zz",
     "lossInSol": 0.024348745928665524,
-    "returned": 0,
-    "remainingToken": 0.0004619999999997404
+    "remainingToken": 0.0004619999999997404,
+    "returned": 0
   },
   {
     "address": "8ZsJCZPgcDvJ8DUWyYJZQNFWz2Vv1N1MhtSUzgZXHDmj",
     "lossInSol": 0.02207739879466447,
-    "returned": 0,
-    "remainingToken": 0.001770999999999745
+    "remainingToken": 0.001770999999999745,
+    "returned": 0
   },
   {
     "address": "AsZ11Wahwi9UeWEk7BQMmf25AqUdP7nwwuQCmERrs95D",
     "lossInSol": 0.020614116156666442,
-    "returned": 0,
-    "remainingToken": 3.7957710000000002
+    "remainingToken": 3.7957710000000002,
+    "returned": 0
   },
   {
     "address": "EtTfoeLYdFVeFfrQn3K7Z3FRS7E9k8EDQFnzLdEPNyo1",
     "lossInSol": 0.019974979687255603,
-    "returned": 0,
-    "remainingToken": 3.797885
+    "remainingToken": 3.797885,
+    "returned": 0
   },
   {
     "address": "9i5EfP3EayeW4PzephzT5SSBpSkycFrdX3mEJUau6oEu",
     "lossInSol": 0.01895066321109143,
-    "returned": 0,
-    "remainingToken": 7.595771
+    "remainingToken": 7.595771,
+    "returned": 0
   },
   {
     "address": "9ABdcehk2dfMXZx3bDdt6hRhKEggwLeNJqmsw6T1WbbM",
     "lossInSol": 0.01816796421109143,
-    "returned": 0,
-    "remainingToken": 8.61161
+    "remainingToken": 8.61161,
+    "returned": 0
   },
   {
     "address": "2RbrDAXnaTV483vmrp3KgjZpKDzYRf5hBuZ4uN6LJwpn",
     "lossInSol": 0.017327789591182557,
-    "returned": 0,
-    "remainingToken": 10
+    "remainingToken": 10,
+    "returned": 0
   },
   {
     "address": "BsdkNj66sQmNSggmsE1zNPdDHf5NawYBFCuZ9Xjq2CnS",
     "lossInSol": 0.016654803669546518,
-    "returned": 0,
-    "remainingToken": 7.098698
+    "remainingToken": 7.098698,
+    "returned": 0
   },
   {
     "address": "E8NLmtuxCA16kyjfKebq8DSbfFuuPqc35bcAA7bdv2kk",
     "lossInSol": 0.015760554752948047,
-    "returned": 0,
-    "remainingToken": 3.895983000000001
+    "remainingToken": 3.895983000000001,
+    "returned": 0
   },
   {
     "address": "FRhUvoAo7tSxs88v9uCt5h42MvVYFjuueCxpkfp4jrQX",
     "lossInSol": 0.010856745999999973,
-    "returned": 0,
-    "remainingToken": 21.360365
+    "remainingToken": 21.360365,
+    "returned": 0
   },
   {
     "address": "icwSLHjfrYuAvAnpHd9vQo9ey2BkHFxJccb6tKRTYyi",
     "lossInSol": 0.010346638112280468,
-    "returned": 0,
-    "remainingToken": 3.595771
+    "remainingToken": 3.595771,
+    "returned": 0
   },
   {
     "address": "5rGq4HnSKVxeERysdd2QEdYvCbUev7fzL39VjMNUsU96",
     "lossInSol": 0.008917786778070116,
-    "returned": 0,
-    "remainingToken": 74.198136
+    "remainingToken": 74.198136,
+    "returned": 0
   },
   {
     "address": "Ex6UrVFy3Ehz3tJHTPhxNc7rhVyVuzrwCiVcWQXv7vf4",
     "lossInSol": 0.008279354999999766,
-    "returned": 0,
-    "remainingToken": 1.4561190000000002
+    "remainingToken": 1.4561190000000002,
+    "returned": 0
   },
   {
     "address": "5DE5JJyG7S7htAJQncPtVmJkncU3ZkqTHB1ZqV2zq5KA",
     "lossInSol": 0.00667834326925424,
-    "returned": 0,
-    "remainingToken": 0.0777840000000003
+    "remainingToken": 0.0777840000000003,
+    "returned": 0
   },
   {
     "address": "2EfLBvYVXjcKrxWFbzsHXBdN3GST3qC6BUva64ij7qpu",
     "lossInSol": 0.005035665714301491,
-    "returned": 0,
-    "remainingToken": 2.326598
+    "remainingToken": 2.326598,
+    "returned": 0
   },
   {
     "address": "Hy7krzqXF4UpWGDptFebwAYMPnpKgtjiPXgigqUYFzvh",
     "lossInSol": 0.004849035000000005,
-    "returned": 0,
-    "remainingToken": 3.2972290000000006
+    "remainingToken": 3.2972290000000006,
+    "returned": 0
   },
   {
     "address": "J338Ntt2fqzFSmoabj2SRPLrEHQgBEBaafD644mFGFB8",
     "lossInSol": 0.004118851424544739,
-    "returned": 0,
-    "remainingToken": 0.22476400000000396
+    "remainingToken": 0.22476400000000396,
+    "returned": 0
   },
   {
     "address": "Am27RYnReAgn7sP5wuPoBjYaxjQGbnCDitVzmbHGLnXY",
     "lossInSol": 0.0030839556046507524,
-    "returned": 0,
-    "remainingToken": 1.430095
+    "remainingToken": 1.430095,
+    "returned": 0
   },
   {
     "address": "HaeR9vW7FUTKsfmNvkv1fGWWp397HJFt9KgvrmqJCjG7",
     "lossInSol": 0.0029156197780701165,
-    "returned": 0,
-    "remainingToken": 6.595771
+    "remainingToken": 6.595771,
+    "returned": 0
+  },
+  {
+    "address": "7fWeqMgsjZagKhSmnKD3h5h2AjvNEB6Q6vmNGWAhC6YD",
+    "lossInSol": 0.0024782814249647636,
+    "remainingToken": 1.039206,
+    "returned": 0
   },
   {
     "address": "DNkfsPVnhRAewYCtnBQ3VFuNxkrp9kG8BrpDcrVpvaUB",
     "lossInSol": 0.0023230888835271135,
-    "returned": 0,
-    "remainingToken": 14.814283999999999
+    "remainingToken": 14.814283999999999,
+    "returned": 0
   },
   {
     "address": "AofmqCrQPhCpPnwUrmKFj2w5RMc7nDzEXReAm2iWSfCp",
     "lossInSol": 0.002184795668420697,
-    "returned": 0,
-    "remainingToken": 0.07661699999999971
+    "remainingToken": 0.07661699999999971,
+    "returned": 0
   },
   {
     "address": "5NVgrqW7BtDZD6GSr1zjGkbKZDe3GSBZgcEAibL4bMxG",
     "lossInSol": 0.0020269275738173695,
-    "returned": 0,
-    "remainingToken": 0.03416600000000125
+    "remainingToken": 0.03416600000000125,
+    "returned": 0
   },
   {
     "address": "6FS9KsENUTocPQKRBTm45HCgaWJdzuCW8HFSfDanpptW",
     "lossInSol": 0.002012092000000007,
-    "returned": 0,
-    "remainingToken": 28.158982
+    "remainingToken": 28.158982,
+    "returned": 0
   },
   {
     "address": "3o2fttzVtHau5WuczWJtcxUJ4uAC3VorXtvWABK4Gojq",
     "lossInSol": 0.0012409109999999834,
-    "returned": 0,
-    "remainingToken": 0.2196
+    "remainingToken": 0.2196,
+    "returned": 0
   },
   {
     "address": "DscHCtXYxPfvquqrXL6FzD2H7Ndhf1Q1qeXhM6iuWXYw",
     "lossInSol": 0.000959462000000022,
-    "returned": 0,
-    "remainingToken": 0.000010000000003174137
+    "remainingToken": 0.000010000000003174137,
+    "returned": 0
   },
   {
     "address": "3LnZpg7BBzgDiVSqeH1ci1zCgcA8vbv5c6Ara3BARVWG",
     "lossInSol": 0.00013526571135893603,
-    "returned": 0,
-    "remainingToken": 0.00004599999999999049
+    "remainingToken": 0.00004599999999999049,
+    "returned": 0
   },
   {
     "address": "FopyHR7YG5GZxG4ucpxkPBKbRw6gCnzzK1dktNqbugP8",
     "lossInSol": 0.00012379399999984386,
-    "returned": 0,
-    "remainingToken": 0.010712
+    "remainingToken": 0.010712,
+    "returned": 0
   }
 ]
