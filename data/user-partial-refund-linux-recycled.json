@@ -456,6 +456,13 @@
     "remainingToken": 4.547473508864641e-13
   },
   {
+    "address": "EJBy6AxMtxfX9P3wpDNw3C46TAjQeSbBwYNgVTabhVam",
+    "isZeroBalance": true,
+    "lossInSol": 35.19534101384535,
+    "remainingToken": 0.2924590000002354,
+    "returned": 0
+  },
+  {
     "address": "qSEPMjZweV4Jfyb8mjx9xxgg5oew8BYDQanmfUZVnm8",
     "lossInSol": 35.03194496782116,
     "returned": 0,
@@ -921,6 +928,12 @@
     "remainingToken": 0
   },
   {
+    "address": "G88vNR59mYjDMFG1FR9TwGGRNKqQd3NKy33am6R1Ye5C",
+    "lossInSol": 17.995706689135844,
+    "returned": 1793.713116,
+    "remainingToken": 0
+  },
+  {
     "address": "2BfWvx9yiQMRTDWYpmt56Vj1QCwrHGfuvEGqArHrFwvo",
     "lossInSol": 17.948793998556503,
     "returned": 0,
@@ -1305,6 +1318,13 @@
     "lossInSol": 13.056925598455289,
     "returned": 0,
     "remainingToken": 1.7053025658242404e-13
+  },
+  {
+    "address": "6xbV17oHY3srdRb6jPmVWwUug31Nb1wC6td7XkxjcZPk",
+    "isZeroBalance": true,
+    "lossInSol": 13.048692829583985,
+    "remainingToken": 12.91281200000003,
+    "returned": 0
   },
   {
     "address": "GEqcwwS4q5KdmayrZYeadksxVbvCKCTK1oACEQiggP1i",
@@ -2054,6 +2074,13 @@
     "remainingToken": 0
   },
   {
+    "address": "2Y5tGkFkPELejn2S9N3AMqcbKg7b1wkjxcdxMdSQ4iDy",
+    "isZeroBalance": true,
+    "lossInSol": 8.211110409910646,
+    "remainingToken": 0.0013640000001942099,
+    "returned": 0
+  },
+  {
     "address": "EjLJFLr2HRL9uEDnC5oAkZSCoGYRJ49xCnsgBNasRzF6",
     "lossInSol": 8.157367063556507,
     "returned": 0,
@@ -2510,6 +2537,13 @@
     "remainingToken": 0
   },
   {
+    "address": "Er2Nf9uDenzdNRATWzgzHftKkjUnqXbDinJMDbjKJeC8",
+    "isZeroBalance": true,
+    "lossInSol": 6.320535812278251,
+    "remainingToken": 0.099885,
+    "returned": 0
+  },
+  {
     "address": "Hdud5ddm4ATUaZLUK39Px7KQjo5oQ8PJu6mGsJTuE7R7",
     "lossInSol": 6.314596234416355,
     "returned": 0,
@@ -2713,6 +2747,13 @@
     "lossInSol": 5.867538829455286,
     "returned": 0,
     "remainingToken": 1.1368683772161603e-13
+  },
+  {
+    "address": "BcGvxcGwcX2fan3eCuaTNue5Z29SaxuczfF8tkLLZbMc",
+    "isZeroBalance": true,
+    "lossInSol": 5.8272476931994355,
+    "remainingToken": 0.10822700000016994,
+    "returned": 0
   },
   {
     "address": "3moauHmYZ7mroiHmwcXXeXXVLD4wdJe5W9j6HU8TqSFs",
@@ -3198,6 +3239,13 @@
     "remainingToken": 0
   },
   {
+    "address": "2mtKESPrinussnN3E1uWFNCAQiEjcpESGD89CUxAGT2R",
+    "isZeroBalance": true,
+    "lossInSol": 4.702141915288376,
+    "remainingToken": 0.0314210000001367,
+    "returned": 0
+  },
+  {
     "address": "95q21DtTS97MGsXMmFif2W34Mvu8P2GPwUYk7DGgopAj",
     "lossInSol": 4.7011636046459335,
     "returned": 0,
@@ -3560,6 +3608,13 @@
     "remainingToken": 0
   },
   {
+    "address": "HyxzmL2xi5GNjxwANVnNkhN8edebE8KYzFi2k3ax1uob",
+    "isZeroBalance": true,
+    "lossInSol": 4.16581066451313,
+    "remainingToken": 0.002567999999996573,
+    "returned": 0
+  },
+  {
     "address": "5nScPyU3ZxLKbjYsPp3MujYBopyoM3bs7gCFjNdjpHAG",
     "lossInSol": 4.14547806,
     "returned": 0,
@@ -3807,6 +3862,20 @@
     "remainingToken": 0
   },
   {
+    "address": "3m6KkNY78jTUUVYFKKimbbRj4bdm2S9qqTXDM9E4ZHPW",
+    "isZeroBalance": true,
+    "lossInSol": 3.8074719235552204,
+    "remainingToken": 0.5771399999999858,
+    "returned": 0
+  },
+  {
+    "address": "GHx6ngE1KtYWzuhCkdAD61Z5KAL8H1baHgUNGKinsefZ",
+    "isZeroBalance": true,
+    "lossInSol": 3.8047088335552193,
+    "remainingToken": 0.5771399999999858,
+    "returned": 0
+  },
+  {
     "address": "FBuigk4xVW55gxSr2NMTTDYfmdSPLT8WiWCeQGKwCUs5",
     "lossInSol": 3.802715213175121,
     "returned": 0,
@@ -3975,16 +4044,37 @@
     "remainingToken": 0
   },
   {
+    "address": "48fPYNVaFKkP9fmTHvfwQfAkG8YpyzTgkXTgvxh87Se3",
+    "isZeroBalance": true,
+    "lossInSol": 3.636716613555219,
+    "remainingToken": 0.5771399999999858,
+    "returned": 0
+  },
+  {
     "address": "GgUuVq7tvAwJV7S2NmszSRS38zCTTcGhDeehGc7xmPky",
     "lossInSol": 3.6333969408229665,
     "returned": 0,
     "remainingToken": 0
   },
   {
+    "address": "BYrwvM3VdcKccT3Xc4aPCqizMJr1ZJqbG1JSrgkVKD8n",
+    "isZeroBalance": true,
+    "lossInSol": 3.6332756815552187,
+    "remainingToken": 0.5771399999999858,
+    "returned": 0
+  },
+  {
     "address": "9nfQVVkngjZ4ZpQhUnbjmHEtHRtJGBgnfRQ7ivDZSZa",
     "lossInSol": 3.6307573327793916,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "3T8oKEGH6kwzcVyW4TM4smWeJ9T2U2kdgZGPwGmsw7sD",
+    "isZeroBalance": true,
+    "lossInSol": 3.6278195030219034,
+    "remainingToken": 0.7462840000000028,
+    "returned": 0
   },
   {
     "address": "5UhAs7tpdWY4rz17mHAEnmkCdYsJoNfvaqdcoHFQyHE7",
@@ -4094,6 +4184,13 @@
     "lossInSol": 3.4578464276459346,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "3KHavrwizugmoo6e5wR47rY1WP7khQZ2NN3VPacT994P",
+    "isZeroBalance": true,
+    "lossInSol": 3.44762037451319,
+    "remainingToken": 0.000569000000041342,
+    "returned": 0
   },
   {
     "address": "8ejC61iBs6hJbnrVG3LwwuoEphSAa5dVRv3XzagqYLVN",
@@ -4269,6 +4366,13 @@
     "lossInSol": 3.2858306111167463,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "86ssNTYmFVux4NABe22hjjicVsgLzaNfgQzLa1ScicPg",
+    "isZeroBalance": true,
+    "lossInSol": 3.284224632888574,
+    "remainingToken": 0.7885699999999929,
+    "returned": 0
   },
   {
     "address": "2quiAd2ACs9RQb42Sbo8ddgH8P1XqdkQNE9D4NMxZ7J7",
@@ -4861,6 +4965,13 @@
     "remainingToken": 0
   },
   {
+    "address": "7Qw8CS2ywnp9VgHrH1sjpArpLsKWU9LV6TfqcjQ7jMGR",
+    "isZeroBalance": true,
+    "lossInSol": 2.9249898013956015,
+    "remainingToken": 2.905382999999972,
+    "returned": 0
+  },
+  {
     "address": "GrMG1EQjADSorXjVg2Bgu34Z14ttCvT4qH53VefJ2vZG",
     "lossInSol": 2.919442414369218,
     "returned": 227.779924,
@@ -4938,6 +5049,13 @@
     "lossInSol": 2.8599073888229665,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "8R9kA5dj7DQTZS8xMSr3DR3n7PJNAGPRUeCpUhhbuZdg",
+    "isZeroBalance": true,
+    "lossInSol": 2.8567414365421224,
+    "remainingToken": 0.0005120000000147229,
+    "returned": 0
   },
   {
     "address": "VMTk6AXgpcVRrjfA9rbvXXc7QPkw1AarN61VNEZePLd",
@@ -5203,6 +5321,13 @@
     "lossInSol": 2.687843325822967,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "EmZ9kTS2DNcVsXyrJLDxBjQCy7iHydXy8MBPgU9WhDgW",
+    "isZeroBalance": true,
+    "lossInSol": 2.6844993930556416,
+    "remainingToken": 2.8408189999999536,
+    "returned": 0
   },
   {
     "address": "22QT2X4ysE7mak29iAphoyg8c3gZzM7uttNfbU9DMjGq",
@@ -5546,6 +5671,13 @@
     "lossInSol": 2.4560050019999955,
     "returned": 0,
     "remainingToken": 4.547473508864641e-13
+  },
+  {
+    "address": "EkkkcrgiH8JQQKt8s97Eag2WcahEQ2UZMpuvb9s8L6nJ",
+    "isZeroBalance": true,
+    "lossInSol": 2.449210694577701,
+    "remainingToken": 0.030855999999971573,
+    "returned": 0
   },
   {
     "address": "BWiBaNaa86B7HXYvUYGtkEWUvxsm7kkR2UU4TxXWeCfY",
@@ -6268,6 +6400,13 @@
     "remainingToken": 0
   },
   {
+    "address": "jYMn9e9YVuHPQ9ooTVak2QVRVFbmELX579BPE7JfU9D",
+    "isZeroBalance": true,
+    "lossInSol": 2.107063311673693,
+    "remainingToken": 0.0005699999999819738,
+    "returned": 0
+  },
+  {
     "address": "H6yr12P9UvvGgjVE9SZZmXWgTgtY1gxG7MjUj5NSRfRM",
     "lossInSol": 2.106770201822967,
     "returned": 0,
@@ -6623,6 +6762,13 @@
     "lossInSol": 1.9767134292937802,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "5frcq38Nh9SrUbdLFQGKeKxgBzv7JGrqA7VaLB3fAm9T",
+    "isZeroBalance": true,
+    "lossInSol": 1.9762287316219163,
+    "remainingToken": 0.8731420000000014,
+    "returned": 0
   },
   {
     "address": "8Pz6LYURWYvGSmCBGGwhC2jQa6VCzXpYy4hwYttB64Ye",
@@ -7534,6 +7680,13 @@
     "remainingToken": 0
   },
   {
+    "address": "5BfMj4q2BLDo9baST2eRnVnhsQp3r8zRsGvKaGDVt4gj",
+    "isZeroBalance": true,
+    "lossInSol": 1.71163623102259,
+    "remainingToken": 0.4425499999999971,
+    "returned": 307
+  },
+  {
     "address": "Hgp3BUXGmymJ61vpUhMTLcKUeou99C1qHpw8mygdHCee",
     "lossInSol": 1.701585986135711,
     "returned": 0,
@@ -7544,6 +7697,13 @@
     "lossInSol": 1.7005338997081776,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "25Q3TqyiiJ5KAcYfFFZ9XEHkeS6HN567J2tmu5WUpS1M",
+    "isZeroBalance": true,
+    "lossInSol": 1.6989716410710383,
+    "remainingToken": 0.06468399999999974,
+    "returned": 0
   },
   {
     "address": "Es7Uj9zEBKoqjs1Vm4Gmt7wePbr9vr6Uh4UeVaxMbaFD",
@@ -7682,6 +7842,13 @@
     "lossInSol": 1.6496756465048714,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "DP3dwFywToTEpg88T3B5NMRYy1AVtL4eWbtTpw4wgRBz",
+    "isZeroBalance": true,
+    "lossInSol": 1.648723834055252,
+    "remainingToken": 0.8942849999999964,
+    "returned": 0
   },
   {
     "address": "4BZiuB8CG7i73Hef1sHg4KekA45V31qt21J2ubaW4SQC",
@@ -8147,6 +8314,13 @@
     "remainingToken": 0
   },
   {
+    "address": "CpegbAgSe7aZfLjsamKtsbceZEU4wPoPLuUDV5XbpdQS",
+    "isZeroBalance": true,
+    "lossInSol": 1.4965503597210414,
+    "remainingToken": 0.09639899999999102,
+    "returned": 0
+  },
+  {
     "address": "8qdGDEyonMc3S5BH6bt6unHs83Q55FvyNUxcBcJS4MMW",
     "lossInSol": 1.4958842130583725,
     "returned": 0,
@@ -8255,6 +8429,13 @@
     "remainingToken": 0
   },
   {
+    "address": "5hUShahcYNyKswVGDiPdkTQ9KjMmy2q8eER2kGZfNrz9",
+    "isZeroBalance": true,
+    "lossInSol": 1.4575701903219092,
+    "remainingToken": 0.8097129999999879,
+    "returned": 0
+  },
+  {
     "address": "Ey9UfGrs24adr65fS5o1XfYcbys1X1q1oEW2nRkcaj26",
     "lossInSol": 1.4561764347159627,
     "returned": 0,
@@ -8325,6 +8506,13 @@
     "lossInSol": 1.4380056172937803,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "BAWxmSFWFfbeapRe7CFWTkvnGiEUSajs5cTd2n7hNmeH",
+    "isZeroBalance": true,
+    "lossInSol": 1.430562670428766,
+    "remainingToken": 0.005540999999993801,
+    "returned": 0
   },
   {
     "address": "6UKMeFiscpPeaKLBMhTLi9kk3BqjFuKRNiLYHbSA9ESX",
@@ -8422,6 +8610,13 @@
     "lossInSol": 1.4147226996065243,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "ECM32S5vNxjzTbQRcJVgDKGwZnYtg5XVmG46G8CzDRyi",
+    "isZeroBalance": true,
+    "lossInSol": 1.4146114860881716,
+    "remainingToken": 0.0001420000000109667,
+    "returned": 0
   },
   {
     "address": "8P4Qektv9yhm5fK7jFgtehogFDsrGVM1rpcioVDaEH8Z",
@@ -8623,6 +8818,13 @@
     "remainingToken": 0
   },
   {
+    "address": "Gpf1VB9iFB1ELYgnSCNMCyrPJ5pzVa4w3s6DXJAAWjZq",
+    "isZeroBalance": true,
+    "lossInSol": 1.3449971756219163,
+    "remainingToken": 0.8731420000000014,
+    "returned": 0
+  },
+  {
     "address": "AcmfMJNcbpXzezovt5CAUyHABSYhhpQResXJbvYuyyHL",
     "lossInSol": 1.3414455465291864,
     "returned": 0,
@@ -8789,6 +8991,13 @@
     "lossInSol": 1.3119396615291865,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "72F356JV7ZUXRfdv54yzz5p8xDFRQ1NTzR6Z92mZ7dZ8",
+    "isZeroBalance": true,
+    "lossInSol": 1.3110496933314062,
+    "remainingToken": 0.009999999999990905,
+    "returned": 0
   },
   {
     "address": "962sigRXwBvNcrZvchzSUjaRUrFpx3SnNC6oqvNN1aoH",
@@ -9320,6 +9529,13 @@
     "remainingToken": 0
   },
   {
+    "address": "GqvB8ZPS8TcPaGucEPZ8hBd4EyyYniuibfrwkymZ3jvz",
+    "isZeroBalance": true,
+    "lossInSol": 1.1861286742827568,
+    "remainingToken": 0.002387999999996282,
+    "returned": 0
+  },
+  {
     "address": "4DBzuXwmTQTHDQYQLa4gxLve7oY6Q16gReh3oD3v7gFe",
     "lossInSol": 1.1845976338229667,
     "returned": 0,
@@ -9791,6 +10007,13 @@
     "remainingToken": 0
   },
   {
+    "address": "AkVxWHDU2Ky91FkiWskfGRLrt6SSZ9s6hZfKxeURGWP7",
+    "isZeroBalance": true,
+    "lossInSol": 1.0894435702268348,
+    "remainingToken": 0.07254100000000108,
+    "returned": 0
+  },
+  {
     "address": "8kun1HG8FVGwC4pC5hx5N2yyU7gA4mcJ8yjvfgi3oiGH",
     "lossInSol": 1.0887514319999998,
     "returned": 0,
@@ -9981,6 +10204,13 @@
     "lossInSol": 1.05896292829378,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "9vLqvVG8wy5tuNbPumUUPtjdWBFjytoqS7SATaoaEBmp",
+    "isZeroBalance": true,
+    "lossInSol": 1.0547366113262349,
+    "remainingToken": 1.8229860000000144,
+    "returned": 0
   },
   {
     "address": "44fShfmFDa2tQMWwrV6GrbW4RhbecpUfPLTyyGUsNLKb",
@@ -10176,10 +10406,24 @@
     "remainingToken": 1.1368683772161603e-13
   },
   {
+    "address": "HAeYTzSifV1aqJsGE7nzzLFpkrotF22Y93xp7nLWYrB2",
+    "isZeroBalance": true,
+    "lossInSol": 1.0133617520755818,
+    "remainingToken": 0.19650599999999496,
+    "returned": 75.9577
+  },
+  {
     "address": "7SbXu4hxKNZBBVYDNehP1opatnjgAbcNaxjKmnLdNKNr",
     "lossInSol": 1.0118379428229667,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "7cHisGZ1NtrKehdLQX8TmdsweizvuXYyKkzbm5jYVQdu",
+    "isZeroBalance": true,
+    "lossInSol": 1.0107562394078795,
+    "remainingToken": 0.21791899999999487,
+    "returned": 0
   },
   {
     "address": "8J5Vii5c2QR45zkzNwFXZChZSFkzKYapGLvPTFqQSz7Z",
@@ -10518,6 +10762,13 @@
     "remainingToken": 0
   },
   {
+    "address": "CPerEa9RcBgjUU5u5pnAmYgByZLV8Gp9y3Nmvzqd5daz",
+    "isZeroBalance": true,
+    "lossInSol": 0.9693796239710677,
+    "remainingToken": 0.00005600000000072214,
+    "returned": 0
+  },
+  {
     "address": "EELqbsGdBZ3cZScPqtBKvN2HB822axKjMC9w4kN3hZWh",
     "lossInSol": 0.9688169873258807,
     "returned": 0,
@@ -10638,6 +10889,13 @@
     "remainingToken": 0
   },
   {
+    "address": "H19EoyaP1HzMkncDzPdDTvdgwvwj5uf7tYdpEQNJZCSZ",
+    "isZeroBalance": true,
+    "lossInSol": 0.9555336465950677,
+    "remainingToken": 0.005130000000008295,
+    "returned": 0
+  },
+  {
     "address": "7RL7NpQobzUDfCSKdQ8gY72vTtWbBFNtnQEPAzpBk51K",
     "lossInSol": 0.9545136234689005,
     "returned": 0,
@@ -10672,6 +10930,13 @@
     "lossInSol": 0.9511758885562327,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "2pDuZL84dYMCTQAvbt8DQms7Ux8r6xFY6zetDtPyUbdT",
+    "isZeroBalance": true,
+    "lossInSol": 0.9504105775944827,
+    "remainingToken": 0.9361779999999956,
+    "returned": 0.000001
   },
   {
     "address": "5Vrm3vnBf4s8wkEBxiFNYqz1J2bJqsqoAzmcbwpify5A",
@@ -10944,6 +11209,13 @@
     "remainingToken": 0
   },
   {
+    "address": "FmveUq2Yh3P42EuRVvkFMwhZK5EdyYbj536ZgbDbUrTk",
+    "isZeroBalance": true,
+    "lossInSol": 0.9115941686021836,
+    "remainingToken": 0.011199000000004844,
+    "returned": 0
+  },
+  {
     "address": "HGjPjv3t99wQroVTGAGfKSVrKfBUGiaLnaKkePzPXYjx",
     "lossInSol": 0.9100499574484551,
     "returned": 0,
@@ -11093,6 +11365,13 @@
     "lossInSol": 0.892148763772379,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "GCvPTYLNST1DQKhNDd9n9AUFwqnutyTj6N3yvfEC69ZW",
+    "isZeroBalance": true,
+    "lossInSol": 0.8912636643155285,
+    "remainingToken": 0.006570999999993887,
+    "returned": 0
   },
   {
     "address": "7KNJXC439Tb6doCNZKP91egpgPDz1NqcgM1fz6aE6ezB",
@@ -11445,6 +11724,13 @@
     "remainingToken": 0
   },
   {
+    "address": "G491suSREwWRyUy5WxtL2ghpE5XRdgWxaW2nVSzn2v8j",
+    "isZeroBalance": true,
+    "lossInSol": 0.8515691299219231,
+    "remainingToken": 0.9365710000000007,
+    "returned": 0
+  },
+  {
     "address": "3qC3RK62GFLUWbVkqrYfzQkMbDbT5L1nxdpzNB7kBFdQ",
     "lossInSol": 0.8509653521921269,
     "returned": 0,
@@ -11535,6 +11821,13 @@
     "remainingToken": 0
   },
   {
+    "address": "B2TExssQ9Xa7CXBhznS2tT7m6BHEg7JmJnjHE4vehzwx",
+    "isZeroBalance": true,
+    "lossInSol": 0.8417750234552388,
+    "remainingToken": 0.7674269999999979,
+    "returned": 0
+  },
+  {
     "address": "9ZnSyUzUbuJPyc85SBHd8YGNWPFh74pMs2bAkse4W9he",
     "lossInSol": 0.8407107221468901,
     "returned": 0,
@@ -11545,6 +11838,13 @@
     "lossInSol": 0.8405998868229663,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "EpVNxDfNAdBRsW8jK22u9tdvs5dgvQrmkd2jJ7W38Qek",
+    "isZeroBalance": true,
+    "lossInSol": 0.8405444621732985,
+    "remainingToken": 0.00965600000000677,
+    "returned": 0
   },
   {
     "address": "9NwsUAcmZj6k5xpVYuzXoCC3MEngP6C5tdreQXubHb1C",
@@ -11655,6 +11955,13 @@
     "remainingToken": 1.1368683772161603e-13
   },
   {
+    "address": "CMVJot3JDQWvQvuYMWkXJ1FvsWAUFXQ8NoDb97oem3vA",
+    "isZeroBalance": true,
+    "lossInSol": 0.8234692574885876,
+    "remainingToken": 0.9154279999999915,
+    "returned": 0
+  },
+  {
     "address": "DuJioQU8MvuTF4i9CV6iTsJV26DaeXL4ZuE2xKRV2qHJ",
     "lossInSol": 0.8233937258229664,
     "returned": 0,
@@ -11683,6 +11990,13 @@
     "lossInSol": 0.8222956775291865,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "Di8a6WHdXQgwYq2mkEm1YtSC7pLHgsJA1QC3391JGaHQ",
+    "isZeroBalance": true,
+    "lossInSol": 0.822087013444373,
+    "remainingToken": 0.07314199999999005,
+    "returned": 0
   },
   {
     "address": "G7Tho7CSnbs3GuVRULRV56pNrUGVNxHgYRE1gL4cUDuu",
@@ -11816,6 +12130,13 @@
     "lossInSol": 0.8058124849114834,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "4MqURiPzVpizkfeHtwSUXW6ZGDdMxhDKzeoztgwFkSPe",
+    "isZeroBalance": true,
+    "lossInSol": 0.8051045979985746,
+    "remainingToken": 0.00009599999999987396,
+    "returned": 1.721
   },
   {
     "address": "2eXmQLKWWMoo7qNf5oPd14wDGZqUf5D8VumiGDALSTPd",
@@ -12354,6 +12675,13 @@
     "lossInSol": 0.7259933406629404,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "CANikvShfS2wjkm98E2NjDXC2V425BufMFB5qTTZsPLh",
+    "isZeroBalance": true,
+    "lossInSol": 0.7247984791958466,
+    "remainingToken": 0.07191499999998996,
+    "returned": 0
   },
   {
     "address": "29dmxx1xuJ5JQScTjHZ2dTUf2Y8Cu24WVToN1vvq7GWm",
@@ -13222,6 +13550,13 @@
     "remainingToken": 0
   },
   {
+    "address": "2Zyu6wwfHHFU1SLYdV8RPW7jhwxWjsHnjfL3rarbqzPn",
+    "isZeroBalance": true,
+    "lossInSol": 0.6559236861444253,
+    "remainingToken": 0.007713999999992893,
+    "returned": 0
+  },
+  {
     "address": "8EJgdWkxu3Xy7UooPymeKq6jj5uEMt2b6HcAHZWpQbU7",
     "lossInSol": 0.6559210067645933,
     "returned": 0,
@@ -13852,6 +14187,13 @@
     "remainingToken": 0
   },
   {
+    "address": "4CFPo9jXstBMEj1QK6YA2kZmaENCuPbxMTZTZzZeh5bk",
+    "isZeroBalance": true,
+    "lossInSol": 0.608743350689469,
+    "remainingToken": 0.23644500000000335,
+    "returned": 0
+  },
+  {
     "address": "5a1x9mDg8QfZWMxZuWdFynLxVb2AHSXsYvJudE5jVEHS",
     "lossInSol": 0.6084172122937801,
     "returned": 0,
@@ -14260,6 +14602,13 @@
     "lossInSol": 0.572100733,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "CMpPo12Ffy9JBuDVDKpNmgiXj9Ae4Q555BnbM9kBXyxQ",
+    "isZeroBalance": true,
+    "lossInSol": 0.5719042846457578,
+    "remainingToken": 0.0009479999999939537,
+    "returned": 0
   },
   {
     "address": "Bs5CrLEQbjEVUwFJz421WS4dXUPGPsasyJD8JijcbuZK",
@@ -15110,6 +15459,13 @@
     "remainingToken": 3.2862601528904634e-14
   },
   {
+    "address": "FvgLd1q5mfY1TCSBhkZqHkJzxZugXzGzy3Y8YnbH1yDc",
+    "isZeroBalance": true,
+    "lossInSol": 0.5107210023296488,
+    "remainingToken": 0.00030800000000397176,
+    "returned": 0
+  },
+  {
     "address": "3RKWJkZyTQLNAAgBede4AxyeeAiSE7QsKBP775hh4y5q",
     "lossInSol": 0.5104343482937801,
     "returned": 0,
@@ -15206,6 +15562,13 @@
     "remainingToken": 0
   },
   {
+    "address": "3dsVChRpoFW83rxKRPA3JGtWhPJ8RNkoAUKpyKCzdqha",
+    "isZeroBalance": true,
+    "lossInSol": 0.5006809759030306,
+    "remainingToken": 0.000025000000000829914,
+    "returned": 0
+  },
+  {
     "address": "APTH46VpCxeMfMbsGneD1AzN89iBptxh5fSuAsF8KfoA",
     "lossInSol": 0.5003497852937802,
     "returned": 0,
@@ -15216,6 +15579,13 @@
     "lossInSol": 0.5003388104660544,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "A8iyp9SCNny6cCvqcimnxvH6et4yFuZkM5sG1htE6Y9B",
+    "isZeroBalance": true,
+    "lossInSol": 0.5000477262583602,
+    "remainingToken": 0.2657910000000001,
+    "returned": 0
   },
   {
     "address": "FL8YHkMXnhWdcyi54b1kB9wp3orAS1SfuG7M6kbwx7vJ",
@@ -15264,6 +15634,20 @@
     "lossInSol": 0.49746490876459326,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "9GrTY7fhTAFtAYdT5H5jzuFNnMXEezEqy62b8pYqyANJ",
+    "isZeroBalance": true,
+    "lossInSol": 0.49743120614442526,
+    "remainingToken": 0.007713999999992893,
+    "returned": 0
+  },
+  {
+    "address": "3ryyasZovb78Bb3NR5efDgCXsdohyAr7cuF22xvVho8L",
+    "isZeroBalance": true,
+    "lossInSol": 0.4973567014767165,
+    "remainingToken": 0.000013999999993075107,
+    "returned": 0
   },
   {
     "address": "DueFjoeKfRwaYvxVN2gCtLxX9pBiJ1daAdvrctZ4EJcZ",
@@ -15642,6 +16026,13 @@
     "lossInSol": 0.4782059887645932,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "3YMrsmettDDRZJFdLWrbqHr1ZCNy4H2Fwm3NB1YzHWj5",
+    "isZeroBalance": true,
+    "lossInSol": 0.4776766793552587,
+    "remainingToken": 0.9577139999999957,
+    "returned": 0
   },
   {
     "address": "AXX9tcDGfbULCXWKUcNiodk5f1FzrZjpQkLUKeBRka2j",
@@ -16065,6 +16456,13 @@
     "remainingToken": 0
   },
   {
+    "address": "GRz9uYg3GF9ke4Sjnz597rWZh7BrQKH4nQEB78793y8U",
+    "isZeroBalance": true,
+    "lossInSol": 0.4525656296021833,
+    "remainingToken": 0.011199000000004844,
+    "returned": 0
+  },
+  {
     "address": "EycwkW18bbZ3n3RFyecDz1wb5Dc3MGNP9xMnTtMqZdvt",
     "lossInSol": 0.45220631976459325,
     "returned": 0,
@@ -16215,10 +16613,24 @@
     "remainingToken": 0
   },
   {
+    "address": "AYcrWjorDyDn8HUhfyn2p3CHF1oYRVyGjja8b6tyMrVw",
+    "isZeroBalance": true,
+    "lossInSol": 0.4440481400850036,
+    "remainingToken": 0.00008499999999855845,
+    "returned": 0
+  },
+  {
     "address": "6SckjByJVZ2JyccJXSnDKxD7y7jqztNc41A9yuBgoXmd",
     "lossInSol": 0.44403848676459323,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "G5r9PbW5iCi44tyCJWybvuaigMa39C5QytqWb5RUJtyt",
+    "isZeroBalance": true,
+    "lossInSol": 0.44392449015552193,
+    "remainingToken": 0.05771399999999005,
+    "returned": 0
   },
   {
     "address": "E9jcw3MjYtoBN5uTrmeApHyk6UnbiXjNeGAJCxaHEYru",
@@ -17098,6 +17510,13 @@
     "remainingToken": 0
   },
   {
+    "address": "2WAq9cxtxrW92rsEYtCdEUGdAffdtc2JvuYpV2jRcQya",
+    "isZeroBalance": true,
+    "lossInSol": 0.3958831375291867,
+    "remainingToken": 0.5180870000000001,
+    "returned": 0
+  },
+  {
     "address": "CFsDabupXVR2AzKyCWwLCqgiiBDstghJkpdjRidhfpwK",
     "lossInSol": 0.39584951800000034,
     "returned": 0,
@@ -17219,6 +17638,13 @@
     "remainingToken": 0
   },
   {
+    "address": "946PATBF294fKUBFFM7a5EzTgfrxs7AxKsfeHE7z2Nzs",
+    "isZeroBalance": true,
+    "lossInSol": 0.39186485219511064,
+    "remainingToken": 1.3740760000000023,
+    "returned": 0
+  },
+  {
     "address": "DTLjtta95KQjLBztjrk1CJvvY64rjBGTj63M3mQsRiU6",
     "lossInSol": 0.3915469565291865,
     "returned": 0,
@@ -17241,6 +17667,13 @@
     "lossInSol": 0.3908535195291867,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "3dJSRFCPPNRa1Dmw95cQESiwcpMAes2kPCmTcPedGTWT",
+    "isZeroBalance": true,
+    "lossInSol": 0.3908195761444253,
+    "remainingToken": 0.007713999999992893,
+    "returned": 0
   },
   {
     "address": "FnNa64FDwajbYudbdtef8CkaM9LtkWexaTmveezySonB",
@@ -17845,6 +18278,13 @@
     "remainingToken": 0
   },
   {
+    "address": "9bs6qfjGDWuVdHGTyCBfgobnfQvBHdRMRsgB3s4fuYSR",
+    "isZeroBalance": true,
+    "lossInSol": 0.3651176100288731,
+    "remainingToken": 0.0019419999999996662,
+    "returned": 0
+  },
+  {
     "address": "8RnMGV6gN2te1C7NEsazWYbTDTtGm5BK6AkK7Mb8aXNE",
     "lossInSol": 0.3648187689500042,
     "returned": 0,
@@ -17899,6 +18339,13 @@
     "remainingToken": 1.4210854715202004e-14
   },
   {
+    "address": "5k9J2yugYsXgFWjmAPiR9s4ZGMNcc4mBZUiCSGdPiCcH",
+    "isZeroBalance": true,
+    "lossInSol": 0.36336118590219024,
+    "remainingToken": 0.07462799999999703,
+    "returned": 0
+  },
+  {
     "address": "Gf5ToSfdjL2MhifqDogBqgDwrZWsqPJrCwVxb7JUdZGx",
     "lossInSol": 0.36335816259338816,
     "returned": 0,
@@ -17917,6 +18364,13 @@
     "remainingToken": 0
   },
   {
+    "address": "95Hx34WxpzCwJ36NogrmUbNsgnoLK3N4LxeF7VMHxzpA",
+    "isZeroBalance": true,
+    "lossInSol": 0.36292169828885057,
+    "remainingToken": 0.015427999999985786,
+    "returned": 0
+  },
+  {
     "address": "DiKt3SC5hzThnhXUMtepykQt9pGb33CmtHgAz8JbMPXM",
     "lossInSol": 0.3627251557645933,
     "returned": 0,
@@ -17927,6 +18381,13 @@
     "lossInSol": 0.36248095163862537,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "55Sa4dm3wGkqWzknBHSLkdYSgzPuMKRUVJhAKhzRkkGD",
+    "isZeroBalance": true,
+    "lossInSol": 0.36247173015437717,
+    "remainingToken": 0.11754199999998605,
+    "returned": 0
   },
   {
     "address": "9yoBn13uKYtX8Yb1DboMRH4kW9KuRaRK4VjLp2Sr1gTs",
@@ -18126,6 +18587,13 @@
     "lossInSol": 0.35264904076459336,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "HE3EoLTMsWnsJUFyAcWxWSmJmTyXC2jBavgLQcwXSuY6",
+    "isZeroBalance": true,
+    "lossInSol": 0.3526414131555219,
+    "remainingToken": 0.05771399999999005,
+    "returned": 0
   },
   {
     "address": "2T8FDQeyhjgdp4gTnQNZvxy89SZQnodD7w1gBNYcZFmh",
@@ -18554,6 +19022,13 @@
     "remainingToken": 0
   },
   {
+    "address": "9DAxgA6TJWvQf18UtwXkAiCB9FEG8wsonc8cpaJmvLta",
+    "isZeroBalance": true,
+    "lossInSol": 0.33356936352431665,
+    "remainingToken": 1.1329860000000025,
+    "returned": 0
+  },
+  {
     "address": "EHruQnGQcugbZKAucVZQb2WAoiFmqZcD8rzaUoBBhram",
     "lossInSol": 0.33296346859338805,
     "returned": 0,
@@ -18920,6 +19395,13 @@
     "remainingToken": 0
   },
   {
+    "address": "4o2EEEtzEZV5SDouisPJ7BodFTGPkj6Z7WB8KBk7uNXa",
+    "isZeroBalance": true,
+    "lossInSol": 0.3254704220461203,
+    "remainingToken": 0.3228209999999976,
+    "returned": 0
+  },
+  {
     "address": "CGTQbnSUXbRMR8kgix3oujAg5H3V5srYwHaRf5DF7ENF",
     "lossInSol": 0.3249408071867762,
     "returned": 0,
@@ -18978,6 +19460,13 @@
     "lossInSol": 0.32268556083088334,
     "returned": 10.257095,
     "remainingToken": 0
+  },
+  {
+    "address": "HqaWcMYVrqGvaK6xfCqaRWCKDYPxxi6TqHK7xaAPo7qA",
+    "isZeroBalance": true,
+    "lossInSol": 0.3221747746702083,
+    "remainingToken": 0.009712999999997862,
+    "returned": 0
   },
   {
     "address": "7LoHyuXoxmEV3BZupriArBensABfXK2LhwNH8jN7j3Yd",
@@ -19316,6 +19805,13 @@
     "lossInSol": 0.3075111853822966,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "A5n3kd7FtnSdBQ1y9X1CuSttKX71ARRsHnfy6PNKpp5a",
+    "isZeroBalance": true,
+    "lossInSol": 0.30728220178859433,
+    "remainingToken": 0.21927900000000022,
+    "returned": 0
   },
   {
     "address": "EmPBxrEY39q4KEWUcr3AAxiezDHDGbPPPXkGS4oF52K7",
@@ -19893,6 +20389,13 @@
     "lossInSol": 0.2849642913822966,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "7RaLzH87R84hZ91VfvgTpPa175h6c3GonjftSVDbhuti",
+    "isZeroBalance": true,
+    "lossInSol": 0.28471546900000017,
+    "remainingToken": 0.01696300000002842,
+    "returned": 0
   },
   {
     "address": "7m8YvEd9cudw32yYDfyJL82FT7wFqyGi1kAEFD729hiw",
@@ -20629,6 +21132,13 @@
     "remainingToken": 0
   },
   {
+    "address": "2sbNS8xwcZUuVKagbZU1nNNCr6eLB2G78KV6qYGto86x",
+    "isZeroBalance": true,
+    "lossInSol": 0.2593149683421035,
+    "remainingToken": 0.38308500000000123,
+    "returned": 0
+  },
+  {
     "address": "6JyBBEBtxCFYQXEEBPunHseg2UhtqALCtSfjXL3M4o2M",
     "lossInSol": 0.25921222952918654,
     "returned": 0,
@@ -21188,6 +21698,13 @@
     "remainingToken": 0
   },
   {
+    "address": "HAv2rG6bEt3QsKbL3DcyBMLuSJe1R9bwUAYgT19eyJMA",
+    "isZeroBalance": true,
+    "lossInSol": 0.23843707337552966,
+    "remainingToken": 0.019255999999998608,
+    "returned": 0
+  },
+  {
     "address": "CYiY4RKK9wEsa2AkCEJTNsEEmExGfskGjfKvAGbCVESM",
     "lossInSol": 0.23826915418677613,
     "returned": 0,
@@ -21377,6 +21894,13 @@
     "remainingToken": 0
   },
   {
+    "address": "9fniQXHcKqjTbnbRpzvRapeUSfaBZY1oL22yPvWRRSLF",
+    "isZeroBalance": true,
+    "lossInSol": 0.23461069564575787,
+    "remainingToken": 0.0009479999999939537,
+    "returned": 0
+  },
+  {
     "address": "2effJgVBa7V1UimH9m3w9sMzMz5hkfv25XeRmbcp4KWs",
     "lossInSol": 0.23457653976459314,
     "returned": 0,
@@ -21465,6 +21989,13 @@
     "lossInSol": 0.2309300701789908,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "AFN3Hgy7zkHqQf3gfzwtBcqVq6hqiEmhmHUzSFfXg4U5",
+    "isZeroBalance": true,
+    "lossInSol": 0.2309051765888574,
+    "remainingToken": 0.07885699999999785,
+    "returned": 0
   },
   {
     "address": "5rDPvByiBrA3GoqiAYCfGUnYPR9A5j4vb7DqyJ88k3Q6",
@@ -22764,6 +23295,13 @@
     "remainingToken": 0
   },
   {
+    "address": "6huhdyXWk4yUwxTkTT1dNAWFT3faRmoEqaPp2AqmuyPi",
+    "isZeroBalance": true,
+    "lossInSol": 0.19959605956666437,
+    "remainingToken": 0.016835000000000377,
+    "returned": 0
+  },
+  {
     "address": "GWrrHvfZJ768Pt7B8XE1FkuWkpgPtYXpAz4A5zsmaUL4",
     "lossInSol": 0.1995609663822966,
     "returned": 0,
@@ -23028,6 +23566,13 @@
     "remainingToken": 0
   },
   {
+    "address": "3HBLNQBNknXuzhArGEp8S9p4u1GftUBTaWgkkTpJBRGr",
+    "isZeroBalance": true,
+    "lossInSol": 0.1951852967754118,
+    "remainingToken": 0.6076619999999906,
+    "returned": 0
+  },
+  {
     "address": "A2JkfG5gJM8VRAyLsFtct51ebb1uVuXwGBjfkTZ3wLqQ",
     "lossInSol": 0.19473030299999994,
     "returned": 0,
@@ -23068,6 +23613,13 @@
     "lossInSol": 0.1932326980000001,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "CvY6vccEPSaxttnk4iZwvddsPKAgZ6it6YAPdC3RYbdC",
+    "isZeroBalance": true,
+    "lossInSol": 0.19311249345775816,
+    "remainingToken": 0.00348499999999774,
+    "returned": 0
   },
   {
     "address": "4EfC6GuXBmG4nhswyrr6JFJogUVWvPP6gQtz54TqctpZ",
@@ -23249,6 +23801,13 @@
     "lossInSol": 0.19037614414689008,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "EmwDihQNUcMEd4UqPQDZss7AkuewmGzGgCbVkZM3eeqG",
+    "isZeroBalance": true,
+    "lossInSol": 0.19011539174552394,
+    "remainingToken": 0.07674199999999587,
+    "returned": 0
   },
   {
     "address": "SQiRAQS2mX8rgqVjnnUQr4iJw6Md8kGN7V9cuhR14Eq",
@@ -23633,6 +24192,13 @@
     "remainingToken": 0
   },
   {
+    "address": "29MRVLkB992MdszTtvD4enw3j9wo3MtNHXZknBac13hQ",
+    "isZeroBalance": true,
+    "lossInSol": 0.1817646241999762,
+    "remainingToken": 0.0007990000000006603,
+    "returned": 0
+  },
+  {
     "address": "Cc9PbJ9Txb8SKfDB6eiGGkKjytoEVyTtK5jj11UyRhsW",
     "lossInSol": 0.18164173800000022,
     "returned": 0,
@@ -23783,6 +24349,13 @@
     "remainingToken": 0
   },
   {
+    "address": "EDckCQRhWLTkFfd2M8cTew8xeQp2BCjzGVcgFktt88Qu",
+    "isZeroBalance": true,
+    "lossInSol": 0.1775118258263601,
+    "remainingToken": 0.18723599999999863,
+    "returned": 0
+  },
+  {
     "address": "8N7zgc9XyxQd6n4PqyGYbkQa5CDBXNTptaguS21HXtu1",
     "lossInSol": 0.1772643017645933,
     "returned": 0,
@@ -23843,6 +24416,13 @@
     "remainingToken": 0
   },
   {
+    "address": "CvXfP7MLpG4S6fxieX9ZipKF6aQSvmtQDZjXMbAcPpWj",
+    "isZeroBalance": true,
+    "lossInSol": 0.1763857385291865,
+    "remainingToken": 0.182309,
+    "returned": 0
+  },
+  {
     "address": "4ASS89hX21b4YznDFwo911MDQvFUCzCBEZX8Zqa4soZa",
     "lossInSol": 0.17635982292438196,
     "returned": 0,
@@ -23871,6 +24451,13 @@
     "lossInSol": 0.17598046438229664,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "7Xbp9uiYChpCG6fnVqMHsrNYCLnG5gaNDyoYwzkKci7o",
+    "isZeroBalance": true,
+    "lossInSol": 0.1759282811906992,
+    "remainingToken": 0.007388999999996315,
+    "returned": 0
   },
   {
     "address": "GV5ibSRoeggGUXSVyueo6r4qdHMDBiw2hT5WVafx1HkY",
@@ -24075,6 +24662,13 @@
     "lossInSol": 0.1712693617645933,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "mjfgWjXKkSqpSpHTYLP8x3HVMbH7LbnFkePfcw8ZMjH",
+    "isZeroBalance": true,
+    "lossInSol": 0.17116805425490972,
+    "remainingToken": 0.8659180000000006,
+    "returned": 0
   },
   {
     "address": "CuoP4URfQX8HArMZoL3eDKJx8JEx9dFjWypV3bbKYcvg",
@@ -24494,6 +25088,13 @@
     "remainingToken": 0
   },
   {
+    "address": "3umozPeW1ihBgmcxXaFfZUZWwjLmdXDbrW8wGD6xZkfW",
+    "isZeroBalance": true,
+    "lossInSol": 0.15876655999753964,
+    "remainingToken": 0.002365000000011719,
+    "returned": 0
+  },
+  {
     "address": "BzfF88KtvNdY6TTHiv1EMCinyySKTKVUHegYvVwZBk8q",
     "lossInSol": 0.1587024255933881,
     "returned": 0,
@@ -24654,6 +25255,13 @@
     "lossInSol": 0.15332635139008222,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "HUkXVPAh3FSZutX2Vpb9Zxr8twUifDtRS9MyrTwSBMi9",
+    "isZeroBalance": true,
+    "lossInSol": 0.15327958752907794,
+    "remainingToken": 0.09377299999999877,
+    "returned": 0
   },
   {
     "address": "7xtYYs3ZCyZV8dNKLEFcD15YsKuwNj2Fe8iEBYW4nyUV",
@@ -25011,6 +25619,13 @@
     "remainingToken": 0
   },
   {
+    "address": "8Jdg8LNxXeeZdyE57TEKShzGEmyZBHHNF1ir5yADKVRt",
+    "isZeroBalance": true,
+    "lossInSol": 0.14479055578596325,
+    "remainingToken": 0.8639310000000009,
+    "returned": 0
+  },
+  {
     "address": "E1EAoUBitkXUgXQuxts2YQW22a1mZ48i7jBZQTwKciSR",
     "lossInSol": 0.144745834,
     "returned": 0,
@@ -25131,6 +25746,13 @@
     "remainingToken": 0
   },
   {
+    "address": "8zWowzzc44gpmkK2zMjzTzXrbYZddEa9VrUPJ8jBhwZU",
+    "isZeroBalance": true,
+    "lossInSol": 0.14173175627855317,
+    "remainingToken": 0.25477200000000266,
+    "returned": 0
+  },
+  {
     "address": "3Eq4QZwTGGoHZ3xmmDzv8Lw7myTasmTeZHYbb8jn6vo1",
     "lossInSol": 0.14171159876459327,
     "returned": 0,
@@ -25191,6 +25813,13 @@
     "lossInSol": 0.14053753617899067,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "CXo2x4nNQ2UvtNFXEv6tGcGneDBHvWcR96x1QnJpEiJC",
+    "isZeroBalance": true,
+    "lossInSol": 0.1405056839733223,
+    "remainingToken": 0.008856999999999005,
+    "returned": 0
   },
   {
     "address": "EfFRF9cHQLxtmcdtQpPGjV8KyBShEtA3xbTTKV46cST1",
@@ -25751,6 +26380,13 @@
     "remainingToken": 0
   },
   {
+    "address": "AWEccc2EqGXKUiEz8Jh9wobQGFYhq6JFsHMHmKt862qi",
+    "isZeroBalance": true,
+    "lossInSol": 0.13076979997332222,
+    "remainingToken": 0.008856999999999005,
+    "returned": 0
+  },
+  {
     "address": "BMdVgRtPmp1B4r1oZS1bNvEhmJ5JT6xF5oXc63mVHyCA",
     "lossInSol": 0.13070624138229664,
     "returned": 0,
@@ -25773,6 +26409,13 @@
     "lossInSol": 0.13025657979669406,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "3zGZGn4yt6Jaq63BD1GgTDikgDFhXXiaDBw1auSD1Vaw",
+    "isZeroBalance": true,
+    "lossInSol": 0.13002577114442537,
+    "remainingToken": 0.007713999999992893,
+    "returned": 0
   },
   {
     "address": "AqHVmzaxwcTjxDRg1E1SQHHWb9fEBpBijgBfBa6JJruF",
@@ -25967,6 +26610,13 @@
     "lossInSol": 0.12586894042218283,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "8rBVToLrYjocweUTv5TzEYWshDrsPggavsKeLwQLEA1E",
+    "isZeroBalance": true,
+    "lossInSol": 0.12585575142888505,
+    "remainingToken": 0.0015420000000005984,
+    "returned": 0
   },
   {
     "address": "DetdMrXmw7Xz12876ycmWWEoByjq2Jd5nJJWJgPwvPPL",
@@ -26414,6 +27064,13 @@
     "remainingToken": 0
   },
   {
+    "address": "FB9KgjyL2Avns9SsTZMcQ3WpEc85VcuPzDzb3UUw28BR",
+    "isZeroBalance": true,
+    "lossInSol": 0.12035968128665525,
+    "remainingToken": 0.004627999999996746,
+    "returned": 0
+  },
+  {
     "address": "432W63EiQf7xv6BKZmDEAvqjQ1tEgPrCfAgSjGd71Stv",
     "lossInSol": 0.12011609642218285,
     "returned": 0,
@@ -26642,6 +27299,13 @@
     "remainingToken": 0
   },
   {
+    "address": "8QFwD36Mpkr14PyGYPnF8pDm34LToS8wBL8mKqnQ8rkL",
+    "isZeroBalance": true,
+    "lossInSol": 0.11545414658885739,
+    "remainingToken": 0.07885699999999929,
+    "returned": 0
+  },
+  {
     "address": "GizUmxFcR1qWxJjvKzqK5Yutobef4m8QCcR2WGKEJQGv",
     "lossInSol": 0.11541735300000001,
     "returned": 0,
@@ -26700,6 +27364,13 @@
     "lossInSol": 0.11423750638229734,
     "returned": 0,
     "remainingToken": 4.440892098500626e-16
+  },
+  {
+    "address": "C8DCJr2Nq9Et3ATaakTwSooU8mStdQZsxSCS4hoXLEdZ",
+    "isZeroBalance": true,
+    "lossInSol": 0.1142038980673693,
+    "remainingToken": 0.00005699999999819738,
+    "returned": 0
   },
   {
     "address": "CD8Pt2kgNRr5t2xVBrwU1nwoiT7h8DLR8GLcdHKvxDUw",
@@ -27105,6 +27776,13 @@
     "remainingToken": 0
   },
   {
+    "address": "5jxYN5DWV7cvx4GEPXe9D351L3kN7ssbiSmZWAB9RnwK",
+    "isZeroBalance": true,
+    "lossInSol": 0.1070624943394724,
+    "remainingToken": 0.2681590000000007,
+    "returned": 0
+  },
+  {
     "address": "9oUwsXBeH5TtYktkZS6hkN6XsN8qecsQi8duLAhwSKEn",
     "lossInSol": 0.10672688059338814,
     "returned": 0,
@@ -27147,6 +27825,20 @@
     "remainingToken": 0
   },
   {
+    "address": "2AHri8k2L3BzRBVogFHNBVytcq6T7YLpsn1Bj8wZ8XyE",
+    "isZeroBalance": true,
+    "lossInSol": 0.10593076958885739,
+    "remainingToken": 0.07885699999999929,
+    "returned": 0
+  },
+  {
+    "address": "8ZfrLKKj2rHHYMyGd8aykcfhwrZsgmX1mpe5Z54epZpH",
+    "isZeroBalance": true,
+    "lossInSol": 0.10586813797332228,
+    "remainingToken": 0.008856999999999005,
+    "returned": 0
+  },
+  {
     "address": "A3fTbdjtKUPRTyYUvFwcK8nQ9X8kXR5Ci9JA8ZFoLJEd",
     "lossInSol": 0.1056718598173198,
     "returned": 0,
@@ -27157,6 +27849,13 @@
     "lossInSol": 0.10556683579669407,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "D3y4QGTdmPgdKty9KqRFpBjyYYHtzjcYgY47kWenmEjT",
+    "isZeroBalance": true,
+    "lossInSol": 0.10547671697332234,
+    "remainingToken": 0.008856999999999005,
+    "returned": 0
   },
   {
     "address": "EUjzY87Fau2gzPUdiN3n3WFX8QmaSNieFg7omdaT83Xi",
@@ -27325,6 +28024,13 @@
     "lossInSol": 0.1019466443822965,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "2Et9MVpPJubdyRNgaZsJ6JhntcQBJwX6q69abU4ZHcw3",
+    "isZeroBalance": true,
+    "lossInSol": 0.10179999442888507,
+    "remainingToken": 0.0015420000000005984,
+    "returned": 0
   },
   {
     "address": "4nyMkQMi6HXwBjmnu7ToRaQms2rCUhPEnH1VetTTPLms",
@@ -27663,6 +28369,13 @@
     "remainingToken": 0
   },
   {
+    "address": "FC1YuF1hojYjnjxyXhcKWDtQyeJ2dKMqWvEWU3CbUeS4",
+    "isZeroBalance": true,
+    "lossInSol": 0.09776867449219233,
+    "remainingToken": 0.09365699999999855,
+    "returned": 0
+  },
+  {
     "address": "DdcihnFKJSZ22rCPmWBur4yBdjvqmrYZjR8reAeFCrzb",
     "lossInSol": 0.09773684399999993,
     "returned": 0,
@@ -27843,6 +28556,13 @@
     "remainingToken": 0
   },
   {
+    "address": "BF3yr1vww158ZwuRTmthfUcLjNfAxVDe7rRYydskC91s",
+    "isZeroBalance": true,
+    "lossInSol": 0.09579788056140232,
+    "remainingToken": 0.5085820000000005,
+    "returned": 0
+  },
+  {
     "address": "53x57oH4dcM3WtKWuFqrKaUQSqDuFjWhafcWFV1yX1bF",
     "lossInSol": 0.09577997390613252,
     "returned": 0,
@@ -27871,6 +28591,13 @@
     "lossInSol": 0.09532911469504107,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "4SXWUfFbfsGRkYSZ94uu8MumBuXudPesYJgwTyqGPuCJ",
+    "isZeroBalance": true,
+    "lossInSol": 0.09530600821548962,
+    "remainingToken": 0.003129,
+    "returned": 0
   },
   {
     "address": "9FvDitNqC2mWuoRNLhmhU1tyq4toVeqj1x7ZjheVeGVj",
@@ -28176,6 +28903,13 @@
     "remainingToken": 0
   },
   {
+    "address": "9hLudDUwVJ1cmarxTa9iNDHiXoiCrNnoimHRPsuCmSzw",
+    "isZeroBalance": true,
+    "lossInSol": 0.09181797830447724,
+    "remainingToken": 0.00002200000000129876,
+    "returned": 0
+  },
+  {
     "address": "9QNdfM8ATrdf1QoeFx9sCK9KZiD1LTYPKHq2f2ZAAYao",
     "lossInSol": 0.09181795099999746,
     "returned": 0,
@@ -28416,6 +29150,13 @@
     "remainingToken": 0
   },
   {
+    "address": "ETqGqWyht3LRfg7do5pPdKzTodYC2D5mmc3QgA93iyD4",
+    "isZeroBalance": true,
+    "lossInSol": 0.08856210942888507,
+    "remainingToken": 0.0015420000000005984,
+    "returned": 0
+  },
+  {
     "address": "7PLHZz3Zq13THGBGSkLXZPeUD6rpAdrihUX4Do24dgEU",
     "isZeroBalance": true,
     "lossInSol": 0.08848256479679242,
@@ -28547,6 +29288,13 @@
     "lossInSol": 0.08732236000778548,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "BDAH1xBTvBHwxBtYrk87oXNS3uPvPi6wbRR193Kqtg3h",
+    "isZeroBalance": true,
+    "lossInSol": 0.08731455800263105,
+    "remainingToken": 0.03896699999999953,
+    "returned": 0
   },
   {
     "address": "GycXasB3ccHgAUn4yUmr9gfFF3KKoqoEStevH8mrBXkg",
@@ -28789,6 +29537,13 @@
     "remainingToken": 0
   },
   {
+    "address": "4vcSbBn9QQMh4DfcYK4T8ftzhemkWpTgxzy8Kp4CVqfe",
+    "isZeroBalance": true,
+    "lossInSol": 0.08372490044437583,
+    "remainingToken": 0.09999999999999964,
+    "returned": 0
+  },
+  {
     "address": "13KoN7vA3MzP4RDS2rv8cWbPBqvpEupQD9w9oA73ZWh8",
     "lossInSol": 0.08372222942218285,
     "returned": 0,
@@ -28909,6 +29664,13 @@
     "remainingToken": 0
   },
   {
+    "address": "5YjneZ4TdzUybtjZCDsQQcxF5KL3rQZu9yWkrc1P7TER",
+    "isZeroBalance": true,
+    "lossInSol": 0.08165557555855217,
+    "remainingToken": 0.000042000000000541604,
+    "returned": 0
+  },
+  {
     "address": "4yP1mn1JnSJsXCFgUqzaCqYY5kBHvbKBAjrNf2yeFDjV",
     "lossInSol": 0.08164051800778549,
     "returned": 0,
@@ -28961,6 +29723,13 @@
     "lossInSol": 0.08095955577237901,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "CX4LfxDUnzrASnT7EAVxbEheVccQ6Nw64J8VDYKCQfAX",
+    "isZeroBalance": true,
+    "lossInSol": 0.08083434130944905,
+    "remainingToken": 0.4127340000000004,
+    "returned": 0
   },
   {
     "address": "6BXpL9kL7SNsht9Jq5T8ZCfAvCTp9Q5AwSB1vuXEU51h",
@@ -29138,6 +29907,13 @@
     "lossInSol": 0.07812217334693368,
     "returned": 5,
     "remainingToken": 0
+  },
+  {
+    "address": "4xt86srAiGVjEoMundN2wByhYyVeABFYg39UTC193HEc",
+    "isZeroBalance": true,
+    "lossInSol": 0.07810941442888507,
+    "remainingToken": 0.0015420000000005984,
+    "returned": 0
   },
   {
     "address": "2jh1XtCwJjYo514CFtgukLmnbbZPN9fAfFv9q3ebS5uD",
@@ -29432,6 +30208,13 @@
     "lossInSol": 0.07338353200000003,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "2GDqAdaQ8U4Y5sbutHgUTAeZaZcdpRFsofg58KP9ZSga",
+    "isZeroBalance": true,
+    "lossInSol": 0.07334244997363987,
+    "remainingToken": 0.0021740000000001203,
+    "returned": 0
   },
   {
     "address": "6SCCk4qqnd1U17onczqzrLuQiHysaDbWcbkFYJyQWAvc",
@@ -29968,6 +30751,13 @@
     "lossInSol": 0.06675372700000001,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "A9pL2VYDTUC8GEvhSAMJWZ1AFhQLfESppPZ2iXhDxpSy",
+    "isZeroBalance": true,
+    "lossInSol": 0.06672031415798196,
+    "remainingToken": 0.05534799999999862,
+    "returned": 0
   },
   {
     "address": "48dMTkwkynED1L3f24PQ9KB6UF3WLTdBm25BUUeYm1p6",
@@ -30535,6 +31325,13 @@
     "remainingToken": 0
   },
   {
+    "address": "AKetzgT2TcDgtfbkyKB8uKrVCt9gDG6vpboGQ6eqbRXV",
+    "isZeroBalance": true,
+    "lossInSol": 0.06333625533552587,
+    "remainingToken": 0.09577100000000005,
+    "returned": 0
+  },
+  {
     "address": "EpkRw95M2kcaxn75JRvDUeDP3offwSaLxbkeRqpHvpV1",
     "lossInSol": 0.06330148742218286,
     "returned": 0,
@@ -30581,6 +31378,13 @@
     "lossInSol": 0.06279334699999994,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "EyG1miSQ31JpFKwF62jVsf3GtCdS7JTJ7KU2iZRZVtbL",
+    "isZeroBalance": true,
+    "lossInSol": 0.06249888327221863,
+    "remainingToken": 0.003656999999998689,
+    "returned": 0
   },
   {
     "address": "Gp5pwtsqQyGmT5UbMKq9hrmH4SvZtnYd2FwBLPj2xuWb",
@@ -30683,6 +31487,13 @@
     "isZeroBalance": true,
     "lossInSol": 0.06176678017654011,
     "remainingToken": 0.06456399999999984,
+    "returned": 0
+  },
+  {
+    "address": "EyZsodFStE1Dqsr6pfyr1yFsK5md1swyBimaUHpQVMBd",
+    "isZeroBalance": true,
+    "lossInSol": 0.06153980233552587,
+    "remainingToken": 0.09577100000000005,
     "returned": 0
   },
   {
@@ -30822,6 +31633,13 @@
     "lossInSol": 0.060659134211091426,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "DTXZVoipTtA9y1gQWKo2bWX8s5JrSxKVw2p2Jvv6cfBS",
+    "isZeroBalance": true,
+    "lossInSol": 0.06059985901312032,
+    "remainingToken": 0.06456499999999998,
+    "returned": 0
   },
   {
     "address": "DQt5mEJxp1Hw13EgBZruNtRRGKACW34YXxzNP4S17AT2",
@@ -30990,6 +31808,13 @@
     "lossInSol": 0.05879202992539291,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "BXb2KdbuEyFFkm2ucuhu1TmnfZzFvL2uFo3oeWxsv7rs",
+    "isZeroBalance": true,
+    "lossInSol": 0.05869196896219167,
+    "remainingToken": 0.08731399999999923,
+    "returned": 0
   },
   {
     "address": "Gb7Un77gRSxUqKoyhu3gArkrD32cP66XGcQWMZD6N1Xo",
@@ -31256,6 +32081,13 @@
     "lossInSol": 0.055851953211091425,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "ArM7oeraJrt9Jb6BZtVigNoum96ppWAVdPBKB1TSUD5t",
+    "isZeroBalance": true,
+    "lossInSol": 0.05584186611555218,
+    "remainingToken": 0.005771000000000193,
+    "returned": 0
   },
   {
     "address": "AUoG2B6Z4EBS1nypDy6SATwGt37LBTxjKfZtUy5x64mv",
@@ -31787,6 +32619,13 @@
     "remainingToken": 0
   },
   {
+    "address": "8hh64qzJje72pRvUjfR8qabXpd4sYZYTHpTAstdRtsUG",
+    "isZeroBalance": true,
+    "lossInSol": 0.05158930154443725,
+    "remainingToken": 0.007313999999997378,
+    "returned": 0
+  },
+  {
     "address": "8AuNf5RSUwcEqfrfxGSyLxFDkpgTg29TxVTFYqc7mCdx",
     "lossInSol": 0.051506395517415704,
     "returned": 0,
@@ -32107,6 +32946,13 @@
     "remainingToken": 0
   },
   {
+    "address": "6H3BydNyBvMn5qtztgkejHugH6nAun78Yq1DchSpkerV",
+    "isZeroBalance": true,
+    "lossInSol": 0.048302426879800256,
+    "remainingToken": 0.071021,
+    "returned": 0
+  },
+  {
     "address": "8bAyPQtwnnefy3rWdmxMMWFreYNYAq7fgVxWUJhKrhZ6",
     "lossInSol": 0.048295057606228375,
     "returned": 0,
@@ -32147,6 +32993,13 @@
     "lossInSol": 0.04796256121109142,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "2DzFbYCY1dSqJDJo3dn5aZ23S6LN2wTeiudwX17XyGJB",
+    "isZeroBalance": true,
+    "lossInSol": 0.04795081060828718,
+    "remainingToken": 0.00007100000000015427,
+    "returned": 0
   },
   {
     "address": "HXgASE9mGN7Kvaax5NnECXkorsC3ZfedLQzwVG4YStUo",
@@ -32363,6 +33216,13 @@
     "lossInSol": 0.046091230422182855,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "BJ4uXP1io9MEQFLeKTPhyTgyPBY7Au6wXceDC8rWUjvB",
+    "isZeroBalance": true,
+    "lossInSol": 0.0460847224793076,
+    "remainingToken": 0.04539899999999797,
+    "returned": 0
   },
   {
     "address": "4Egy4RgxEXw3wTN9FbKDe4nCHVb9YNrGfzSpfwTtnJMA",
@@ -32833,6 +33693,13 @@
     "remainingToken": 0
   },
   {
+    "address": "9rPZXMPozuapHnvN6nBPaCQucY264jacM1ZXwcFVAnn6",
+    "isZeroBalance": true,
+    "lossInSol": 0.041079143962157456,
+    "remainingToken": 0.21577100000000016,
+    "returned": 0
+  },
+  {
     "address": "4ZNrZvHSybGddLeXKRCr6Lqb71FpwDn6ss6WBrLsZpGs",
     "lossInSol": 0.04106358138229649,
     "returned": 0,
@@ -33168,6 +34035,13 @@
     "lossInSol": 0.03885307300000029,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "3GThBdgP2GF6ba98rqwmgspJhx4QgktCHjeAv1xjWn8R",
+    "isZeroBalance": true,
+    "lossInSol": 0.03883927958771283,
+    "remainingToken": 0.21464299999999525,
+    "returned": 0
   },
   {
     "address": "2Z6vid78N4TZsvCeQ85VBvoEMcTLhhQ9CWZUjybU6NqV",
@@ -34263,6 +35137,13 @@
     "remainingToken": 0
   },
   {
+    "address": "BRe7MAyBdbN2az8GeSPiJctKF1MEDveh1CW7mN6FMo86",
+    "isZeroBalance": true,
+    "lossInSol": 0.03398961556059689,
+    "remainingToken": 0.008615999999999957,
+    "returned": 0
+  },
+  {
     "address": "EC6GpsFPTNP2S7YNCxpVLgGBNyZUFKyUt6dwpFw8PoT2",
     "lossInSol": 0.03396223200000001,
     "returned": 0,
@@ -34587,6 +35468,13 @@
     "remainingToken": 0
   },
   {
+    "address": "AD2TtRmUuwh6DsGCxoCH4sC4DEcRbkLKpM4Lxm7Kpozo",
+    "isZeroBalance": true,
+    "lossInSol": 0.03150661733552587,
+    "remainingToken": 0.09577100000000005,
+    "returned": 0
+  },
+  {
     "address": "4Dmau9NNsQExLAC6vZ5VUuodDUnwpX3d8RCexbohsEqA",
     "lossInSol": 0.03145988400000002,
     "returned": 0,
@@ -34759,6 +35647,13 @@
     "lossInSol": 0.030221577000000003,
     "returned": 0,
     "remainingToken": 8.881784197001252e-16
+  },
+  {
+    "address": "2DPGgm5qjh4o8VL3PC4YVwJjzzvLFvrFbTs4Zrf2VeGx",
+    "isZeroBalance": true,
+    "lossInSol": 0.030218117214442536,
+    "remainingToken": 0.0007710000000002992,
+    "returned": 0
   },
   {
     "address": "BwYevkcZCKuYR7hpxcjd55axgWg8UhAj4hx9MVabVFLj",
@@ -34978,6 +35873,13 @@
     "remainingToken": 0
   },
   {
+    "address": "84G4YdaTDKaybcJdm7zo66nDnf9KC94LTrS9DeDRcTbw",
+    "isZeroBalance": true,
+    "lossInSol": 0.028115497115552182,
+    "remainingToken": 0.005771000000000193,
+    "returned": 0
+  },
+  {
     "address": "DVH3MF4ch3REYThypLMQD9KXbpkTncH4gjErMemZo1Su",
     "lossInSol": 0.028110622796694074,
     "returned": 0,
@@ -35006,6 +35908,13 @@
     "lossInSol": 0.027905945211091424,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "E7xDvpyeCk6tNYtYDfvUJJLVZC2RdHSvHA5xwjsjwC3W",
+    "isZeroBalance": true,
+    "lossInSol": 0.027872011807020466,
+    "remainingToken": 0.019239000000000672,
+    "returned": 0
   },
   {
     "address": "57cW9BMZFr77m8bkh9BUTEiXfU5cHpxBakJhHkJ7eMbC",
@@ -35144,6 +36053,13 @@
     "lossInSol": 0.02688008221109142,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "FGBzZwTviCX7tqTsADQHC84kSURhHFXqDUWTxNihiym4",
+    "isZeroBalance": true,
+    "lossInSol": 0.026863729075006615,
+    "remainingToken": 0.38586600000000004,
+    "returned": 0
   },
   {
     "address": "9u752iMKQd6BBopPsvT6sEfK6yJ8HzyioDQxac1gY5mW",
@@ -35307,6 +36223,13 @@
     "lossInSol": 0.025546623796694035,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "CVz66yw9qJL9EmzkcmuTHZQvJX3vLiyw8qzKfbeyLYk4",
+    "isZeroBalance": true,
+    "lossInSol": 0.025476119081105197,
+    "remainingToken": 0.004054000000000002,
+    "returned": 0
   },
   {
     "address": "AzWCjfkCrigVdKCGjpU1Cs6ysHyJPSkA82yuRSJguDE6",
@@ -35493,6 +36416,13 @@
     "lossInSol": 0.024378680211091422,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "944jhb6sxB7JYLKYDzS93oToB82r2N5hjyYKVGkMu2zz",
+    "isZeroBalance": true,
+    "lossInSol": 0.024348745928665524,
+    "remainingToken": 0.0004619999999997404,
+    "returned": 0
   },
   {
     "address": "AwVE8xwcv812HvNr4jZjgvquFLEwQPb1Zk9VYmK71fba",
@@ -35824,6 +36754,13 @@
     "lossInSol": 0.022116924211091418,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "8ZsJCZPgcDvJ8DUWyYJZQNFWz2Vv1N1MhtSUzgZXHDmj",
+    "isZeroBalance": true,
+    "lossInSol": 0.02207739879466447,
+    "remainingToken": 0.001770999999999745,
+    "returned": 0
   },
   {
     "address": "EooW1VUsRqDaCra25dhYb9WQFvPNJZ1AaD7KrsE1Kqnm",
@@ -38121,6 +39058,13 @@
     "remainingToken": 0
   },
   {
+    "address": "5DE5JJyG7S7htAJQncPtVmJkncU3ZkqTHB1ZqV2zq5KA",
+    "isZeroBalance": true,
+    "lossInSol": 0.00667834326925424,
+    "remainingToken": 0.0777840000000003,
+    "returned": 0
+  },
+  {
     "address": "95xBK3ahkhw6NAhLEsQZw22h4eKhqjAnYNdaNwiruAEZ",
     "lossInSol": 0.0066591180000000055,
     "returned": 0,
@@ -38519,6 +39463,13 @@
     "remainingToken": 0
   },
   {
+    "address": "J338Ntt2fqzFSmoabj2SRPLrEHQgBEBaafD644mFGFB8",
+    "isZeroBalance": true,
+    "lossInSol": 0.004118851424544739,
+    "remainingToken": 0.22476400000000396,
+    "returned": 0
+  },
+  {
     "address": "AeyyH3cTftNKqNpqfMr7rwrgF4kjv4MrbbHLXTPKjbpV",
     "isZeroBalance": true,
     "lossInSol": 0.004010964652824453,
@@ -38853,6 +39804,13 @@
     "remainingToken": 0
   },
   {
+    "address": "AofmqCrQPhCpPnwUrmKFj2w5RMc7nDzEXReAm2iWSfCp",
+    "isZeroBalance": true,
+    "lossInSol": 0.002184795668420697,
+    "remainingToken": 0.07661699999999971,
+    "returned": 0
+  },
+  {
     "address": "CmYRabPYTejfFFxrsLt4v5CF1ZSWjXy5ZJhhpKjZLw8U",
     "isZeroBalance": true,
     "lossInSol": 0.002179943601907597,
@@ -38901,6 +39859,13 @@
     "lossInSol": 0.002028083,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "5NVgrqW7BtDZD6GSr1zjGkbKZDe3GSBZgcEAibL4bMxG",
+    "isZeroBalance": true,
+    "lossInSol": 0.0020269275738173695,
+    "remainingToken": 0.03416600000000125,
+    "returned": 0
   },
   {
     "address": "79R7zPnemf7D3mEa6ick2xDKUGX2LGptEhqFnL51jxGQ",
@@ -39072,6 +40037,13 @@
     "remainingToken": 0
   },
   {
+    "address": "3o2fttzVtHau5WuczWJtcxUJ4uAC3VorXtvWABK4Gojq",
+    "isZeroBalance": true,
+    "lossInSol": 0.0012409109999999834,
+    "remainingToken": 0.2196,
+    "returned": 0
+  },
+  {
     "address": "Ck7pjMt4qV5SaxjEkcswN9mYAVCbbsMgygBrbHKFK5oC",
     "lossInSol": 0.0012389140000000007,
     "returned": 0,
@@ -39185,6 +40157,13 @@
     "lossInSol": 0.0009694340000000051,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "DscHCtXYxPfvquqrXL6FzD2H7Ndhf1Q1qeXhM6iuWXYw",
+    "isZeroBalance": true,
+    "lossInSol": 0.000959462000000022,
+    "remainingToken": 0.000010000000003174137,
+    "returned": 0
   },
   {
     "address": "2oui6zct4ydZwH7v1LNuqu1cEtte1vS2BHqCrj2ZtXGZ",
@@ -39474,10 +40453,24 @@
     "remainingToken": 0
   },
   {
+    "address": "3LnZpg7BBzgDiVSqeH1ci1zCgcA8vbv5c6Ara3BARVWG",
+    "isZeroBalance": true,
+    "lossInSol": 0.00013526571135893603,
+    "remainingToken": 0.00004599999999999049,
+    "returned": 0
+  },
+  {
     "address": "2vLXUywciExHKGT43tC84BoNPBVD85Mwy7dwqjzYtU5r",
     "lossInSol": 0.00013396699999999873,
     "returned": 0,
     "remainingToken": 0
+  },
+  {
+    "address": "FopyHR7YG5GZxG4ucpxkPBKbRw6gCnzzK1dktNqbugP8",
+    "isZeroBalance": true,
+    "lossInSol": 0.00012379399999984386,
+    "remainingToken": 0.010712,
+    "returned": 0
   },
   {
     "address": "Ch2ZV1FaW9Hm7rpXvEMVxuGnVwcx5VMGck7g2ozkL631",
