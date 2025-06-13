@@ -88,10 +88,6 @@
     "lossInSol": 101.31028616811119
   },
   {
-    "address": "6hMneiDXmBWz82SU2P6g6khCUFbnLXhiQMX8rJgxhw3C",
-    "lossInSol": 99.98203423141229
-  },
-  {
     "address": "jTYeHVASPVf4foatjLzsPsMwNF5b7UN7JNApEQT7cHR",
     "lossInSol": 99.00829629283295
   },
@@ -134,6 +130,10 @@
   {
     "address": "BbYBinxJMZZi38aMaL74kwDffrN4ppYeM5mC2rTq3Pxz",
     "lossInSol": 77.93465817755468
+  },
+  {
+    "address": "6ZSQqqK7zfho87bDwPLrwU9hnqyxff58vgcZCGB3hCpH",
+    "lossInSol": 77.47189896313584
   },
   {
     "address": "4g7Em5VamMQNLZaGgTPgWy7fuf514Evsjuv558b6HE6J",
@@ -264,10 +264,6 @@
     "lossInSol": 38.798244275000016
   },
   {
-    "address": "GgT1UtLfAdpmGmVfV5k4G82xB1D3aVDg1y5BMsXgThdu",
-    "lossInSol": 38.54186459493022
-  },
-  {
     "address": "ADQ8hVkZGHJMF9kHuwVJgPCqGVgnfohL4KCahVmCtk13",
     "lossInSol": 38.39965620783293
   },
@@ -294,10 +290,6 @@
   {
     "address": "Gh96fpieELkgqRjtfM2ydEa5aroBQixj35a2FN2zuje7",
     "lossInSol": 37.514155292276435
-  },
-  {
-    "address": "6ZSQqqK7zfho87bDwPLrwU9hnqyxff58vgcZCGB3hCpH",
-    "lossInSol": 37.43076078813584
   },
   {
     "address": "EJBy6AxMtxfX9P3wpDNw3C46TAjQeSbBwYNgVTabhVam",
@@ -616,10 +608,6 @@
     "lossInSol": 18.30900424692419
   },
   {
-    "address": "G88vNR59mYjDMFG1FR9TwGGRNKqQd3NKy33am6R1Ye5C",
-    "lossInSol": 17.995706689135844
-  },
-  {
     "address": "2BfWvx9yiQMRTDWYpmt56Vj1QCwrHGfuvEGqArHrFwvo",
     "lossInSol": 17.948793998556503
   },
@@ -858,6 +846,10 @@
   {
     "address": "2YBeoGE5vaqhpgF4ixCW5fWKzZfX5DNFtEwSR3f4i8fn",
     "lossInSol": 13.13196931645529
+  },
+  {
+    "address": "9zsktTv23Jfs4PSAhNAUPAD8wbGyqishtrK1tx6QG3yJ",
+    "lossInSol": 13.131084199135843
   },
   {
     "address": "C5LtdMWzt34fUcTVFNVPYtGuSgDEuMg3yMsKCx1tqedn",
@@ -1218,10 +1210,6 @@
   {
     "address": "7HpYiR8avu1JsChp1KsTk4QnxmSEyVKGvpbF7zCQMkWh",
     "lossInSol": 9.606386092455288
-  },
-  {
-    "address": "9zsktTv23Jfs4PSAhNAUPAD8wbGyqishtrK1tx6QG3yJ",
-    "lossInSol": 9.494234506394434
   },
   {
     "address": "BNFTAXWQGWX5VCHPe87D4hkK77QcMqPEHxr64brJCJYT",
@@ -4304,10 +4292,6 @@
     "lossInSol": 2.084226823822967
   },
   {
-    "address": "GDAtwgeoSik1aAnqPSehe8mgL4fZRhQmYfyxGw5tZ7tX",
-    "lossInSol": 2.0821475419965436
-  },
-  {
     "address": "xM1nb7fTc4v2vRvqbycphnhoRA66jSimw1ekxuGzn2M",
     "lossInSol": 2.078509718344596
   },
@@ -4318,10 +4302,6 @@
   {
     "address": "7BGHeB49KLPonoM8oqWNEitwDv9RxnwZ3SSxGQsbbs6U",
     "lossInSol": 2.0714436336838618
-  },
-  {
-    "address": "GZM946rirbH1oTx46Ko8XCyqyBRn21JUBdkyBS31uFFR",
-    "lossInSol": 2.0710051211358422
   },
   {
     "address": "6vETcs7aDuJcNb2puMSDGNBfQ5Qaawbx35xriG4YbFU5",
@@ -5336,10 +5316,6 @@
     "lossInSol": 1.601157654043791
   },
   {
-    "address": "FSc7wTQhiwywyd1AFBcXCVq2kaYZoyqaQU6Jo26DHagS",
-    "lossInSol": 1.6007173624185744
-  },
-  {
     "address": "8wh1wNYRyJqV7o8LkeykRymzXnAotHYvAuAGNRaaKdsT",
     "lossInSol": 1.598567821529186
   },
@@ -5406,6 +5382,10 @@
   {
     "address": "wZxJsKj9bHowP9WE6VqFJvb9gKxAJKeWQxiRBmt3dBn",
     "lossInSol": 1.5703199573521531
+  },
+  {
+    "address": "2U6g33Bogp3u8DpQHcsfEtHTWjWRRZwQvioesUK8PBU8",
+    "lossInSol": 1.5694856209999992
   },
   {
     "address": "E8iSaJoFYjfcJ8qYNgmxDz1Tm3MXqZkfpNAz4FchiK8A",
@@ -5540,10 +5520,6 @@
     "lossInSol": 1.4958842130583725
   },
   {
-    "address": "8dXB8n2Qc4HnY1xk4s2He4wtmaumsgBYAo2NKnSCGfDk",
-    "lossInSol": 1.4955016012827322
-  },
-  {
     "address": "s4WhARLEonsT1MiAQPjvk6eTuBZCzGUNDvaR5fysksV",
     "lossInSol": 1.493836533822967
   },
@@ -5676,10 +5652,6 @@
     "lossInSol": 1.4291471969192686
   },
   {
-    "address": "BKRu7LmcpstcYmYLc1T5RYAmuxgii3VPZwHDwdCxCJKD",
-    "lossInSol": 1.4279296986152523
-  },
-  {
     "address": "3WkKZ5nu4pjQWJM3QzenjC45xjhBi5wNov2bq4M1pxs3",
     "lossInSol": 1.425766835058373
   },
@@ -5774,10 +5746,6 @@
   {
     "address": "AV6Wk4vXYDPALjwRrKHkAt3G6i1cYycHY6PBNHHRR4vx",
     "lossInSol": 1.3898747438229662
-  },
-  {
-    "address": "9LGjXs2u3c9sVtaJDm22EzyhyzQoPjvaFJHs4LJWg9EB",
-    "lossInSol": 1.3883417387187826
   },
   {
     "address": "FeBmwQo2e1uEDJPDzASkmmBgZnzFDisLSnsQAnp41Trn",
@@ -6440,10 +6408,6 @@
     "lossInSol": 1.14716164629378
   },
   {
-    "address": "APkGv3PxJWbTNc7x5mPGUhNdnq95HH4p2qzxBMj3fjYY",
-    "lossInSol": 1.1469703999092655
-  },
-  {
     "address": "GGrsSwtiTmXJqYEN239kSLSQFfQtsZvn4dwiaFDFrybm",
     "lossInSol": 1.1466231534106788
   },
@@ -6984,10 +6948,6 @@
     "lossInSol": 0.9955699639004355
   },
   {
-    "address": "2rUowHmsH8uvAWWaaqCnprqpWmEF9ssZKWThFz7tPAu7",
-    "lossInSol": 0.9955699639004355
-  },
-  {
     "address": "CMRNwkokuc3MTzyuyH4i8BFe4mbT2G8KCpdGu947xGrw",
     "lossInSol": 0.9951486215875605
   },
@@ -7244,6 +7204,10 @@
     "lossInSol": 0.9555336465950677
   },
   {
+    "address": "CXeDRAoFzwTKC44MMRTrHXTjyxxFE4FzVU8FbviCD8g6",
+    "lossInSol": 0.9549305245181389
+  },
+  {
     "address": "7RL7NpQobzUDfCSKdQ8gY72vTtWbBFNtnQEPAzpBk51K",
     "lossInSol": 0.9545136234689005
   },
@@ -7474,10 +7438,6 @@
   {
     "address": "CFmr5rvSrHTeRYHvhiSsBjt5EE8rbxXeqDtCKZNLzepw",
     "lossInSol": 0.9059420519999968
-  },
-  {
-    "address": "5zf7uryG7jXMEnKvSM2WmmHcJu3Q2fXBpUjZkE7XC2Xr",
-    "lossInSol": 0.9059336397874573
   },
   {
     "address": "3LRAtufczTNqwf4sPg9nhEZGFt8L4ZWK6pk9S9sAHpHg",
@@ -8580,10 +8540,6 @@
     "lossInSol": 0.6959851547723789
   },
   {
-    "address": "FKtUndJ7nrtLD8dENaiSYPScxsUJniKvuwykYtrL9Mhk",
-    "lossInSol": 0.6956109709403219
-  },
-  {
     "address": "5DdzjESZB2gUWm9UMrGur2hR6Cp5MC82CS43H4GgKVrR",
     "lossInSol": 0.6953796058740317
   },
@@ -9684,10 +9640,6 @@
     "lossInSol": 0.5760618419500172
   },
   {
-    "address": "CXeDRAoFzwTKC44MMRTrHXTjyxxFE4FzVU8FbviCD8g6",
-    "lossInSol": 0.5747337745181389
-  },
-  {
     "address": "HbcovarPEW7yTAJpcPz9EePXaoDPWfEyTmgzoc9VNhZa",
     "lossInSol": 0.5741324193579814
   },
@@ -9766,6 +9718,10 @@
   {
     "address": "BZdYmSWVvx46Kx8XrAqR5Msv1heAgrDQESqnVtCNJGN9",
     "lossInSol": 0.56511138814689
+  },
+  {
+    "address": "AX3T4kRiV9Jp6cVYAoFV6gJfijwXtzEATHfKVAvgBt4X",
+    "lossInSol": 0.5644353185291862
   },
   {
     "address": "Gi6DAihzM43tmmkQGJmUV68MBftKnQG6KfFYSPso9BFz",
@@ -10014,6 +9970,10 @@
   {
     "address": "3hTqSbuDokWTLoVCq6dTX5GZFtFP6vNyMjH5zzJgPibq",
     "lossInSol": 0.5346811271468899
+  },
+  {
+    "address": "E7hpC4tMjYMmMSFPGmRuaRf6xRTZKKPRibSL1JHgZ92m",
+    "lossInSol": 0.5344314235291874
   },
   {
     "address": "9T1jZU7VbVo24m4pQeWmAm7fN9e1wpqQD3AJR2LCbujz",
@@ -10400,18 +10360,6 @@
     "lossInSol": 0.49591721152918655
   },
   {
-    "address": "5DoqpsUv2A8ecUcFaMGRzKr1sKwEbAPR41ZESBPcEBT6",
-    "lossInSol": 0.4956383265181388
-  },
-  {
-    "address": "CEQCFMNRS2mCED3CPz9sc4ReaWhgxA3xkJs5kzCdWW87",
-    "lossInSol": 0.4956383265181388
-  },
-  {
-    "address": "xge6pzVtfpfPfTXvkbrLKUTBVdvWzF9eGDkCzfiGYxF",
-    "lossInSol": 0.4956383265181388
-  },
-  {
     "address": "3fJbTX3D5dbwMVD9A6CsYrqGCxz8f1Ap2xijNy3MkSKq",
     "lossInSol": 0.49546040652918655
   },
@@ -10538,10 +10486,6 @@
   {
     "address": "CgxTSBANZth7u2bXqi3TEJLMjJMHVd9xsbwZJiBbnnr7",
     "lossInSol": 0.48534830500000015
-  },
-  {
-    "address": "BJiBNZAumZBJ5XYRjYsEDGkq4wPD1eem4DgYaYavP84X",
-    "lossInSol": 0.4852166891358422
   },
   {
     "address": "29ZWNzgfe4KajdQ4siZJXps2tmbnz3LKnFShyAt4mE5g",
@@ -13860,6 +13804,10 @@
     "lossInSol": 0.2696023657645932
   },
   {
+    "address": "9adoShXttumQqaLbQkzkX5PaXerTAVHynVtcEwM3fHTp",
+    "lossInSol": 0.26944672113584217
+  },
+  {
     "address": "6G3gaD63pymtLPYBkJaDXe5c8ANsyPPzWzkunmtFFqqs",
     "lossInSol": 0.2693842861167459
   },
@@ -15624,18 +15572,6 @@
     "lossInSol": 0.19570668913584224
   },
   {
-    "address": "5z5k81SSMJJ1XoGNqGK2vvokw7MhsofCdRs4WzkH425P",
-    "lossInSol": 0.19567933355802508
-  },
-  {
-    "address": "8xAFBerCiySFTrpSheKsarcv71sSbtp27X2mgiJyrv8",
-    "lossInSol": 0.19567933355802508
-  },
-  {
-    "address": "7yYgUYTwhfa8UrJ9bTfn4XDWnR5qD7aKLXFgo5jyrFgv",
-    "lossInSol": 0.19567933355802508
-  },
-  {
     "address": "Ee77jJ5aHrCuExnHVNZuWCdaXhGCc7bhJMa9FXEUSh7m",
     "lossInSol": 0.19562812376459326
   },
@@ -17292,10 +17228,6 @@
     "lossInSol": 0.13593453238229664
   },
   {
-    "address": "E7hpC4tMjYMmMSFPGmRuaRf6xRTZKKPRibSL1JHgZ92m",
-    "lossInSol": 0.13573350252918748
-  },
-  {
     "address": "2xLuft3D1oiNq3q4ino2HsXuSrYSb4PoHTQQoP9PixLx",
     "lossInSol": 0.13567485342218283
   },
@@ -18180,6 +18112,10 @@
     "lossInSol": 0.11406797542218285
   },
   {
+    "address": "HEvz9USQrK5hq6f3e4kn5ahTgBDr5jTqHmbAhGR5bkPM",
+    "lossInSol": 0.11385543600000003
+  },
+  {
     "address": "C1qTQoGSt16GyKaDLFcLubz5kbfFGTdpSSiQSwVdQGrb",
     "lossInSol": 0.11380691942218285
   },
@@ -18592,6 +18528,10 @@
     "lossInSol": 0.10264857060622837
   },
   {
+    "address": "1341aRAt3uaYTtxib5tG6zfCJbNYbUGHZtcFU5TUybQx",
+    "lossInSol": 0.10235173499999917
+  },
+  {
     "address": "CLHAPURVnzw262DcNuMbEt1MCVTfiXLVRLsrAeiDBES8",
     "lossInSol": 0.10216247799999999
   },
@@ -18965,14 +18905,6 @@
   },
   {
     "address": "Gm4GJCFTd81tZnzh7pppLNfX5wT1hUcxbouMeb8UGRzA",
-    "lossInSol": 0.09569301134693366
-  },
-  {
-    "address": "B1tXcYKfAN68CtL7RUgUNRChAp86BTDU9VdruZsd7sq1",
-    "lossInSol": 0.09569301134693366
-  },
-  {
-    "address": "3njEc9zTHJWczqgz3NWSzpxhGEMGCCqJpZCQQ4vRmRxh",
     "lossInSol": 0.09569301134693366
   },
   {
@@ -20178,6 +20110,10 @@
   {
     "address": "94JRVVm3qwonXAU7YEaJR3DKpUKGFguAjE1hm3RkMXem",
     "lossInSol": 0.07072259152918647
+  },
+  {
+    "address": "4LtwJaVE9rbEMskCPBYPieqGMNM7GNGxxdTMgS8KKJWN",
+    "lossInSol": 0.07068648876459316
   },
   {
     "address": "2qDmZjDsmyc6CBC3XiyCdVG9g7ZXvkUwd3fg342TQQWM",
@@ -25152,10 +25088,6 @@
     "lossInSol": 0.015905886646742
   },
   {
-    "address": "3i51cKbLbaKAqvRJdCUaq9hsnvf9kqCfMujNgFj7nRKt",
-    "lossInSol": 0.015886102051382023
-  },
-  {
     "address": "89xoiXXtXbSJ3eiwiJx2XcA6LAiyrKjp4Y4AisdggCKx",
     "lossInSol": 0.0158180104015571
   },
@@ -25414,6 +25346,10 @@
   {
     "address": "6hyFg5XpeGKZUgiAcqFrc48UXPMhnra4rZrQZrXtKncn",
     "lossInSol": 0.013277627428602994
+  },
+  {
+    "address": "3FqfeYCdajVGbgSkqfGE8eS6ej3EZbshSeBEagqhjrfc",
+    "lossInSol": 0.01324014999999995
   },
   {
     "address": "9GGaWFKbMSSFUZJJCDjPD44fRWfsW3mYXGEn9khUn1rG",
@@ -25816,10 +25752,6 @@
     "lossInSol": 0.00829175700000001
   },
   {
-    "address": "AX3T4kRiV9Jp6cVYAoFV6gJfijwXtzEATHfKVAvgBt4X",
-    "lossInSol": 0.008283799529186009
-  },
-  {
     "address": "78eQ5WdJrTpQ1YLtqRbzDi8PmaYA3aTX8EbGpoPW8NRF",
     "lossInSol": 0.00828165552383582
   },
@@ -25862,6 +25794,10 @@
   {
     "address": "3ARd19c9A7uvYZk7ZRHQQVdf1qnRc4JGqvhtDuVLaqML",
     "lossInSol": 0.007789669847015068
+  },
+  {
+    "address": "9vCE6cDNg2YV7NPtvpknkV1Rveunavb8KByp2pUyRkSp",
+    "lossInSol": 0.007627764000001369
   },
   {
     "address": "EymLALFKpwQhpLFDdEDmXsVdsWkzpaqbMDjgas8SWisi",
@@ -26192,6 +26128,10 @@
     "lossInSol": 0.004118851424544739
   },
   {
+    "address": "CwzK81xQTXW9MQhoPmSYtjzVzpYCk7gTcZhiqYD191qj",
+    "lossInSol": 0.004042384999999954
+  },
+  {
     "address": "AeyyH3cTftNKqNpqfMr7rwrgF4kjv4MrbbHLXTPKjbpV",
     "lossInSol": 0.004010964652824453
   },
@@ -26508,6 +26448,10 @@
     "lossInSol": 0.0016526781314918286
   },
   {
+    "address": "DYVBZGPJV6gW7AFWRvUiYRfvadSNsAtwKRUqT9JZUbvE",
+    "lossInSol": 0.0016217899999998488
+  },
+  {
     "address": "5icesWMZKGEr6iaiJ2XtTZrkXFW5EADdxbPWrYBY15bf",
     "lossInSol": 0.001607365999999999
   },
@@ -26806,6 +26750,10 @@
   {
     "address": "Cg6SQXhboS5jszurvw6MTgNxqxLZr8GDEWHPZqrymnF5",
     "lossInSol": 0.00026624000000000005
+  },
+  {
+    "address": "D6y9RsZ6yRcmFM4Sb1wArWqBYVAWDBdK7p7CBorYmf9g",
+    "lossInSol": 0.00024679300000000556
   },
   {
     "address": "Bi2fagHGjDEJCqbNjcxEByzYoshUTtU38VeK45wiJUeh",
