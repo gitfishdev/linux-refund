@@ -1,0 +1,186 @@
+[
+  {
+    "address": "6hMneiDXmBWz82SU2P6g6khCUFbnLXhiQMX8rJgxhw3C",
+    "claimed": 7595.771405,
+    "bought": 0,
+    "returned": 7595.771405,
+    "refund": 99.98632754227644,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "GgT1UtLfAdpmGmVfV5k4G82xB1D3aVDg1y5BMsXgThdu",
+    "claimed": 0,
+    "bought": 3472.206005,
+    "returned": 3467.642113,
+    "refund": 38.600187606,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "G88vNR59mYjDMFG1FR9TwGGRNKqQd3NKy33am6R1Ye5C",
+    "claimed": 0,
+    "bought": 1793.713116,
+    "returned": 1793.713116,
+    "refund": 18,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "GZM946rirbH1oTx46Ko8XCyqyBRn21JUBdkyBS31uFFR",
+    "claimed": 0,
+    "bought": 317.539766,
+    "returned": 317.539766,
+    "refund": 2.0752984320000003,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "52xXdiYj42hNp7JchePviCkM4rNCaWXyUWWgUwrwNoZE",
+    "claimed": 151.915428,
+    "bought": 0,
+    "returned": 151.915428,
+    "refund": 1.9997265495291865,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "FSc7wTQhiwywyd1AFBcXCVq2kaYZoyqaQU6Jo26DHagS",
+    "claimed": 113.936571,
+    "bought": 16.427109,
+    "returned": 130.36368,
+    "refund": 1.6093039841468901,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "8dXB8n2Qc4HnY1xk4s2He4wtmaumsgBYAo2NKnSCGfDk",
+    "claimed": 113.936571,
+    "bought": 0,
+    "returned": 113.936571,
+    "refund": 1.49979491214689,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "CLfd43onD4AW7EBN8KwaubLHDSBHG2VmMu7vmEWLC2Zw",
+    "claimed": 75.957714,
+    "bought": 0,
+    "returned": 75.957714,
+    "refund": 0.9998632747645932,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "2rUowHmsH8uvAWWaaqCnprqpWmEF9ssZKWThFz7tPAu7",
+    "claimed": 75.957714,
+    "bought": 0,
+    "returned": 75.957714,
+    "refund": 0.9998632747645932,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "FKtUndJ7nrtLD8dENaiSYPScxsUJniKvuwykYtrL9Mhk",
+    "claimed": 53.170399,
+    "bought": 0,
+    "returned": 53.170399,
+    "refund": 0.6999042818044796,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "FjZHGEUvhpoh2xqbD8ihBaA5Fpe7sVCU442zkVKjdFi7",
+    "claimed": 37.978857,
+    "bought": 42.865029,
+    "returned": 80.843886,
+    "refund": 0.6499316373822966,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "4ycKz4ZPpu6n77X9F5tmG4bGnzgpp8iJr6PTTfmEWX1a",
+    "claimed": 37.978857,
+    "bought": 13.561786,
+    "returned": 51.540643,
+    "refund": 0.5599316373822967,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "FMNbvgmADbzZ4BZge8CSotLwvvgDLRvyTod3P1yRj8eu",
+    "claimed": 0,
+    "bought": 139.122884,
+    "returned": 139.122884,
+    "refund": 0.5,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "5DoqpsUv2A8ecUcFaMGRzKr1sKwEbAPR41ZESBPcEBT6",
+    "claimed": 37.978857,
+    "bought": 0,
+    "returned": 37.978857,
+    "refund": 0.4999316373822966,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "CEQCFMNRS2mCED3CPz9sc4ReaWhgxA3xkJs5kzCdWW87",
+    "claimed": 37.978857,
+    "bought": 0,
+    "returned": 37.978857,
+    "refund": 0.4999316373822966,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "xge6pzVtfpfPfTXvkbrLKUTBVdvWzF9eGDkCzfiGYxF",
+    "claimed": 37.978857,
+    "bought": 0,
+    "returned": 37.978857,
+    "refund": 0.4999316373822966,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "BJiBNZAumZBJ5XYRjYsEDGkq4wPD1eem4DgYaYavP84X",
+    "claimed": 0,
+    "bought": 46.457188,
+    "returned": 46.457188,
+    "refund": 0.48951,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "5z5k81SSMJJ1XoGNqGK2vvokw7MhsofCdRs4WzkH425P",
+    "claimed": 15.191542,
+    "bought": 0,
+    "returned": 15.191542,
+    "refund": 0.19997264442218285,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "8xAFBerCiySFTrpSheKsarcv71sSbtp27X2mgiJyrv8",
+    "claimed": 15.191542,
+    "bought": 0,
+    "returned": 15.191542,
+    "refund": 0.19997264442218285,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "7yYgUYTwhfa8UrJ9bTfn4XDWnR5qD7aKLXFgo5jyrFgv",
+    "claimed": 15.191542,
+    "bought": 0,
+    "returned": 15.191542,
+    "refund": 0.19997264442218285,
+    "tx": "z2PVmrMeEGX7nnndrNmPUg7EVz2vwWAnmSSrEsXGJq3ihD4aVBjDucZc7N2XQq5qsvG8H6YStFHD1HeVi3rgXhP"
+  },
+  {
+    "address": "B1tXcYKfAN68CtL7RUgUNRChAp86BTDU9VdruZsd7sq1",
+    "claimed": 7.595771,
+    "bought": 0,
+    "returned": 7.595771,
+    "refund": 0.09998632221109142,
+    "tx": "2D4ekTGAdwkiY8P7PjyXKqi638N9gvyYUEraBDkhhmFyXdqd731rCbeCVe6fdKPMtXuWbnBC1eUawqRAodkpdQUw"
+  },
+  {
+    "address": "3njEc9zTHJWczqgz3NWSzpxhGEMGCCqJpZCQQ4vRmRxh",
+    "claimed": 7.595771,
+    "bought": 0,
+    "returned": 7.595771,
+    "refund": 0.09998632221109142,
+    "tx": "2D4ekTGAdwkiY8P7PjyXKqi638N9gvyYUEraBDkhhmFyXdqd731rCbeCVe6fdKPMtXuWbnBC1eUawqRAodkpdQUw"
+  },
+  {
+    "address": "GY6SnHJji2hh76NkmcbRxd6BwUWmAGmZds5gD36tbuaV",
+    "claimed": 2.278731,
+    "bought": 0,
+    "returned": 2.278731,
+    "refund": 0.029995892714301496,
+    "tx": "2D4ekTGAdwkiY8P7PjyXKqi638N9gvyYUEraBDkhhmFyXdqd731rCbeCVe6fdKPMtXuWbnBC1eUawqRAodkpdQUw"
+  }
+]
