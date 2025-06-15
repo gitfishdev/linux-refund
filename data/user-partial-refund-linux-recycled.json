@@ -3144,10 +3144,6 @@
     "lossInSol": 3.0397460170340582
   },
   {
-    "address": "8QBArVukjjhPwGRamf4xvgg6ngLbsSvdxUXYAB66znEX",
-    "lossInSol": 3.035291037048691
-  },
-  {
     "address": "CA3989MEGBnV1HcdDfPFRQUfqSSqWHWe6DUxWsPzqeVU",
     "lossInSol": 3.0351126563521533
   },
@@ -3218,10 +3214,6 @@
   {
     "address": "5UhjK9DsRnsVBF76cZdCsNirEHBk1si5WetnwUSCNyzS",
     "lossInSol": 2.9974211322181032
-  },
-  {
-    "address": "D9FggDGfk8oJsfg4FUhj9s5CBuHRDt1P1ZsXjsmx8aFs",
-    "lossInSol": 2.9952965134296226
   },
   {
     "address": "GuCBsEaGWCqYCyR5fHeQHFZtQ7CmuWiAJEFuVB2mSm1K",
@@ -6250,6 +6242,10 @@
   {
     "address": "E6qsjWV3FZoyMPFzJJGT1EDFscpqm7gfeAoh1xsxSnV3",
     "lossInSol": 1.2077831977808513
+  },
+  {
+    "address": "4fps6R7mZemXQyHy5eSTZsFR7Qy6vNB88qM6ksjG16KH",
+    "lossInSol": 1.2068541286617664
   },
   {
     "address": "6ZaSwHuyxYr3QJ4ce23zWBgBzuz2iJzJAUoEdzqnTC2A",
