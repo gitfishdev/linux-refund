@@ -10,5 +10,17 @@
     "note": "https://x.com/mohsen2015349/status/1932972598700487070. Sent to the user's designated new address.",
     "refund": 9,
     "tx": "4cvffXN7noeQUFH4oMKTFJzJ9F2PhapvVfzzyndvLixbZF8C57csd41W23eQgE18f8y5gKjrJXj21ASytUwmMSCa"
+  },
+  {
+    "address": "AFGz7fxJCHZAarx4Tu6Peg7gRvtJsHjs5fyVbRWimXkz",
+    "note": "UniversalX off-the-curve address (test transaction)",
+    "refund": 0.00690340579593,
+    "tx": "2c3yoo97kRSQ5vfA1TNm8cTDSfbrvFfpsJWHt3fkRpTrZexvuQdqNKvpDycN29DiTrRh63soqTshk87Scvv44qtq"
+  },
+  {
+    "address": "AFGz7fxJCHZAarx4Tu6Peg7gRvtJsHjs5fyVbRWimXkz",
+    "note": "UniversalX off-the-curve address (sent over the rest)",
+    "refund": 24.24,
+    "tx": "3e6UqHFRVd7HP9JrzNxdu5T9NtkEMTgmJQ9UsYPqHwsCB2oYUbDy4Kxxfsc4Hk4GN6MY4s6dfRRpW75y89jFveua"
   }
 ]
