@@ -1,0 +1,66 @@
+[
+  {
+    "address": "Du7CpgSLmHKHvtB7qbnZz4HMPJS4K5vEWVBRVpxs4TQf",
+    "claimed": 113.936571,
+    "bought": 0,
+    "returned": 113.936571,
+    "refund": 1.49979491214689,
+    "tx": "2oCJwL5PXK1RSVqW7Zm52fT9gzz6ghdXKeyLjmvCX3fZem4o6fYhM9q5cDM71TwXDZEQr9nbX6kyuEAgGgWvah3N"
+  },
+  {
+    "address": "5nTjx4FsTngozYn9CLKLHDTBRrhCE9FJ8Kx38FPEKnTA",
+    "claimed": 75.957714,
+    "bought": 0,
+    "returned": 75.957714,
+    "refund": 0.9998632747645932,
+    "tx": "2oCJwL5PXK1RSVqW7Zm52fT9gzz6ghdXKeyLjmvCX3fZem4o6fYhM9q5cDM71TwXDZEQr9nbX6kyuEAgGgWvah3N"
+  },
+  {
+    "address": "5Cf55qTR4Z16xmkUDK2szcFFTNqZjQRXS4upAB9xeozW",
+    "claimed": 68.361942,
+    "bought": 0,
+    "returned": 68.361942,
+    "refund": 0.8998769393900822,
+    "tx": "2oCJwL5PXK1RSVqW7Zm52fT9gzz6ghdXKeyLjmvCX3fZem4o6fYhM9q5cDM71TwXDZEQr9nbX6kyuEAgGgWvah3N"
+  },
+  {
+    "address": "CN3q2jad2VrN1A9hpHX9yy2676zPTsuL9CHfvfGTQyMD",
+    "claimed": 37.978857,
+    "bought": 0,
+    "returned": 37.978857,
+    "refund": 0.4999316373822966,
+    "tx": "2oCJwL5PXK1RSVqW7Zm52fT9gzz6ghdXKeyLjmvCX3fZem4o6fYhM9q5cDM71TwXDZEQr9nbX6kyuEAgGgWvah3N"
+  },
+  {
+    "address": "FkMWqrRpB8BEBTXQptciMRA2EfWBBCjk7EE4G6swzujk",
+    "claimed": 0,
+    "bought": 50.226401,
+    "returned": 2,
+    "refund": 0.464609363,
+    "tx": "2oCJwL5PXK1RSVqW7Zm52fT9gzz6ghdXKeyLjmvCX3fZem4o6fYhM9q5cDM71TwXDZEQr9nbX6kyuEAgGgWvah3N"
+  },
+  {
+    "address": "2SLnG3x8SMFwv1p2a4VnsJ6oNar3PpY6LHoepc796Fjt",
+    "claimed": 0,
+    "bought": 61.519206,
+    "returned": 61.519206,
+    "refund": 0.44999999999999996,
+    "tx": "2oCJwL5PXK1RSVqW7Zm52fT9gzz6ghdXKeyLjmvCX3fZem4o6fYhM9q5cDM71TwXDZEQr9nbX6kyuEAgGgWvah3N"
+  },
+  {
+    "address": "UVXV1BHPQFBfDS1tSVb48kXFMkeZ7ojfFkfsVFEAgyE",
+    "claimed": 0,
+    "bought": 21.607707,
+    "returned": 21.607707,
+    "refund": 0.2,
+    "tx": "2oCJwL5PXK1RSVqW7Zm52fT9gzz6ghdXKeyLjmvCX3fZem4o6fYhM9q5cDM71TwXDZEQr9nbX6kyuEAgGgWvah3N"
+  },
+  {
+    "address": "54zZpNmH9o4B8BDDeZu4ChFJtBp3aW4mc5R4ztr4hpWd",
+    "claimed": 7.595771,
+    "bought": 0,
+    "returned": 7.595771,
+    "refund": 0.09998632221109142,
+    "tx": "2oCJwL5PXK1RSVqW7Zm52fT9gzz6ghdXKeyLjmvCX3fZem4o6fYhM9q5cDM71TwXDZEQr9nbX6kyuEAgGgWvah3N"
+  }
+]
