@@ -22,5 +22,11 @@
     "note": "UniversalX off-the-curve address (sent over the rest)",
     "refund": 24.24,
     "tx": "3e6UqHFRVd7HP9JrzNxdu5T9NtkEMTgmJQ9UsYPqHwsCB2oYUbDy4Kxxfsc4Hk4GN6MY4s6dfRRpW75y89jFveua"
+  },
+  {
+    "address": "BV7vNWuNbFzfK6vPxxbhBjjL8qiE7wUjTtA6Sgc4a8dz",
+    "note": "During auction, the user sent fund to a program PDA and got their fund stuck: H8tzEaaPmGjErjgJRqG1c7tMoYqSEsDwgZYbFYbzc3GGqrkBvk72sRRy7B8qxivsmL2RXYdJjfTf51ttgrziWqv",
+    "refund": 1.5,
+    "tx": "2VCpa4DG5KvauVBwkjnC81tHF5PpqQTQkSPZwoevpFhvkQkWC2mFzTj6aS4eTfrej777vzDWWKkCPAgBDpUVL27r"
   }
 ]
