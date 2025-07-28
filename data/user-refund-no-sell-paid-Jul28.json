@@ -1,0 +1,18 @@
+[
+  {
+    "address": "6ouGjwJpSTcUGSPmNV49QLbnU8cV3eU5KdQBjCTgABzm",
+    "claimed": 0,
+    "bought": 110.530388,
+    "returned": 110.530388,
+    "refund": 0.5,
+    "tx": "5Sdov28ksxDqGShZYQF98RrmqsHWHUJeJxkPXvZxWkeRvBM5fnmpk6USg8y4XKF4G3zcejY1tigXJPAugfnHbqyo"
+  },
+  {
+    "address": "GnFDSBxqorrvuu8iVLtGdBKXkXasQdeWYspiS7vMMTG8",
+    "claimed": 37.978857,
+    "bought": 0,
+    "returned": 37.978857,
+    "refund": 0.4999316373822966,
+    "tx": "5Sdov28ksxDqGShZYQF98RrmqsHWHUJeJxkPXvZxWkeRvBM5fnmpk6USg8y4XKF4G3zcejY1tigXJPAugfnHbqyo"
+  }
+]
