@@ -14,5 +14,13 @@
     "returned": 37.978857,
     "refund": 0.4999316373822966,
     "tx": "5Sdov28ksxDqGShZYQF98RrmqsHWHUJeJxkPXvZxWkeRvBM5fnmpk6USg8y4XKF4G3zcejY1tigXJPAugfnHbqyo"
+  },
+  {
+    "address": "55zTkast1PWXiJwaP18i61TmJTLDdtqMoPbiQP6Y6jcv",
+    "claimed": 75.957714,
+    "bought": 0,
+    "returned": 75.957714,
+    "refund": 0.9998632747645932,
+    "tx": "5ZE2BDeF1FokwLYqu8CneeMWoErmq1pbTKdBcegW7c4wJckQNciSuV5P3uACSbJ1obGihYkptZpDcJ7m3GF1vTt5"
   }
 ]
